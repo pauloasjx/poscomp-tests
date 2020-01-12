@@ -1,0 +1,2235 @@
+POSCOMP 2009
+
+Questão 1. [MAT]
+
+Seja F uma transformação linear de R? em R? que transforma o vetor genérico
+(x,7)” em (y,x)”. Seja A a matriz associada a F e seja B a matriz associada a Ft a
+transformação inversa de F.
+
+Considere as seguintes afirmativas:
+
+“01
+
+B=h o
+
+I. A= —-B
+HI. A transformação linear G que transforma o vetor genérico (x,y)” em
+
+(0,y)” não possui transformação inversa.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa 1 é CORRETA.
+B) Apenas a afirmativa Il é FALSA.
+
+C) Apenas a afirmativa II é CORRETA.
+D) Todas as afirmativas são corretas.
+
+E) Todas as afirmativas são falsas.
+
+Questão 2. [MAT]
+
+Dadas as matrizes 4 = [5 ‘I B= [> . eC= [: 5) o resultado de
+
+AXB+CTé:
+20 25
+ols 3
+2»
+Ole
+D [4 a8
+
+E) Nenhuma das respostas anteriores.
+
+Questão 3. [MAT]
+
+Se (x mod 7 = 3) e (xmod5=1), onde x>0, qual o menor valor inteiro
+possivel para x?
+
+A) 17
+
+B) 25
+
+C) 31
+
+D) Existe um valor inteiro para x, que é diferente dos anteriores.
+E) Não existe um valor inteiro para x.
+
+Página 2 de 36
+
+POSCOMP 2009
+
+Questão 1. [MAT]
+
+Seja F uma transformação linear de R? em R? que transforma o vetor genérico
+(x,7)” em (y,x)”. Seja A a matriz associada a F e seja B a matriz associada a Ft a
+transformação inversa de F.
+
+Considere as seguintes afirmativas:
+
+IL B
+
+I. A= —-B
+HI. A transformação linear G que transforma o vetor genérico (x,y)” em
+
+=[ 1
+10
+
+(0,y)” não possui transformação inversa.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa 1 é CORRETA.
+B) Apenas a afirmativa Il é FALSA.
+
+C) Apenas a afirmativa II é CORRETA.
+D) Todas as afirmativas são corretas.
+
+E) Todas as afirmativas são falsas.
+
+Questão 2. [MAT]
+
+Dadas as matrizes 4 = [5 ‘I B= [> . eC= [: 5) o resultado de
+
+24
+D) [5a ag]
+E) Nenhuma das respostas anteriores.
+
+AXB+CTé:
+20 25
+ols 3
+» las 50
+C) le 52
+
+39
+
+Questão 3. [MAT]
+
+Se
+
+(x mod 7 = 3) e (x mod5=1), onde x>0, qual o menor valor inteiro
+
+possivel para x?
+
+A) 17
+
+B) 25
+
+C) 31
+
+D) Existe um valor inteiro para x, que é diferente dos anteriores.
+E) Não existe um valor inteiro para x.
+
+Página 2 de 36
+
+POSCOMP 2009
+
+Questão 4. [MAT]
+
+Considere um conjunto S definido como a interseção de n semi-espaços planos
+Hi(x,y,2)<0, I<i<n, onde Hi(x,y,2) = ax +b;y + c;z + d;. Então, pode-se
+dizer que para o ponto p = (Xp Yp Zp):
+
+A) (min; cien Hi (Xp: ¥pZp)) 205 pes
+B) (maxicien Hi(Xp, Vp» Zp)) <0 eo pes
+C) (minycicn Hi(Xp, Vp Zp)) $0 & DE S
+D) (min;<ien Hi (Xp, Vp Zp)) <0 eo peES
+E) (maxicien Hi(Xp, Vp» Zp)) <0 eopéS
+
+Questão 5. [MAT]
+
+Considere as seguintes afirmativas:
+
+I. As bissetrizes de dois ângulos adjacentes suplementares, i.e. que somam
+180º, são perpendiculares.
+
+II. Se e v são vetores paralelos não nulos, então existe À real tal que u = Av
+
+II. As medianas de um triângulo passam por um mesmo ponto.
+
+IV.A área do triângulo com lados de comprimento a, b e c é dada por
+
+abc cos(a), onde a é o ângulo entre os lados de tamanho a e b.
+
+Assinale a quantidade de afirmativas CORRETAS.
+
+Questão 6. [MAT]
+
+Dada a reta
+x=1+A
+r: y=Aa ,AeR
+z=A
+
+e os pontos A = (1,1,1) e B = (0,0,1).
+
+O ponto da reta r que é eqiiidistante do ponto A e do ponto B é:
+
+A) (0,1,0)
+B) (1,1,0)
+C) (1,0,0)
+D) (0,1,1)
+E) (0,0,1)
+
+Pagina 3 de 36
+
+POSCOMP 2009
+
+Questão 7. [MAT]
+
+Em um cabo de fibra ótica a quantidade de informação J que passa por ele durante a
+hora h, é aproximada pela função
+
+I(h) = 50-10 sin
+= Sina
+
+Calcule o horário de pico de tráfego de informação no período de 9h às 21h.
+
+A) 18 horas.
+
+B) 6horas.
+
+C) 9 horas.
+
+D) 6 horas e 18 horas.
+
+E) Nenhuma das respostas anteriores.
+
+Questão 8. [MAT]
+
+A quantidade de acessos por mês a um portal de internet ao longo do tempo t em
+meses, é estimada pela função
+
+4t2 +3t
+
+>— x 100
+te+4t+6
+
+fO=
+
+Em quantos meses o número de acessos atinge ou ultrapassa 200 e para qual valor
+tende a quantidade de acessos quando t tende ao infinito?
+
+A) 1,5 mês e 400 acessos.
+B) 1,5 mês e 4000 acessos.
+C) 4 meses e 4000 acessos.
+D) 4 meses e 400 acessos.
+E) 4 meses e 40000 acessos.
+
+Questão 9. [MAT]
+
+Considere duas variáveis aleatórias discretas 4 e B independentes. Sejam of e og as
+variâncias de 4 e B respectivamente.
+
+Se k e p são constantes, o que pode ser dito a respeito da variância de
+
+(k + 4) — (p + B)?
+
+A) of — 08
+B) of + a3
+C) (k +p) x (of + 08)
+D) (k — p) x (04 — og)
+E) (kx oi) + (p x 08)
+
+Página 4 de 36
+
+POSCOMP 2009
+
+Questão 10. [MAT]
+
+Qual é o número possível de anagramas que se pode montar com as letras da palavra
+POSCOMP, mesmo que a palavra formada não exista?
+
+A) 7!
+
+B) 7!/(2! x 2!)
+
+C) 3!x (21+2)
+
+D) 2!x2!x 11x 1!x1!
+E) 71x 2x2!
+
+Questão 11. [MAT]
+
+Seja X uma variável aleatória discreta. Sejam x1,X2,...,Xn OS valores que X pode
+assumir e p4, P>,...,Pn à probabilidade de ocorrência de cada um destes valores. Neste
+caso o valor esperado de X é dado por:
+
+A) Dx; + pi
+
+B) X(x x Xp)
+C) (ix) x Opi)
+D) YO x pi)
+
+E) Tx; + pi)
+
+Questão 12. [MAT]
+
+Chama-se palíndromo um número que não se altera quando invertida a ordem de seus
+algarismos. Exemplos: 515, 7887, 30503. Quantos são os palíndromos de exatamente 5
+algarismos?
+
+A) 20
+
+B) 500
+
+C) 900
+
+D) 1000
+
+E) Nenhuma das respostas anteriores.
+
+Questao 13. [MAT]
+
+A sentenga logica AA(BV—C) é equivalente a
+
+A) Aa(—BaC)
+
+B) =Av— (Bv—C)
+
+C) =Av (+BAC)
+
+D) Todas as respostas anteriores.
+
+E) Nenhuma das respostas anteriores.
+
+Página 5 de 36
+
+POSCOMP 2009
+
+Questão 14. [MAT)]
+
+Se é verdade que as três sentenças a seguir são verdade
+
+p>q
+r>s
+(pAther
+
+então é verdade que:
+
+A)as3(tVp)
+
+B) =r > -s
+
+C) =q > -—r
+
+D) Todas as respostas anteriores.
+
+E) Nenhuma das respostas anteriores.
+
+Questéo 15. [MAT]
+
+Existem trés suspeitos de invadir uma rede de computadores: André, Bruna e Carlos.
+Sabe-se que a invasão foi efetivamente cometida por um ou por mais de um deles, já
+que podem ter agido individualmente ou não. Sabe-se, ainda, que:
+
+I. Se André é inocente, então Bruna é culpada.
+II. Ou Carlos é culpado ou Bruna é culpada, mas não os dois.
+III. Carlos não é inocente.
+
+Com base nestas considerações, conclui-se que:
+
+A) Somente André é inocente.
+
+B) Somente Bruna é culpada.
+
+C) Somente Carlos é culpado.
+
+D) São culpados apenas Bruna e Carlos.
+E) São culpados apenas André e Carlos.
+
+Questão 16. [MAT]
+
+Uma urna contém 6 bolas brancas e 4 bolas vermelhas iguais em tudo menos na cor.
+Retiramos uma bola, anotamos a cor, recolocamos a bola na urna e retiramos mais uma
+bola. Qual a probabilidade do resultado ser uma bola vermelha seguida de uma branca?
+
+A) 10%
+B) 12%
+C) 18%
+D) 24%
+E) 36%
+
+Página 6 de 36
+
+POSCOMP 2009
+
+Questão 17. [MAT]
+
+Considere os somatórios a seguir
+
+Iv.
+
+1
+Li;
+
+32 4—
+l=1 ;2
+ot O<a<1
+
+io)!
+
+Assinale a alternativa CORRETA:
+
+A) Apenas os somatórios I e II convergem.
+B) Apenas os somatórios I e III convergem.
+C) Apenas os somatórios II e III convergem.
+D) Apenas os somatórios II e IV convergem.
+E) Apenas os somatórios II e IV convergem.
+
+Questão 18. [MAT]
+
+Calcule o valor de
+
+[ex + sax
+0 Vx
+
+A) 25,3333...
+
+B) 3442
+
+C) 68
+
+D) 69,33333...
+
+E) Nenhuma das respostas anteriores.
+
+Questão 19. [MAT]
+
+Dado um conjunto S = fa,b,c,d), quantas são as possíveis relações de equivalência
+
+em S?
+
+A) 4
+B) 7
+c) 8
+D) 15
+E) 16
+
+Página 7 de 36
+
+POSCOMP 2009
+
+Questão 20. [MAT]
+
+Três empresas, X, Y e Z estão competindo por clientes, usando uma campanha de
+
+marketing.
+
+Como resultado dessa campanha, houve a seguinte mudança de clientes:
+
+7% dos clientes de X trocam para Y
+5% dos clientes de X trocam para Z
+14% dos clientes de Y trocam para X
+8% dos clientes de Y trocam para Z
+3% dos clientes de Z trocam para X
+5% dos clientes de Z trocam para Y
+
+Se no início da campanha a distribuição de clientes era
+
+e 39% para X
+e 26% para Y
+e 35% para Z
+
+Que operação matricial pode ser usada para representar o cálculo da distribuição de
+
+clientes após o fim da campanha?
+
+0,39 0,12 0,14 0,03
+A) 026)» [7 0,22 005
+0,35 0,05 0,08 0,08
+
+ 
+
+B) |0,07 0,22 0,05 0,26
+
+0,12 0,14 0,03 0,39
+0,05 0,08 0,08 0,35
+
+ 
+
+0,39 0,88 0,14 0,03
+C) 026] x oor 0,78 005]
+0,35 0,05 0,08 0,92
+
+ 
+
+D) |0,07 0,78 0,05 0,26
+
+0,88 0,14 0,03 0,39
+0,05 0,08 0,92 0,35
+
+ 
+
+E) Nenhuma das respostas anteriores.
+
+Página 8 de 36
+
+POSCOMP 2009
+
+Questão 21. [FUN]
+
+A sequência de Fibonacci é uma sequência de inteiros, cujo primeiro termo é 0, o
+
+segundo termo é 1, e a partir do terceiro, cada termo é igual à soma dos dois anteriores.
+O seguinte algoritmo recursivo retorna o n-ésimo termo da sequência
+
+Procedimento F(n)
+
+sen<3 então retornar n-1
+senão retornar F(n-1) + F(n-2)
+
+A chamada externa é F(n), sendo n > 0.
+
+Assinale a alternativa CORRETA:
+
+A) O algoritmo não está correto, pois não retorna o n-ésimo termo da sequência.
+B) O algoritmo é ótimo, no que diz respeito ao número de passos.
+
+€) O número de passos efetuados pelo algoritmo é linear em n.
+
+D) O número de passos efetuados pelo algoritmo é polinomial em n.
+
+E) O número de passos efetuados pelo algoritmo é exponencial em n.
+
+Questão 22. [FUN]
+
+Deseja-se efetuar uma busca para localizar uma certa chave fixa x, em uma tabela
+
+contendo n elementos. A busca considerada pode ser a linear ou binária. No primeiro
+caso pode-se considerar que a tabela esteja ordenada ou não. No segundo caso a tabela
+está, de forma óbvia, ordenada.
+
+Assinale a alternativa CORRETA:
+
+A) A busca binária sempre localiza x, efetuando menos comparações que a busca
+linear.
+
+B) A busca linear ordenada sempre localiza x, efetuando menos comparações que
+a não ordenada.
+
+C) A busca linear não ordenada sempre localiza x, com menos comparações que a
+ordenada.
+
+D) A busca binária requer O(log n) comparações, no máximo, para localizar x.
+
+E) A busca linear ordenada nunca requer mais do que n/2 comparações para
+localizar x.
+
+Página 9 de 36
+
+POSCOMP 2009
+
+Questão 23. [FUN]
+
+Considere o seguinte programa escrito em C:
+
+#include<stdio.h>
+#include<string.h>
+int main (void)
+
+{
+
+}
+
+char texto[]= "foi muito facil";
+int i;
+
+for (i = 0; i < strlen(texto); i++)
+{
+if (texto[i] == ' ') break;
+}
+i++;
+for (; i < strlen(texto); i++)
+{
+printf ("%c", texto[i]);
+}
+
+return 0;
+
+O que sera impresso quando o programa for executado?
+
+A) foi muito facil
+B) facil
+
+C) muito facil
+
+D) uito facil
+
+E) acil
+
+Questão 24. [FUN]
+
+Assinalar a afirmativa correta, em relação a um grafo completo G com n > 2 vértices.
+
+A) O grau de cada vértice é n.
+
+B) O número cromático de G é igual a n-1.
+C) G não pode ser um grafo bipartido.
+
+D) G possui caminho hamiltoniano.
+
+E) G possui ciclo euleriano.
+
+Página 10 de 36
+
+POSCOMP 2009
+
+Questão 25. [FUN]
+
+Dada uma rede de interconexão estática com topologia hipercúbica de dimensão seis,
+
+com 64 nós, considere as afirmativas a seguir:
+
+I. Os nós com numeração binária igual a 010101 e 101010 são vizinhos.
+
+II. São necessários 192 canais (links) para a construção desta rede.
+
+III. Existem 5 nós conectados diretamente ao nó 111000.
+
+IV. O maior caminho mínimo entre dois nós da rede é igual a 6.
+
+V. Se cada canal (link) da rede tem taxa de transmissão de 100 Mb/s, a largura de
+banda da bisseção é igual a 3,2 Gb/s.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa IV está correta.
+
+B) Apenas as afirmativas III e IV estão corretas.
+C) Apenas as afirmativas I e V estão corretas.
+
+D) Apenas as afirmativas II, IV e V estão corretas.
+E) Todas as afirmativas estão corretas.
+
+Questão 26. [FUN]
+
+Considere uma arquitetura de memória com as seguintes características:
+
+e Memória logicamente particionada em segmentos paginados.
+e Endereços virtuais de 32 bits:
+
+o 8 para segmentos
+
+o 11 para páginas
+
+o O restante para o endereçamento na página
+e Endereços físicos de 20 bits e páginas de 8KB;
+
+Caso o particionamento lógico fosse o de paginação pura, a relação entre o número de
+
+páginas virtuais e o número de frames seria equivalente a:
+
+A) 8192
+B) 4096
+C) 1024
+D) 128
+E) 32
+
+Pagina 11 de 36
+
+POSCOMP 2009
+
+Questão 27. [FUN]
+
+Considere as estruturas de dados a seguir.
+
+e Uma lista é um conjunto de dados onde cada elemento contido na lista ocupa
+sozinho uma posição de 1 até n, onde n é a quantidade de elementos na lista.
+Uma inserção ou remoção pode ser realizada em qualquer posição da lista.
+
+e Uma fila é um caso especial de lista onde a inserção só pode ser realizada em
+uma extremidade e uma remoção na outra.
+
+e Uma pilha é um caso especial de lista onde uma inserção ou uma remoção só
+podem ser realizadas em uma extremidade.
+
+Analise as afirmativas seguintes sobre essas estruturas de dados:
+
+I. Uma fila pode ser implementada usando duas pilhas;
+IH. Uma pilha pode ser implementada usando duas filas;
+HI. Uma lista pode ser implementada usando uma fila e uma pilha.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I está correta.
+
+B) Apenas a afirmativa II está correta.
+
+C) Apenas a afirmativa III está correta.
+
+D) Apenas as afirmativas I e II estão corretas.
+E) Apenas as afirmativas I e III estão corretas.
+
+Questão 28. [FUN]
+
+Considere uma árvore binária de busca T com n nós e altura h. A altura de uma árvore é
+o número máximo de nós de um caminho entre a raiz e as folhas. Analise as afirmativas
+a seguir:
+
+Il h<l+logn;
+
+II. Todo nó que pertence à subárvore esquerda de um nó x tem valor maior que o
+pai de x.
+
+II. Uma busca em ordem simétrica (in-order) em T produz uma ordenação
+crescente dos elementos de T.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I está correta;
+
+B) Apenas a afirmativa II está correta;
+
+C) Apenas a afirmativa III está correta;
+
+D) Apenas as afirmativas 1 e II estão corretas;
+E) Apenas as afirmativas I e III estão corretas.
+
+Página 12 de 36
+
+POSCOMP 2009
+
+Questão 29. [FUN]
+
+A função PASCAL-like abaixo deve implementar o algoritmo de busca binária num
+
+vetor de inteiros 4, com N elementos, ordenado crescentemente, onde o argumento v é a
+chave de busca.
+
+function buscabinaria (v:integer) ;
+
+ 
+
+var x, e, d : integer;
+begin
+e@ :=1;
+d :=N;
+repeat
+x := (etd) div 2;
+if v < A[x] then d := x-1
+else e := x+1
+until ............
+if v=A[x] then buscabinaria := x
+else buscabinaria := N+1
+
+end;
+
+Para que isso ocorra, o trecho pontilhado no corpo da função deve ser substituído por:
+
+A) (v=A[x]) or (e>d);
+B) (v=A[x]) and (e>d);
+C) (v=Alx]);
+
+D) (e>d);
+
+E) not ((v=A[x]) or (e>d));
+
+Questão 30. [FUN]
+
+Considere o algoritmo de busca em largura em grafos. Dado o grafo a seguir e o vértice
+A como ponto de partida, a ordem em que os vértices são descobertos é dada por:
+
+ 
+
+AN A CN
+e A: [CL E)
+NA NA A
+/
+/
+/
+/
+A A / A
+MN MN CN
+( B }——+ D }——+ F)
+NO NO NO
+A) ABCDEF
+B) ABDCEF
+C) ACDBFE
+D) ABCEDF
+
+E) ABDFECPágina 13 de 36
+
+POSCOMP 2009
+
+Questão 31. [FUN]
+
+Considere uma tabela de espalhamento (tabela hash) de comprimento m = 11, que
+usa endereçamento aberto (open addressing), a técnica de tentativa linear (linear
+probing) para resolver colisões e com a função de dispersão (função hash) h(k) =
+k mod m, onde k é a chave a ser inserida. Considere as seguintes operações sobre essa
+tabela:
+
+e Inserção das chaves 3, 14, 15, 92, 65, 35 (nesta ordem);
+e Remoção da chave 15; e
+e Inserção da chave 43.
+
+Escolha a opção que representa esta tabela após estas operações:
+
+A)65-9-35-14-0-92-3-9-g-g-—43
+B) 43-9-35-3-14-92-9-9-9-9-65
+C) 65-9-35-X- 14-92-3-9-9-@ -43
+D) 65-9-35-3-14-92-9-9-9-9- 43
+E) 43-@-35-3-14-X-92-9-9-9-65
+
+Questão 32. [FUN]
+
+O que imprime o programa escrito em “C” abaixo?
+
+int f (int a [], int n) {
+if (n <= 0) return 1;
+return a[n-1] * f£ (a, n-2) + 1;
+
+}
+int a [6] = { 0, 1, 2, 3, 4, 5}3
+#include <stdio.h>
+
+int main() {
+printf ("Sd\n", f(a,6));
+}
+
+A) 35
+B) 36
+C) 49
+D) 79
+E) 1957
+
+Pagina 14 de 36
+
+POSCOMP 2009
+
+Questão 33. [FUN]
+
+Percorrendo a árvore binária a seguir em pré-ordem, obtemos que segiência de
+
+caracteres?
+MO)
+PY
+(BY (C)
+7]
+
+(D) (PD E (6)
+(D) E) ©) ÀS
+A) ACGEBED
+
+B) GCFAEBD
+
+C) ABCDEFG
+
+D) DBEAFCG
+
+E) ABDECFG
+
+Questão 34. [FUN]
+
+Dado um conjunto C contendo n inteiros distintos, qual das seguintes estruturas de
+dados em memória principal permite construir um algoritmo para encontrar o valor
+máximo de C em tempo constante?
+
+A) Um vetor não ordenado.
+
+B) Um vetor ordenado.
+
+C) Uma árvore binária de busca balanceada.
+
+D) Uma lista encadeada simples ordenada em ordem crescente.
+E) Uma árvore rubro-negra.
+
+Questão 35. [FUN]
+
+Seja o alfabeto X = (a, b) e a linguagem regular
+L=(wo| veXZ*eonºdea's em q é par ).
+Qual das expressões regulares abaixo gera essa linguagem?
+
+A) (ab* ab*)*
+
+B) ((aa)*|b* )*
+
+C) (b*| (a a)* | b*)*
+D) (b* a b* ab* )*
+E) (aa|b)*
+
+Pagina 15 de 36
+
+POSCOMP 2009
+
+Questão 36. [FUN]
+
+Considere as seguintes afirmativas relativas à ocorrência de "deadlocks" (ou
+impasses).
+
+IA estratégia de tratamento de "deadlocks" conhecida como prevenção requer
+que se determine uma condição suficiente a que eles ocorram. Uma vez
+determinada a condição, os algoritmos de manipulação dos recursos
+compartilhados em questão devem ser projetados de forma que,
+garantidamente, ela jamais ocorra.
+
+IL. A estratégia de tratamento de "deadlocks" conhecida como detecção requer
+que se determine uma condição suficiente a que eles ocorram. Uma vez
+determinada a condição, o tratamento por detecção consiste em verificar sua
+validade e, em caso afirmativo, concluir que existe um "deadlock".
+
+. As estratégias conhecidas como prevenção e detecção para o tratamento de
+"deadlocks" são complementares uma à outra: Enquanto a primeira guia o
+projeto dos algoritmos de compartilhamento de recursos para que "deadlocks"
+jamais ocorram, a segunda trata de impedir que ocorram quaisquer condições
+necessárias à ocorrência de "deadlocks".
+
+IV. Para que ocorra um "deadlock" é necessário que haja um ciclo de espera
+envolvendo um determinado conjunto de processos. Uma estratégia comum
+de prevenção é a criação de algoritmos de compartilhamento de recursos que
+impeçam a ocorrência desses ciclos.
+
+II
+
+a
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I é verdadeira.
+
+B) Apenas a afirmativa II é verdadeira.
+
+C) Apenas as afirmativas I e II são verdadeiras.
+
+D) Apenas as afirmativas II e III são verdadeiras.
+E) Apenas as afirmativas II e IV são verdadeiras.
+
+Questão 37. [FUN]
+
+Considere as afirmativas abaixo:
+
+I. Fortran, Pascal e Java são linguagens de terceira geração.
+
+I. C++ e Java permitem a criação de classes e o uso de herança múltipla.
+III. Prolog é uma linguagem funcional pura.
+
+IV. PHP, Perl e Ruby são linguagens de sexta geração.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I é verdadeira.
+
+B) Apenas a afirmativa II é verdadeira.
+
+C) Apenas a afirmativa III é verdadeira.
+
+D) Apenas as afirmativas 1 e IV são verdadeiras.
+E) Apenas as afirmativas II e III são verdadeiras.
+
+Página 16 de 36
+
+POSCOMP 2009
+
+Questão 38. [FUN]
+
+Após a execução do pedaço de programa a seguir, escrito na linguagem de montagem
+do 8086, que valores estarão em AL e BL?
+
+; if 25=10 then VAR = 30
+MOV AL, 25
+
+MOV BL, 10
+
+CMP AL, BL
+
+JNZ rotl
+
+MOV AL, 30
+
+MOV VAR,AL
+
+rotl:
+
+VAR DB 0
+A) AL=15 BL=10
+B) AL=25 BL=10
+C) AL=15 BL=30
+
+D) AL=25 BL=30
+E) AL=30 BL=10
+
+Questão 39. [FUN]
+
+Considere o circuito digital abaixo
+
+Qual o valor de Q?
+
+A) A+BC
+
+B) B(A+B+C)
+C) C(A+B)
+D) A(B+C)
+E) B(A+C)
+
+Página 17 de 36
+
+POSCOMP 2009
+
+Questão 40. [FUN]
+Assinale a alternativa FALSA
+
+A) O conjunto de todas as Máquinas de Turing é enumerável.
+B) O conjunto de todas as Expressões Regulares é enumerável.
+C) Toda Linguagem Regular é enumerável.
+
+D) Todo Conjunto Finito é enumerável.
+
+E) Nenhum Conjunto Infinito é enumerável.
+
+Questão 41. [FUN]
+
+Quais das seguintes propriedades não se aplicam a árvores rubro-negras?
+
+A) Todo nó é vermelho ou preto.
+
+B) Todo nó folha é preto.
+
+C) Se um nó é preto, ambos seus filhos são vermelhos.
+
+D) Se um nó é vermelho, ambos seus filhos são negros.
+
+E) Todos os caminhos simples entre um nó e suas folhas descendentes contêm o
+mesmo número de nós pretos.
+
+Questão 42. [FUN]
+
+Suponha que a tabela a seguir apresenta a frequência de cada letra de um alfabeto em
+uma string. Quantos bits seriam necessários para representar essa string usando um
+código de Huffman?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Letra a c d e f
+Freqiiência | 20 10 8 5 4 2
+A) 392
+B) 147
+C) 113
+D) 108
+
+E) Nenhuma das respostas anteriores.
+
+Pagina 18 de 36
+
+POSCOMP 2009
+
+Questão 43. [FUN]
+
+Considere as afirmativas abaixo:
+
+I. A linguagem Java possui tipos de dados primitivos.
+
+IL Nas linguagens de programação de terceira geração, o desempenho de uma
+operação com uma matriz é independente da forma como elas são organizadas
+em memória.
+
+HI. Uma estrutura de dados do tipo união (union) é representada em memória da
+mesma forma que um registro (record).
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I é verdadeira.
+
+B) Apenas a afirmativa II é verdadeira.
+C) Apenas a afirmativa III é verdadeira.
+D) Todas as afirmativas são verdadeiras.
+E) Nenhuma das afirmativas é verdadeira.
+
+Questão 44. [FUN]
+
+Dada a seguinte expressão em LISP, qual o seu resultado?
+(CAR (CDR (CDR ‘(A BCDE))))
+
+AJA
+B) B
+Cc) c
+D) D
+E) nil
+
+Página 19 de 36
+
+POSCOMP 2009
+
+Questão 45. [FUN]
+
+Considere o autômato finito não-determinístico a seguir, sendo À o estado inicial e D
+o único estado de aceitação.
+
+- = b -—
+(A\—»(B)
+A
+| A
+( Cyro D))
+
+Na NO)
+
+\ 2
+ia
+(
+Que autômato finito determinístico com d como sua função de transição de estado
+aceita a mesma linguagem?
+
+A) Estado Inicial A, estados de aceitação C e D
+
+d(A,b)=B
+d(B,a)=C
+d(C,a)=D
+B) Estado Inicial A, estado de aceitação €
+d(A,b)=B
+d(B,a)=C
+d(C,a)=C
+C) Estado Inicial A, estado de aceitação D
+d(A,b)=B
+d(B,a)=D
+d(B,b)=C
+d(C,a)=D
+D) Todas as respostas acima estão corretas.
+E) É impossível converter esse autômato finito não determinístico em um
+
+autômato finito determinístico.
+
+Página 20 de 36
+
+POSCOMP 2009
+
+Questão 46. [FUN]
+
+Qual o resultado do programa em Java a seguir:
+
+public class Prova (
+static int vl;
+int v2;
+
+static { vl=1 ;}
+{ v2 = 2; }
+
+void troca() {
+vl=v2 ;
+
+}
+public static void main(String[] args) {
+
+Prova a=new Prova();
+Prova b=new Prova();
+a.v2=5;
+a.troca();
+System.out.print (a.
+System.out.print (a.
+System.out.print (b.v1
+System.out.print (b.
+
+A) 1522
+B) 5512
+C) 1512
+D) 5552
+E) Nenhuma das respostas anteriores.
+
+Pagina 21 de 36
+
+POSCOMP 2009
+
+Questão 47. [FUN]
+
+Seja o programa em Prolog a seguir:
+
+abel,bernardo).
+abel,bia).
+
+ana, bernardo).
+ana,bia).
+
+pai
+pai
+mae
+mae
+
+parenteSimples(X,Y) :- pai(X,Y).
+parenteSimples(X,Y) :- mae(X,Y).
+
+irmao(X,Y) :- parenteSimples(Z,X),parenteSimples(Z,Y),X\=Y.
+Qual a resposta para a entrada:
+irmao (X,Y).
+
+66.09
+
+Supondo que para cada resposta do programa é digitado “;” (ponto e vírgula).
+
+A) X=bernardo, B) X = bernardo,
+Y=bia; Y=bia;
+X=bia, X = bernardo,
+Y = bernardo ; Y=bia;
+false. X=bia,
+
+Y = bernardo ;
+X=bia,
+
+Y = bernardo ;
+false.
+
+C) X=bernardo, D) X = bernardo,
+Y=bia; Y=bia;
+X=bia, false.
+
+Y = bernardo ;
+X = bernardo,
+Y=bia;
+X=bia,
+
+Y = bernardo ;
+false.
+
+E) Nenhuma das respostas anteriores.
+
+Página 22 de 36
+
+POSCOMP 2009
+
+Questão 48. [FUN]
+
+Seja o circuito multiplexador da figura a seguir
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DO A. >
+
+D1| + +) 3%
+D2 + o o
+DB +)
+
+st st”
+
+ 
+
+ 
+
+Considere a seguintes afirmativas:
+
+I. Se S1=0 e S2=0, então X terá sempre o mesmo valor que D1
+IH. Se S1=0 e S2=1, então X terá sempre o mesmo valor que D2
+II. Se Sl=1 e S2=1, então X terá sempre o mesmo valor que DO
+
+Assinale a alternativa CORRETA:
+A) Apenas a afirmativa I está correta.
+B) Apenas a afirmativa II está correta.
+C) Apenas a afirmativa III está correta.
+
+D) Apenas as afirmativas I e II estão corretas.
+E) Apenas as afirmativas I e III estão corretas.
+
+Página 23 de 36
+
+POSCOMP 2009
+
+Questão 49. [FUN]
+
+Dada a tabela verdade abaixo:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A | B c x
+010 0 0
+010 1 0
+0 1 0 0
+0 1 1 1
+1 0 0 0
+1 0 1 1
+1 1 0 1
+1 1 1 1
+Que circuito digital a representa?
+A) OA B c B) OA B c
+LSD
+Do =p
+LO No]
+/
+Cc) CÊ DC D) OA OB OC
+AS +
+Dem Dm
+4 I sa X À 41 \ x
+) ) ST
+mm o MOS
+L_ {|
+E) Nenhum dos circuitos anteriores
+Obs: em cada imagem, apenas as portas lógicas são alteradas, as ligações são sempre
+
+as mesmas.
+
+Página 24 de 36
+
+POSCOMP 2009
+
+Questão 50. [FUN]
+
+Dado o programa em Pascal a seguir, qual o valor impresso no final?
+program projectl;
+var
+
+vl : integer;
+
+v2 : integer;
+
+procedure a;
+
+var
+vl : integer;
+begin
+vl := 1;
+v2 := 2;
+end;
+
+procedure b(var vl : integer; v2:integer) ;
+begin
+
+vl := 3;
+
+v2 4;
+end;
+
+begin
+vl:=5;
+v2:=6;
+a;
+b(v2,vl);
+writeln(vl,' ',v2);
+end.
+
+A) 35
+B) 43
+C) 34
+D) 56
+E) 53
+
+Pagina 25 de 36
+
+POSCOMP 2009
+
+Questão 51. [TEC]
+
+A questão abaixo refere-se ao seguinte trecho de programa.
+
+begin
+read (a,b,c)
+tipo = “escaleno”
+if (a=b) or (b=c) or (a=c) then
+tipo = “isosceles”;
+if (a=b) and (b=c) then
+tipo = “equilátero”;
+if (a>=b+c) or (b>=atc) or (c>=atb) then
+tipo = “não é um triângulo”;
+if (a<=0) or (b<=0) or (c<=0) then
+tipo = “dados inválidos”;
+write (tipo)
+end
+
+Considere as seguintes afirmativas:
+
+I. É possível exercitar todos os comandos do programa com 5 casos de teste.
+
+H. Um limite superior do número de caminhos linearmente independentes do
+grafo de fluxo do programa é 4.
+
+II. Admitindo que os nós do grafo de fluxo possam representar condições
+compostas, e que, portanto, cada comando do programa acima possa ser
+representado num único nó, o número de regiões de seu grafo de fluxo é 4.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I é verdadeira.
+
+B) Apenas a afirmativa II é verdadeira.
+
+C) Apenas a afirmativa III é verdadeira.
+
+D) Apenas as afirmativas Ie II são verdadeiras.
+E) Todas as afirmativas são verdadeiras.Página 26 de 36
+
+POSCOMP 2009
+
+Questão 52. [TEC]
+
+Considere as seguintes afirmativas sobre os modelos prescritivos de processos de
+desenvolvimento de software
+
+I. Uma das vantagens do modelo de prototipação é servir como base para
+entendimento dos requisitos do sistema.
+
+II. Um dos problemas do modelo RAD (Rapid Application Development) é a
+necessidade de conseguir recursos suficientes para a montagem de vários
+grupos operando em paralelo.
+
+TI. O caso negócio (Business Case) é um dos produtos da fase de Concepção do
+Processo Unificado (Unified Process).
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I é verdadeira
+
+B) Apenas a afirmativa II é verdadeira
+
+C) Apenas a afirmativa III é verdadeira
+
+D) Apenas as afirmativas Ie II são verdadeiras
+E) Todas as afirmativas são verdadeiras
+
+Questão 53. [TEC]
+
+Considere as afirmativas abaixo:
+
+I. Requisitos não-funcionais não são mensuráveis.
+
+II. Requisitos funcionais descrevem as funções que o software deverá executar.
+
+II. Requisitos não-funcionais expressam condições que o software deve atender
+ou qualidades específicas que o software deve ter.
+
+Assinale a alternativa CORRETA:
+
+A) Somente as afirmativas 1 e II são verdadeiras.
+B) Somente as afirmativas II e III são verdadeiras.
+C) Somente a afirmativa III é verdadeira.
+
+D) As afirmativas I, II e II são falsas.
+
+E) Todas as afirmativas são verdadeiras.
+
+Página 27 de 36
+
+POSCOMP 2009
+
+Questão 54. [TEC]
+
+Em relação à arquitetura cliente/servidor, usada na implementação de sistemas
+distribuídos, analise as seguintes afirmativas:
+
+I. A arquitetura cliente/servidor define um modelo de interação entre processos
+clientes e servidores que resolve o problema do rendezvous: clientes iniciam a
+comunicação e servidores esperam por requisições.
+
+II. Em servidores sem estado (informações de estado não são mantidas entre o
+processamento de requisições), o significado de uma mensagem do cliente
+não deve depender da sequência de mensagens anteriores.
+
+HI. Um programa cliente individual opera como um programa convencional, ele
+não precisa gerenciar concorrência explicitamente na comunicação com o
+servidor.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas a afirmativa I é verdadeira
+
+B) Apenas a afirmativa II é verdadeira
+
+C) Apenas a afirmativa III é verdadeira
+
+D) Apenas as afirmativas Ie II são verdadeiras
+E) Todas as afirmativas são verdadeiras
+
+Questão 55. [TEC]
+
+A análise léxica é usualmente implementada a partir de:
+
+A) Gramática regular
+
+B) Gramática livre de contexto
+
+C) Gramática sensível ao contexto
+D) Gramática irrestrita
+
+E) Gramática de pilha
+
+Questão 56. [TEC]
+
+Qual é a linguagem da gramática com as seguintes regras de produção
+
+S > ASb|c
+Asa
+
+A) {a"cb| ne N}
+B) {acb"| ne N}
+C) {a"c"b|neN}
+D) {a"cb"|neN}
+E) Nenhuma das respostas anteriores
+
+Pagina 28 de 36
+
+POSCOMP 2009
+
+Questão 57. [TEC]
+
+Considere uma produção pertencente a uma gramática G dada por:
+L 5Las|s
+
+Assinale a alternativa abaixo que, substituindo essa produção, elimina a recursividade
+à esquerda criando uma gramática equivalente:
+
+A)L SRS
+R 5SasSR|e
+
+BL 5SR
+R 5SasSR|e
+
+CGL 5SR
+R > SaR|e
+
+DL >SaR
+R >SsSaR|e
+
+BL SRS
+R SaRsS|e
+
+Questão 58. [TEC]
+Qual das afirmativas abaixo está INCORRETA?
+
+A) Se uma transformação linear afim T é aplicada sobre uma superfície, então o
+vetor normal N a um ponto da superfície é mapeado em T N.
+
+B) Algoritmos para compressão de imagens digitais costumam ser mais
+eficientes, isto é, conseguem maior compressão, quando as imagens a serem
+comprimidas possuem grandes áreas com a mesma cor.
+
+C) Modelos locais de iluminação de cenas sintéticas são incapazes de reproduzir
+efeitos globais tais como sombras.
+
+D) Duas cores com saturações diferentes podem ter a mesma luminosidade.
+
+E) Uma transformação linear afim sempre transforma objetos convexos em
+objetos convexos.
+
+Página 29 de 36
+
+POSCOMP 2009
+
+Questão 59. [TEC]
+
+Sobre o conceito de segmentação de imagens, é CORRETO afirmar:
+
+A) Processo que agrupa partes de uma imagem em regiões homogêneas com
+respeito a uma ou mais características (brilho, tons de cinza, cor, textura).
+
+B) Operação que objetiva particionar uma imagem em um conjunto de regiões de
+mesmo tamanho.
+
+C) Processo que objetiva identificar objetos na imagem de acordo com uma
+descrição prévia com base em uma ou mais características (brilho, tons de
+cinza, cor, textura).
+
+D) É a mesma coisa que detecção de bordas de imagens.
+
+E) Nenhuma das opções acima.
+
+Questão 60. [TEC]
+
+Considere a transformação T ilustrada abaixo, que mapeia a figura da esquerda na figura
+da direita.
+
+y
+
+ 
+
+ 
+
+x x
+Sabendo que os pontos P; da imagem são representados em coordenadas homogêneas
+x
+por matrizes coluna da forma be a imagem transformada é obtida por uma pré-
+1
+multiplicação, isto é, P/ = TP, , então, a transformação T é dada por:
+cos30 —sen30 O
+
+sen30 cos30 2
+0 0 1
+
+cos30 -—cos 30 0
+sen30 -—sen30 0
+2 0 1
+
+A))-sen30 cos30 0
+
+0 2 1
+
+B) Cc)
+
+ 
+
+cos30  sen30 |
+
+ 
+
+ 
+
+ 
+
+sen30 cos30 2 sen30 cos30 0
+0 0 1 0 2 1
+
+D)
+
+ 
+
+cos30 sen30 | fenão —cos 30 |
+E)
+
+Pagina 30 de 36
+
+POSCOMP 2009
+
+Questão 61. [TEC]
+
+Considere a árvore minimax abaixo, representando um jogo onde queremos
+maximizar o valor da função de avaliação estática:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAX
+TT \
+MIN Cy a 7
+Vo (o J
+MN
+NN
+-,
+MAX | .
+/ \
+\ / \
+nN PN (NS ry rN oN rN aN
+MIN SO NA AN NINO VS
+
+ 
+
+max|5| [6l|7|l4||5sll3llellelloll7llsllollalle
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assinale a alternativa que apresenta a quantidade de nós que não deverão ser
+visitados em uma busca da melhor jogada se a estratégia de poda alfa-beta for utilizada.
+
+ 
+
+ 
+
+A)5
+B) 8
+Cc) 9
+D) 10
+E) ll
+
+Questão 62. [TEC]
+
+Os mecanismos de controle de congestionamento e controle de fluxo desempenham
+um papel fundamental no projeto de uma rede de computadores. Considere as
+afirmativas a seguir sobre os dois mecanismos.
+
+I. O mecanismo de controle de congestionamento regula (ou seja, aumenta e
+diminui dinamicamente) a taxa com a qual o transmissor envia dados pela
+rede.
+
+II. O mecanismo de controle de congestionamento garante que o receptor irá
+receber todos os dados enviados pelo transmissor.
+
+II. O mecanismo de controle de fluxo regula (ou seja, aumenta e diminui
+dinamicamente) a taxa com a qual o transmissor envia dados pela rede.
+
+IV. O mecanismo de controle de fluxo garante que o receptor irá receber todos os
+dados enviados pelo transmissor.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas as alternativas I, II e III são verdadeiras.
+B) Apenas as alternativas I e II são verdadeiras.
+C) Apenas as alternativas II e IV são verdadeiras.
+D) Apenas as alternativas III e IV são verdadeiras.
+E) Todas as alternativas são verdadeiras.
+
+Página 31 de 36
+
+POSCOMP 2009
+
+Questão 63. [TEC]
+
+Um dos problemas importantes na Internet é o endereçamento de processos, ou seja,
+aplicações em execução em um determinado computador.
+
+Considere as afirmativas a seguir.
+
+I. Todo pacote transmitido precisa conter o endereço IP e a porta do processo
+destino.
+
+IH. Pacotes do protocolo TCP não precisam conter o endereço IP nem a porta do
+processo do transmissor.
+
+II. A tupla endereço IP de origem e destino e porta de origem e destino
+identificam unicamente uma conexão TCP.
+
+IV. Um processo que utiliza o protocolo UDP para se comunicar nunca recebe
+pacotes fora da ordem em que foram transmitidos.
+
+Assinale a alternativa CORRETA:
+
+A) Apenas as alternativas I e II são verdadeiras.
+
+B) Apenas as alternativas II e III são verdadeiras.
+C) Apenas as alternativas I e II são verdadeiras.
+
+D) Apenas as alternativas I, HI e IV são verdadeiras.
+E) Todas as alternativas são verdadeiras.
+
+Questão 64. [TEC]
+
+Assinale a alternativa que indica apenas estilos de interação com o usuário em um
+projeto de interface:
+
+A) Linguagem de comandos, linguagem natural e Seleção de Menu.
+B) Navegação, Linguagem de Consulta, Interfaces Gráficas.
+
+C) Internet, Computação Móvel, Processamento em “batch”.
+
+D) Voz, Imagem, Texto.
+
+E) Mouse, Touch Screen, Teclado.
+
+Página 32 de 36
+
+POSCOMP 2009
+
+Questão 65. [TEC]
+
+Considere o diagrama de caso de uso abaixo:
+
+Caso de Uso €
+
+<sextend=> ,*
+
+Ator 1 To i
+
+Caso de Uso À
+<sinclude>>
+
+Ts
+
+Caso de Uso D
+>
+
+Caso de Uso B <<include>>
+__ +
+
+Ator 2
+
+Assinale a alternativa FALSA:
+
+A) O Ator 1 pode participar do Caso de Uso B.
+B) O Ator 1 pode participar do Caso de Uso D.
+C) O Ator 2 pode participar do Caso de Uso A.
+D) O Ator 2 pode participar do Caso de Uso B.
+E) O Ator 2 pode participar do Caso de Uso C.
+
+Questão 66. [TEC]
+
+Considere o diagrama de classes abaixo:
+
+         
+  
+    
+   
+
+   
+
+Funcionário Departamento
+
+- nomeDept: String
+
+   
+
+- nome : String
+
+It
+
+Professor
+
+- titulação : String
+
+Assinale a alternativa FALSA:
+
+A) Todo Professor está associado a um Departamento.
+
+B) Todo Funcionario está associado a um Departamento.
+
+€) Um Departamento pode ter nenhum Professor associado.
+D) Um Departamento pode ter nenhum Funcionário associado.
+E) Todo Departamento tem ao menos um Funcionário.
+
+Página 33 de 36
+
+POSCOMP 2009
+
+Questão 67. [TEC]
+
+Considere a relação abaixo, obtida via processo de engenharia reversa em
+documentos de uma empresa.
+
+Emp (CodEmp, CodDept, CodMag, Nome, Sala, NomeDept, NomeMaquina)
+
+Através de um processo de normalização (não necessariamente completo), chegou-se
+ao seguinte conjunto de relações:
+
+RI (CodEmp, Nome, CodDept, CodMag)
+R2 (CodDept, NomeDept, Sala)
+R3 (CodMag, NomeMáquina).
+
+Considere que as seguintes dependências funcionais se aplicam a estas relações:
+
+CodEmp — Nome
+CodDept — {NomeDept, Sala}
+CodMáquina — NomeMáquina
+
+Assinale a alternativa CORRETA:
+
+A) A relação Emp encontra-se na segunda forma normal (2FN).
+
+B) Todas as três relações R1, R2 e R3 encontram-se na segunda forma normal
+(2FN).
+
+C) Somente as relações R1 e R3 encontram-se na segunda forma normal (2FN).
+
+D) Somente a relação R3 encontra-se na terceira forma normal (3FN).
+
+E) Nenhuma das afirmativas anteriores é verdadeira.
+
+Questão 68. [TEC]
+
+Com relação às operações da álgebra relacional está ERRADO afirmar que o
+comando:
+
+A) SELECT extrai tuplas específicas de uma relação específica.
+
+B) UNION constrói uma relação consistindo em todas as tuplas que aparecem em
+um par de relações específicas que são compatíveis.
+
+C) PROJECT extrai atributos específicos de uma relação específica.
+
+D) JOIN constrói uma relação a partir de duas relações específicas, consistindo
+em todas as possibilidades de pares de tuplas, uma de cada uma das relações
+específicas.
+
+E) DIFFERENCE constrói uma relação a partir de duas relações específicas que
+são compatíveis, consistindo em todas as tuplas que aparecem na primeira
+relação e não aparecem na segunda.
+
+Página 34 de 36
+
+POSCOMP 2009
+
+Questão 69. [TEC]
+
+Dado o diagrama de entidades e relacionamentos abaixo, qual o conjunto de relações
+que representam as tabelas estritamente necessárias para implementá-lo, onde as chaves
+primárias aparecem sublinhadas:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Estuda
+Aluno > H Curso
++@ registroAcad
+L() nomeAluno nomeCurso
+
+A) Aluno (registroAcad, nome Aluno)
+Curso (nomeCurso, registroAcad)
+B) Aluno (codAluno, registroAcad, nomeAluno, codCurso)
+urso (codCurso, nomeDept)
+
+a
+
+urso (codCurso, nomeCurso)
+
+A
+Cc
+) Aluno (codAluno, registroAcad, nome Aluno)
+Cc
+Estuda(codAluno, codCurso)
+
+D) Aluno (registroAcad, nomeAluno)
+
+A
+Curso (nomeCurso)
+E
+
+studa (registroAcad, nomeCurso)
+
+ 
+
+E) Aluno (registroAcad, nomeAluno, nomeCurso)
+Curso (nomeCurso)
+
+Pagina 35 de 36
+
+POSCOMP 2009
+
+Questão 70. [TEC]
+
+Sejam as seguintes tabelas em um banco de dados relacional:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPRADORES
+CID CNOME CIDADE |DESCONTO
+C001 Lojas Cacique | |Rio de Janeiro 10,00
+C002 |Lojas Livres São Paulo 12,00
+(C003 |Mercado Facil [Curitiba 8,00
+C004 |Papelaria Simao |Recife 6,00
+COOS |Lojas da Silva |Manaus 0,00
+PRODUTO
+
+p01 |Pente coo1 11000 10
+p02 Escova coo2 20000 10
+p03 |Barbeador |C003 15000 20
+p04 [Caneta C003 20000
+p05 |Lápis coo4 10000
+p06|Caderno |C004 14000
+p07 |Bloco coos 5000 1,5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Qual o resultado da seguinte consulta em SQL
+
+SELECT CNOME, NOME, PRECO* (1-DESCONTO/100) AS PF
+FROM COMPRADORES, PRODUTO
+
+WHERE
+
+DESCONTO> (SELECT AVG (DESCONTO) FROM COMPRADORES)
+AND CID=CLIENTE
+
+ORDER BY NOME, CNOME ;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A) [[eNOME [Nome [PF] B) [ CNoME | NOME | PF |
+Lojas Cacique |Pente 9 Lojas Cacique |Pente 9
+Lojas Livres [Escova 8,8 Lojas Livres Escova 8,8
+Mercado Fácil Barbeador| 18,4 Mercado Facil |Barbeador| 18,4
+Mercado Fácil Caneta 0,92 Mercado Facil |Caneta 0,92
+Papelaria Simao|Lapis 0,94
+Papelaria Simao|Caderno 4,7
+Lojas da Silva |Bloco 1,5
+C) CNOME NOME PF D) CNOME NOME | PF
+Mercado Facil|Barbeador| 18,4 Mercado Fácil Barbeador| 20
+Mercado Fácil Caneta 0,92 Mercado Fácil Caneta 1
+Lojas Livres [Escova 8,8 Lojas Livres [Escova 10
+Lojas Cacique |Pente 9 Lojas Cacique |Pente 10
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E) Nenhuma das respostas anteriores.
+
+Página 36 de 36

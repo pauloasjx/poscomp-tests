@@ -1,0 +1,1540 @@
+QUESTÃO 01 - Sendo F = [(1,1,-1)], a projeção ortogonal de (2,4,1) sobre o subespaço ortogonal
+de Fé:
+
+A) (1,2,3)
+
+B) (1/3, 7/3, 8/3)
+C) (1/3, 2/3, 8/3)
+D) (0, 0, 0)
+
+E) (1, 1, 1)
+
+ 
+
+Bw
+
+QUESTÃO 02 - Qual é o valor do determinante da matriz 5x5
+10
+13
+
+SNo am
+DAWN
+“1
+ES WUNOS
+ooo
+as
+
+H
+N
+
+A) 325
+B) 5
+Cc) 120
+D)1
+E) 0
+
+ 
+
+x +5 —3
+QUESTAO 03 - Em um espaco R?, as retas: T= —-= = =z €
+s= (yz) = (1,1,-2)+ [(1,-1,2)] :
+
+A) São ortogonais.
+
+B) Não são ortogonais e são contidas em um plano.
+C) Não têm pontos em comum.
+
+D) São paralelas.
+
+E) Não são retas.
+
+ 
+
+QUESTÃO 04 - Em relação às figuras geométricas planas, a circunferência possui excentricidade:
+
+A)e=0
+B)e=1
+C)e<1
+Dje>1
+E)e= v2
+
+ 
+
+QUESTÃO 05 - Sobre o seguinte conjunto 4 = {x ER aa
+
+ 
+
+> 1) , Verifica-se que:
+
+A) Não tem máximo, e o mínimo é O.
+B) O máximo é 1 e não possui mínimo.
+C) O máximo é 1 e o mínimo é O.
+
+D) É um conjunto vazio.
+
+E) O máximo é 1 e o mínimo é -2.
+
+ 
+
+Execução: Fundatec 3
+EXAME POSCOMP 2017
+
+QUESTÃO 01 - Sendo F = [(1,1,-1)], a projeção ortogonal de (2,4,1) sobre o subespaço ortogonal
+de Fé:
+
+A) (1,2,3)
+
+B) (1/3, 7/3, 8/3)
+C) (1/3, 2/3, 8/3)
+D) (0, 0, 0)
+
+E) (1, 1, 1)
+
+ 
+
+Bw
+
+QUESTÃO 02 - Qual é o valor do determinante da matriz 5x5
+10
+13
+
+SNo am
+DAWN
+“1
+ES WUNOS
+ooo
+as
+
+H
+N
+
+A) 325
+B) 5
+Cc) 120
+D)1
+E) 0
+
+ 
+
+x +5 —3
+QUESTAO 03 - Em um espaco R?, as retas: T= —-= = =z €
+s= (yz) = (1,1,-2)+ [(1,-1,2)] :
+
+A) São ortogonais.
+
+B) Não são ortogonais e são contidas em um plano.
+C) Não têm pontos em comum.
+
+D) São paralelas.
+
+E) Não são retas.
+
+ 
+
+QUESTÃO 04 - Em relação às figuras geométricas planas, a circunferência possui excentricidade:
+
+A)e=0
+B)e=1
+C)e<1
+Dje>1
+E)e= v2
+
+ 
+
+QUESTÃO 05 - Sobre o seguinte conjunto 4 = {x e re > 1} , Verifica-se que:
+
+A) Não tem máximo, e o mínimo é O.
+B) O máximo é 1 e não possui mínimo.
+C) O máximo é 1 e o mínimo é O.
+
+D) É um conjunto vazio.
+
+E) O máximo é 1 e o mínimo é -2.
+
+ 
+
+Execução: Fundatec 3
+EXAME POSCOMP 2017
+
+Zz
+
+ 
+
+uando n > 00 é:
+n7-2 q
+
+QUESTÃO 06 - O limite de N
+A)1
+
+B) 0
+
+C) o
+
+D) 2/7
+
+E) 1/2
+
+ 
+
+3x1, + 2x2 +5x3=1
+4x, + 3x2 + 6x3 = 2 5
+5x1 + 4x2 + 7x3 = 3°
+6x, + 7x2 + 8x3 = 4
+
+QUESTÃO 07 - Qual é a solução do seguinte sistema de equações
+
+A) (x, X2,X3) = (1,1,0)
+B) (x4,X2,X3) = (2,0,—1)
+C) (%1,X2,%3) = (0,1,0)
+D) (X41, %2,%3) = (2,1,0)
+E) (%1,%2,%3) = (2,2,-1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+QUESTAO 08 - Dadas as retasr = 3x +y-1=0es = 2x +my-—8 = 0, qual dos seguintes 6 um
+valor de m que faz com que as retas r e s formem um ângulo de 45º?
+
+A)1
+B) v2
+c)o
+D)-1
+E) 2
+
+ 
+
+QUESTÃO 09 - Aplicando-se a Lei de Morgan, qual é o complemento da função f = (x +)(yz + x7)
+
+ 
+
+A) f=X+yz
+B)f=xX+xz+y
+C)f=12+y
+D)f =xy+yz
+E)f=xy+yz
+
+ 
+
+xe“+yu=1
+2x2v+ yet =1
+localmente no ponto (Xo, Yo, Uo, Yo) = (1,1,0,0), assinale a matriz da diferencial de (u(x), vy)
+no ponto (1,1).
+
+ni 2)
+(“172 3/2)
+9172 3/2)
+(6 373)
+OG -3)
+
+Execução: Fundatec 4
+EXAME POSCOMP 2017
+
+QUESTÃO 10 - Sendo u(x,y), v(x,y) as funções implícitas definidas pelo sistema {
+
+ 
+
+ 
+
+   
+
+wes
+
+I. Algum aluno que é estagiário não recebe bolsa.
+II. Todos aqueles alunos que estão no último período recebem bolsa.
+
+Portanto,
+
+A) algum aluno do último período é estagiário.
+
+B) todos os alunos do último período não são estagiários.
+
+C) algum aluno que é estagiário não está no último período.
+
+D) algum aluno do último período não é estagiário.
+
+E) todos os alunos que são estagiários não estão no último período.
+
+ 
+
+QUESTÃO 12 - Sejam m, n, p, ge r proposições lógicas tais que p é falsa e a proposição composta
+(m->n) e (n->p) e (p->q9) e (g->r)) é verdadeira, qual preposição abaixo é necessariamente
+verdadeira?
+
+A) n->r
+B)mer
+C) q->n
+D)m our
+E) r->q
+
+ 
+
+QUESTÃO 13 - De um grupo composto por 12 estudantes, apenas 6 estão habilitados para dirigir.
+Quantas equipes com 7 estudantes são possíveis formar considerando que em cada equipe deve haver
+ao menos um que seja habilitado?
+
+A) 722
+B) 792
+C) 836
+D) 894
+E) 908
+
+ 
+
+QUESTÃO 14 - Assinale a alternativa que apresenta a simplificação, pelo Mapa de Karnaugh, da
+função cuja expressão em termos canônicos é f(x,y,2) = 53 m(3,5,6).
+
+A) flx,y,2) = xyz + x72 + XYz
+B) f(x,y,2) = xj)z + xyz + xyZ
+C) f(x,7,2) = x)Z + xyz + XYz
+D) f(x,y,2) = xyz + xyz + Xyz
+
+ 
+
+ 
+
+E) f(x,y,2) =XJZ + xyz + xyz
+
+ 
+
+QUESTÃO 15 - Considere a seguinte afirmação: “Há uma sorveteria onde todos os sorvetes são
+doces, mas não contém adoçantes.”
+
+A negação da afirmação acima é logicamente equivalente à afirmação:
+
+A) Não há sorveteria que faz sorvetes doces e com adoçantes.
+
+B) Há uma sorveteria em que sorvete algum é doce ou contém adoçante.
+
+C) Em toda sorveteria, há um sorvete que não é doce, mas contém adoçante.
+
+D) Em toda sorveteria, há sempre algum sorvete que não é doce ou que contém adoçante.
+E) Há uma sorveteria em que há algum sorvete que não é doce ou que contém adoçante.
+
+ 
+
+Execução: Fundatec 5
+EXAME POSCOMP 2017
+
+wot rrr ==eemem eme or rg rg on 0—. err nmr wn wn mma =
+
+6, 10}, C= {6, 4, 1, 10}, D = {6, 4, 1}, assinale a alternativa correta.
+
+A)A=D
+BJACB
+C)B¢D
+D)@=D
+E)~=B
+
+ 
+
+QUESTÃO 17 - Em uma farmácia, trabalham 6 farmacêuticos e 9 atendentes. De quantas maneiras
+distintas é possível organizar um plantão de fim de semana composto por 2 farmacêuticos e 5
+atendentes?
+
+A) 1.260
+B) 1.620
+C) 1.890
+D) 1.960
+E) 2.040
+
+ 
+
+QUESTÃO 18 - Uma variável aleatória está definida pela seguinte função de densidade de
+probabilidade:
+
+_ (kx, 0<x<1
+feo ={) Wx # O<x<1
+Qual é a probabilidade para que a variável aleatória tenha um valor entre 0,25 e 0,75?
+A) 0,76
+B) 0,25
+C) 0,31
+D) 0,80
+E) 0,38
+
+ 
+
+QUESTÃO 19 - Dois presentes distintos serão entregues a dois turistas de um grupo com 35 turistas.
+De quantos modos diferentes pode ocorrer a entrega desses presentes?
+
+A) 595
+B) 834
+C) 982
+D) 1.106
+E) 1.190
+
+ 
+
+QUESTÃO 20 - Deseja-se preparar um recipiente com 100g de um produto extremamente caro,
+sendo necessário minimizar o erro na hora da pesagem. Para isso, se dispõe de uma balança que
+possui erro de medição, o, dependente da quantidade pesada (Wu), da forma o = 0,1uy. Com qual dos
+seguintes métodos se obtém maior precisão na pesagem?
+
+A) Pesando as 100g de uma vez.
+
+B) Pesando 10 recipientes de 1009, realizando a média e escolhendo um recipiente aleatório.
+C) Pesando 5 porções de 20g e depois juntando-as.
+
+D) Pesando 10 porções de 10g e depois juntando-as.
+
+E) Pesando 2 porções de 50g e depois juntando-as.
+
+ 
+
+Execução: Fundatec 6
+EXAME POSCOMP 2017
+
+woe eae eae es ee se ee n—
+
+QUESTÃO 21 - Suponha que, ao invés de dividir em duas partes, foi criada uma versão do merge-
+sort que divida a entrada em quatro partes, ordene cada quarta-parte, e, finalmente, combine essas
+quatro partes usando um procedimento O(n). A equação de recorrência que descreve o tempo de
+execução desse algoritmo é:
+
+A) T(n) = 4*T(n/4) + O(n)
+B) T(n) = 4*T(n/2) + 2*0(n)
+C) T(n) = T(n/4) + 4*0(n)
+D)T(n) = 4*T(n/4) + 4*0(n)
+E) T(n) = T(n/4) + O(n)
+
+ 
+
+QUESTÃO 22 - A complexidade de tempo da questão 21 é:
+
+A) O(n?)
+
+B) O(n*)
+
+C) 0(4*n)
+D) O(n log n)
+E) O(n)
+
+ 
+
+QUESTÃO 23 - Considere o problema de somar os n elementos de um mesmo arranjo A de inteiros.
+O problema é resolvido da seguinte forma: (i) somam-se recursivamente os elementos da primeira
+metade de A; (ii) somam-se recursivamente os elementos da segunda metade de A; e (iii) soma-se
+esses dois valores juntos. Que tipo de recursão foi utilizada para a solução do problema?
+
+A) Linear.
+B) Binária.
+C) Ternária.
+D) Final.
+
+E) Múltipla.
+
+ 
+
+QUESTÃO 24 - Em relação às estruturas de dados do tipo lista, analise as assertivas abaixo,
+assinalando V, se verdadeiras, ou F, se falsas.
+
+(_ ) Uma implementação de fila por meio de arranjos é circular e delimitada pelos apontadores Frente
+e Trás. Para enfileirar um item, basta mover o apontador Trás uma posição no sentido horário;
+para desenfileirar um item, basta mover o apontador Frente no sentido horário.
+
+(.) Em uma lista duplamente encadeada, todas as inserções são realizadas em um extremo da lista,
+enquanto as exclusões e acessos são realizados no outro extremo da lista.
+
+() Filas são utilizadas quando se deseja processar itens de acordo com a ordem “primeiro-que-chega,
+primeiro-atendido”.
+
+() Uma pilha é uma lista linear nas quais inserções, exclusões e acessos a itens ocorrem sempre em
+um dos extremos da lista.
+
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+
+ 
+
+A)V-F-F-V.
+B)V-V-F-F.
+C)V-F-V-F.
+D)F-V-F-V.
+E)F-F-V-YV.
+Execução: Fundatec 7
+
+EXAME POSCOMP 2017
+
+a--—-..— —— Emma 0 —5- ED quo Senne oe ee ee ee Sp eee pee O coupe => eee ee gee
+
+de qualquer entrada é denominada “análise
+
+A) do melhor caso.
+
+B) do caso médio.
+
+C) do pior caso.
+
+D) da ordem de crescimento.
+E) do tamanho da entrada.
+
+ 
+
+QUESTÃO 26 - O caminhamento pré-fixado à esquerda para uma Árvore Binária de Pesquisa (ABP)
+é 44, 30, 12, 26, 36, 33, 92, 64, 46, 98.
+
+O caminhamento pré-fixado à direta para a mesma árvore é:
+
+A) 26, 12, 33, 36, 30, 46, 64, 98, 92, 44
+B) 44, 92, 98, 64, 46, 30, 36, 33, 12, 26
+C) 12, 26, 30, 33, 36, 44, 46, 64, 92, 98
+D) 98, 46, 64, 92, 33, 36, 26, 12, 30, 44
+E) 98, 92, 64, 46, 44, 36, 33, 30, 26, 12
+
+ 
+
+QUESTÃO 27 - A saída do trecho de código em C abaixo é:
+int i=0,j=-9,k=7, cont;
+
+for (cont= 4; cont<ll; cont++) {
+
+i = cont + 5S;
+while (k>0){
+k =k -1;
+
+3 =k + 5/2;
+}
+
+}
+
+printf("i: $d j: $d k:$d ", i, Jj, k);
+A)i: 1j: 4 k:1
+B)i: 15 j: 1 k:0
+C)i: 10 j: 14 k:2
+D)i: 13 j: 2 k:3
+
+ 
+
+E) i: 3j: 1k:4
+Execução: Fundatec 8
+EXAME POSCOMP 2017
+
+relaciona diretamente com o conceito de polimorfismo da programação orientada a objetos.
+
+Artefato
+
+    
+ 
+
+nome : String número : int
+
+imprimeNomed : void
+
+ 
+
+ 
+
+ 
+
+ 
+
+Capítulo
+
+ 
+  
+ 
+
+Livro 1 17
+
+autor : String fg een int |
+
+nutneroDePags : int
+
+ 
+
+ImprimeNomeg : void
+
+ 
+
+ 
+
+”
+
+A) A relação entre as classes “Livro” e “Capítulo”.
+B) Os atributos “número: int” e “númeroDePágs: int” da classe “Capítulo”.
+C) O método “ImprimeNome” das classes “Artefato” e “Livro”.
+
+D) O atributo “autor: String” da classe “Livro”.
+E) A relação entre as classes “Capítulo” e “Página”.
+
+ 
+
+ 
+
+QUESTÃO 29 - Analise as assertivas a seguir sobre compressão de dados:
+
+I. A técnica de codificação corrida (do inglês RLE - run-length encoding) é adequada quando existem
+longas sequências de bits repetidos, pois utiliza contadores representando sequências alternadas
+de Os e de 1s.
+
+II. A técnica de compressão de Huffman é baseada em códigos de tamanho variável, tal que os
+códigos de menor comprimento são atribuídos aos caracteres mais frequentes, e os de maior
+comprimento aos de menor frequência.
+
+III. Quando o método LZW (Lempel-Ziv-Welch) é utilizado, a mensagem resultante da compressão
+inclui também uma representação dos códigos utilizados para a compressão.
+
+IV. Não existe um algoritmo de compressão de dados universal, isto é, que transforme qualquer
+sequência de bits (bitstream) de entrada em uma outra sequência de bits menor.
+
+Quais estão INCORRETAS?
+
+A) Apenas I.
+
+B) Apenas II.
+
+C) Apenas III.
+
+D) Apenas Il e IV.
+E) Apenas III e IV.
+
+ 
+
+QUESTÃO 30 - Um dos erros mais comuns que pode ocorrer durante a avaliação de uma expressão
+aritmética em um programa é quando o resultado de uma operação não pode ser representado na
+célula de memória para o qual ele foi alocado. Esse erro é chamado de transbordamento
+( ) etransbordamento negativo ( ), dependendo se o resultado é muito
+grande ou muito pequeno.
+
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+A) big error — small error
+
+B) coerção - sobrecarga
+
+C) encapsulamento - abstração
+D) overflow — underflow
+
+E) transparência — efeito colateral
+
+ 
+
+Execução: Fundatec 9
+EXAME POSCOMP 2017
+
+mesmo nível de precedência, a questão sobre qual deles é avaliado primeiro responde-se pelas regras
+
+de:
+
+A) Associatividade.
+
+B) Expressões condicionais.
+C) Polimorfismo.
+
+D) Condutividade.
+
+E) Coerção.
+
+ 
+
+QUESTÃO 32 - Em relação ao grafo da Figura (a), as Figuras (b) e (c) representam, respectivamente,
+
+fo Vértices
+
+origem| destino
+
+1/2 4
+2/234
+
+3/1
+(4) aj23
+(a) (b) (c)
+
+ 
+
+mom jo
+nono
+oomnja
+
+(+)
+x)
+
+ 
+
+ 
+
+ 
+
+A) matriz de arestas e lista de incidências.
+
+B) matriz de adjacências e lista de adjacências.
+C) matriz de conexões e lista de arestas.
+
+D) matriz de incidências e lista de vértices.
+
+E) matriz de vértices e lista de conexões.
+
+ 
+
+QUESTÃO 33 - Relacione a Coluna 1 à Coluna 2, associando as definições dos comandos sobre laços
+em linguagens de programação.
+
+Coluna 1
+1. break.
+2. continue.
+3. loop.
+
+4. while.
+
+Coluna 2
+
+(.) Executa uma instrução ou um bloco de instruções enquanto uma determinada condição for
+verdadeira.
+
+() Termina a execução de um laço, continuando o programa na instrução imediatamente após o laço.
+
+(.) Faz com que uma iteração seja terminada, passando automaticamente à próxima iteração do laço.
+
+(.) Apresenta uma condição de teste verdadeira que nunca termina o laço.
+
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+
+ 
+
+A)1-2-3-4
+B)4-3-2-1
+C)3-1-4-2
+D)4-1-2-3
+E)2-4-3-1
+Execução: Fundatec 10
+
+EXAME POSCOMP 2017
+
+=———""
+
+arquivo baseada em n hashing sobre um campo chave (o campo hash). “assinale a alternativa
+INCORRETA, dentre as afirmações abaixo, sobre arquivos hash.
+
+ee ee ee aee eee Se qe eee ey See pee ee ee gee ee gee oH
+
+A) O espaço do endereço-alvo da função hash são buckets, isto é, blocos de disco (ou grupos
+consecutivos de blocos de disco), cada qual mantendo múltiplos registros.
+
+B) O problema de colisão é resolvido utilizando buckets em áreas de overflow.
+
+C) Arquivos hash possibilitam acesso muito rápido a pesquisas baseadas na igualdade de valor do
+campo hash.
+
+D)O hashing extensível possui um diretório com profundida global d, que corresponde aos d dígitos
+mais significativos de um valor de hash. Já cada bucket possui profundidade local d' possivelmente
+distinta dos demais buckets, tal que d<=d”.
+
+E) Uma grande vantagem do hashing extensível é que o desempenho do arquivo não degrada
+conforme o arquivo cresce, em oposição ao hashing estático.
+
+ 
+
+QUESTÃO 35 - Analise as seguintes assertivas sobre organização primária de arquivos, assinalando
+V, se verdadeiras, ou F, se falsas.
+
+(.) Em arquivos desordenados (heap), as operações de inserção são bastante eficientes, porque novos
+registros são acrescentados ao final do arquivo.
+
+(.) Em arquivos ordenados, a busca por registros baseados na chave de ordenação é bastante
+eficiente, desde que seja comparação por igualdade de valor.
+
+( ) Uma técnica para tornar o desempenho de operações de inserção mais eficientes em arquivos
+ordenados é utilizar um arquivo desordenado temporário, sendo que o arquivo ordenado passa a
+ser chamado arquivo principal (ou mestre).
+
+(.) O desempenho da pesquisa baseada em um campo de arquivos desordenados pode ser melhorado
+através de pesquisa binária.
+
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é
+
+A)V-V-F-V.
+B)V-F-F-F.
+OF-F-V-F
+D)F-V-F-V.
+E) V-F-V-F.
+
+ 
+
+QUESTÃO 36 - Sobre percurso em grafos, é correto afirmar que um percurso:
+
+A) É uma família de ligações sucessivas incidentes, cada uma tendo uma extremidade incidente à
+anterior e à outra subsequente.
+
+B) É fechado, se a última ligação da sucessão for adjacente à primeira.
+
+C) Aberto não pode conter subpercursos fechados.
+
+D) É elementar, se não repetir ligações.
+
+E) É simples, se não repetir vértices.
+
+ 
+
+Execução: Fundatec 11
+EXAME POSCOMP 2017
+
+   
+
+direcionada (u,v) indica que a atividade u tem que ser realizada antes da atividade v. Por exemplo, a
+atividade 3 (representada pelo vértice 3) somente pode ser iniciada após o término das atividades O
+e 2, já a atividade 9 pode ser realizada em qualquer ordem.
+
+-- -- emo ua gee Qey ee eee eee peewee eee See eH
+
+ 
+
+A Figura (b) acima mostra para o grafo da Figura (a)
+
+A) os componentes fortemente conectados que representam as atividades mutualmente alcançáveis
+a partir de cada vértice.
+
+B) o caminhamento entre todas as atividades, usando o algoritmo de busca em largura.
+
+C) a árvore geradora mínima que representa todas as possibilidades de conexão entre as atividades,
+usando o menor fluxo possível entre elas.
+
+D) o caminhamento entre todas as atividades, usando o algoritmo de busca em profundidade.
+
+E) a ordenação topológica que mostra a ordem em que as atividades devem ser processadas.
+
+ 
+
+QUESTÃO 38 - Analise as seguintes afirmações sobre subprogramas em linguagens de programação:
+
+I. Cada subprograma tem um único ponto de entrada.
+
+II. O controle sempre retorna para o chamador quando a execução do subprograma termina.
+III. A unidade chamadora é suspensa durante a execução do subprograma chamado.
+IV. Uma chamada a um subprograma é a requisição explícita para que ele seja executado.
+
+Quais estão corretas?
+
+A) Apenas le IV.
+
+B) Apenas II e III.
+
+C) Apenas I, Il e III.
+D) Apenas II, II e IV.
+E) 1, I, Ill e Iv.
+
+ 
+
+QUESTÃO 39 - Analise as seguintes assertivas sobre autômatos e linguagens:
+
+I. Autômatos finitos determinísticos e autômatos finitos não determinísticos aceitam o mesmo
+conjunto de linguagens.
+II. Seja L uma linguagem livre de contexto, existe um autômato com duas pilhas determinístico que
+reconhece L.
+III. Toda linguagem enumerável recursivamente é também uma linguagem recursiva.
+
+Quais estão corretas?
+
+A) Apenas I.
+
+B) Apenas II.
+
+C) Apenas le II.
+D) Apenas I e III.
+E) Apenas II e III.
+
+ 
+
+Execução: Fundatec 12
+EXAME POSCOMP 2017
+
+a-=> ee See ee ooo
+
+A) A união de duas linguagens recursivas é uma linguagem recursiva.
+
+B) Segundo a Tese de Church, a capacidade de computação representada pela máquina de Turing é o
+limite máximo que pode ser atingido por qualquer modelo de computação.
+
+C) Seja L uma linguagem enumerável recursivamente, se o complemento de L for enumerável
+recursivamente, então L é uma linguagem recursiva.
+
+D) Um problema X é NP-completo quando X pertence à classe NP e, adicionalmente, X é redutível em
+tempo polinomial para qualquer outro problema Y na classe NP.
+
+E) Todo problema que está na classe P também está na classe NP.
+
+ 
+
+QUESTÃO 41 - Considere dois problemas de decisão PA e PB, sendo PA indecidível e PB decidível.
+Observe também dois problemas de decisão PC e PD, cuja decidibilidade é desconhecida. Suponha
+que seja possível construir de forma correta as seguintes reduções:
+
+e de PA para PC.
+e de PD para PA.
+e de PD para PB.
+
+Com base no cenário descrito, assinale a alternativa correta.
+
+A) Não se pode afirmar nada sobre a decidibilidade dos problemas PC e PD.
+
+B) Não se pode afirmar nada sobre a decidibilidade de PC, porém PD é decidível.
+
+C) PC é indecidível e PD é decidível.
+
+D) PC e PD são ambos indecidíveis.
+
+E) PC é indecidível, contudo não se pode afirmar nada sobre a decidibilidade de PD.
+
+ 
+
+QUESTÃO 42 - Um PLD que armazena sua configuração em memórias do tipo SRAM é, segundo sua
+capacidade de configuração, e, segundo sua capacidade de armazenamento,
+Um PLD que armazena sua configuração em memórias do tipo EEPROM ou FLASH é, segundo sua
+capacidade de configuração, e, segundo sua capacidade de armazenamento,
+
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+A) reprogramável — não volátil - reprogramável — volátil
+
+B) programável somente uma vez - não volátil - reprogramável — não volátil
+C) reprogramável — volátil - reprogramável — volátil
+
+D) reprogramável - volátil - reprogramável — não volátil
+
+E) reprogramável - volátil - programável somente uma vez — não volátil
+
+ 
+
+ 
+
+Execução: Fundatec 13
+EXAME POSCOMP 2017
+AO ——00
+A1 ——01
+— Y
+A2 —10
+AS — 11
+SO S1
+
+I. A figura representa o símbolo lógico de um multiplexador 4:1.
+II. Um multiplexador 8:1 pode ser composto por 2 multiplexadores 4:1 e um multiplexador 2:1.
+III. A saída Y do multiplexador representado na figura recebe AO quando S0=0 e Sl=1.
+IV. O multiplexador representado pela figura pode ser implementado com 4 portas lógicas AND
+NEGADA (NAND) de 3 entradas, 1 porta lógica AND NEGADA (NAND) de 4 entradas e 2 inversores.
+V. O multiplexador representado pela figura pode implementar qualquer função booleana de 2
+entradas: S0 e Si.
+
+Quais estão corretas?
+
+A) Apenas le II.
+
+B) Apenas I e III.
+
+C) Apenas III e IV.
+
+D) Apenas II, IVeV.
+E) Apenas I, II, IVeV.
+
+ 
+
+QUESTÃO 44 - Considere que um processador tenha 16 bits de endereçamento de byte. Sua cache
+possui mapeamento direto com uma capacidade de 128 palavras e blocos de 8 palavras. O endereço
+se divide em campos para acesso à cache de acordo com a seguinte representação:
+
+ 
+
+Etiqueta i
+Indice ii
+Palavra dentro do bloco iii
+Byte dentro da palavra iv
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O número de bits de cada um dos campos acima, ou seja, os valores de i, ii, lii e iv são,
+respectivamente:
+
+A) 12,6,5e3
+B)8, 4,3e1
+C)8,6,5e3
+D)12,4,3e1
+E) 12,6,3e1
+
+ 
+
+Execução: Fundatec 14
+EXAME POSCOMP 2017
+
+operacional aloca 1 página de memória 2 virtual para armazenar a matriz M do código da Figura 1
+(linguagem C). A execução desse código resultará em quantas faltas de páginas (page faults)?
+
+ 
+
+char M[512][1024];
+for (j=0; j<1024; j++)
+
+for (i=0; i<512; i++)
+Figura 1
+
+ 
+
+ 
+
+ 
+
+A) Zero
+
+B) 512
+
+C) 1024
+
+D) 512x512
+E) 512x1024
+
+ 
+
+QUESTÃO 46 - Uma partição de disco rígido é formatada com um sistema de arquivos que utiliza
+alocação encadeada baseada em tabela de alocação de arquivos (FAT). Após a formatação, a partição
+possui setores de 512 bytes e tamanho de bloco (cluster) de 2048 bytes. Ao criar um arquivo nessa
+partição, gravar 1 byte e fechá-lo, qual espaço esse arquivo ocupa na área de dados da partição?
+
+A)1 byte
+
+B) 2 bytes
+
+C) 512 bytes
+D) 2048 bytes
+
+ 
+
+E) 1 setor
+Execução: Fundatec 15
+EXAME POSCOMP 2017
+
+não o armazenamento de novo o dado de entrada e reset assincrono. Sobre « esse registrador, analise as
+seguintes assertivas:
+
+reset
+clk
+
+carrega
+
+R
+
+I. O registrador irá para o estado de reset, ou seja, cada bit do registrador vai para um estado inicial
+definido no projeto, quando o sinal de reset = 1, independentemente do valor do sinal do relógio
+clk.
+
+II. A única maneira de manter o valor armazenado nesse registrador é realizando clock gating, ou
+seja, forçando o sinal de relógio clk ao valor O.
+
+III. O valor da entrada A é armazenado no registrador quando as entradas reset = 0, carrega = 1 e
+o relógio clk = 1.
+
+IV. Quando há a transição do sinal do relógio de O para 1 (clk varia O para 1) e o sinal de carrega =
+0 e reset = 0, o registrador armazena o valor da entrada A.
+
+V. O registrador é formado por um conjunto de elementos de memória, chamados de flip-flop. O
+número de flip-flop é proporcional ao número de bits que o registrador pode armazenar.
+
+Quais estão corretas?
+
+A) Apenas le V.
+
+B) Apenas II e III.
+C) Apenas I, II e IV.
+D) Apenas I, IVe V.
+E) 1, I, Ill, Vev.
+
+ 
+
+QUESTÃO 48 - RAID é um conjunto de discos físicos vistos pelo Sistema Operacional como uma
+única unidade lógica. O RAID tem as seguintes características:
+
+I. RAID A: Redundante, espelhamento de discos, utiliza o dobro de discos.
+II. RAID B: Acesso paralelo, paridade de bit intercalada nos discos, utiliza apenas um disco.
+II. RAID C: Acesso independente, paridade de bloco intercalada e distribuída.
+
+De acordo com as configurações dos itens I, Il e III, os RAID A, Be C são, respectivamente:
+
+A) RAID 0, RAID 2 e RAID 4.
+B) RAID 2, RAID 4 e RAID 6.
+C) RAID 0, RAID 3 e RAID 5.
+D) RAID 1, RAID 3 e RAID 5.
+E) RAID 1, RAID 4 e RAID 6.
+
+ 
+
+Execução: Fundatec 16
+EXAME POSCOMP 2017
+
+a--—-..— ee =000000.0 0 Dogue 00.0 no pocgenea eo gee geet eeepc ee
+
+.data 0x10010000 % segmento de dados
+palavra1: word 13
+palavra2: .word 0x15
+
+Em hexadecimal, os valores da palavral e palavra2 são, respectivamente:
+
+A) 0x10010002 e 0x10010002
+B) 0x10010000 e 0x10010004
+C) 0x10010002 e 0x10010006
+D) 0x10010000 e 0x10010008
+E) 0x10010002 e 0x10010010
+
+ 
+
+QUESTÃO 50 - Analise o código a seguir:
+
+ 
+
+void thread ( void *ptr ){ while(1); }
+
+int main() {
+inti; pthread_t tid[10];
+for(i=0;i<10;i++)
+pthread_create (&tid[i], NULL, (void *) thread, NULL);
+getchar();
+}
+
+ 
+
+ 
+
+ 
+
+Ao executar esse programa, o processo criado possuirá quantos fluxos de execução (threads) no
+instante em que finalizar o laço for(;;)?
+
+A) Um.
+B) Dois.
+C) Nove.
+D) Dez.
+E) Onze.
+
+Execução: Fundatec 17
+EXAME POSCOMP 2017
+
+==> 00>>0 >>. 0 — 0000000. = ---5--=
+
+QUESTÃO 51 - Qualquer relação r(R), pertinente ao esquema de relação R(A1, A2, ..., An), é um
+subconjunto do produto cartesiano dos domínios dos atributos que definem R. Em relação às
+características de relações, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.
+
+( ) A ordenação das tuplas de uma relação é indiferente, visto que uma relação é definida como um
+conjunto de tuplas.
+
+( ) Uma tupla é uma lista ordenada de valores, então há uma posição relativa pré-definida para cada
+valor de atributo na tupla (por exemplo, o valor “13/02/2000”, pertinente ao atributo “data de
+nascimento”, é o terceiro valor na lista de valores de uma tupla).
+
+() Os atributos da chave primária são, obrigatoriamente, os primeiros atributos na lista de atributos
+definida no esquema de relação.
+
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:
+
+A)V-F-F.
+B)F-V-F
+C)V-F-Vv.
+D)F-F-Vv.
+E)V-V-F.
+
+ 
+
+QUESTÃO 52 - Considere as descrições de dois mecanismos de segurança de banco de dados: (i)
+duas ou mais tuplas em diferentes níveis de classificação são gravadas, ambas com o mesmo valor de
+chave aparente; e (ii) uma única tupla é gravada pertinente ao nível de classificação mais elevado, e
+ocorre a produção de tuplas correspondentes a níveis inferiores. Tais mecanismos de segurança são
+denominados, respectivamente,
+
+A) acesso discricionário e poli-instanciação.
+B) filtragem e poli-instanciação.
+
+C) poli-instanciação e filtragem.
+
+D) filtragem e acesso discricionário.
+
+E) poli-instanciação e acesso discricionário.
+
+ 
+
+QUESTÃO 53 - Em Engenharia de Software, as atividades abaixo são essenciais à gestão de
+configuração:
+
+de gerenciamento de configuração.
+Gerenciamento de .
+Gerenciamento de versões e de
+
+de sistemas.
+
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+A) Planejamento - mudanças - componentes - Auditoria
+
+B) Definição - auditoria - releases - Construção
+
+C) Definição - mudanças - itens de configuração - Auditoria
+
+D) Planejamento - mudanças - releases - Construção
+
+E) Planejamento - auditoria — itens de configuração - Construção
+
+ 
+
+Execução: Fundatec 18
+EXAME POSCOMP 2017
+
+w-——--.— - meee eee 00 See perenne Hey Gees eee emo = pi--=2000 4=0 «00000. 0 po-—
+
+de entrada?
+
+A) Porta.
+
+B) Endereço IP.
+
+C) Endereço Ethernet.
+
+D) Identificador do processo.
+E) Endereço URL.
+
+ 
+
+QUESTÃO 55 - Em consultas escritas em SQL, quando há pelo menos um NULL no predicado da
+cláusula WHERE, o resultado da avaliação é “desconhecido” (exceto quando são explicitamente
+empregados IS NULL ou IS NOT NULL); por exemplo, o resultado da avaliação de 3+NULL>7 é
+“desconhecido”. Portanto, “verdadeiro”, “falso” e “desconhecido” são os resultados possíveis na
+avaliação de predicados da cláusula WHERE. A regra geral é que são selecionadas apenas as
+combinações de tuplas em que o predicado é avaliado como “verdadeiro”. Seja a relação R que possui
+quatro tuplas - (12, 15, 5100), (13, NULL, 3500), (14, NULL, NULL) e (15, 12, NULL) - em que o
+primeiro, o segundo e o terceiro valores em cada tupla referem-se aos atributos ati, at2 e at3,
+respectivamente. Os comandos a seguir representam consultas sobre R:
+
+(C1) select * from R
+
+where (ati>=12) AND (at2>14)
+(C2) select * from R
+
+where (at2>12) OR (at3>3000)
+(C3) select * from R
+
+where (NOT (ati<at2))
+
+A quantidade de tuplas retornadas pelas execuções dos comandos (C1), (C2) e (C3), respectivamente,
+é:
+
+A) dois, um e dois.
+B) dois, dois e um.
+C) um, um e dois.
+D) um, dois e um.
+E) dois, dois, dois.
+
+ 
+
+QUESTÃO 56 - A UML é um conjunto de notações que servem para modelagem de diferentes
+aspectos de um sistema de software. Essas notações permitem criar diferentes tipos de diagramas,
+dentre eles:
+
+e Um Diagrama de permite modelar a arquitetura do sistema em tempo de
+execução, mostrando a configuração dos elementos de hardware (nós) e como os componentes de
+software são mapeados nestes nós.
+
+e Um Diagrama de permite modelar a organização estrutural da
+arquitetura/implementação em termos de componentes de software e suas dependências.
+
+e Um Diagrama de permite modelar a troca de mensagens entre objetos,
+enfatizando seu sequenciamento no tempo.
+
+e Um Diagrama de permite modelar a arquitetura através de agrupamentos lógicos,
+e de dependências entre estes.
+
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+A) Implantação - Classes - Sequência - Componentes
+
+B) Componentes - Classes - Interação - Pacotes
+
+C) Implantação - Componentes - Sequência - Pacotes
+D) Componentes - Pacotes - Sequência - classes
+
+E) Implantação - Componentes - Comunicação - Pacotes
+
+ 
+
+Execução: Fundatec 19
+EXAME POSCOMP 2017
+
+-=— 0.0 -- Ree eee ee eee Se eee ee ge ee See 2 ee eee ee Se ee ee eee eee +e pe eee ee
+
+x
+recorte, analise as assertivas abaixo:
+
+I. Denomina-se window a area do universo que sera mapeada para a tela, e viewport a area de tela
+que sera utilizada nesse processo.
+II. Se as razões entre a largura e altura da window e a largura e a altura da viewport nao forem as
+mesmas, ocorrerá uma mudança não uniforme de escala.
+II. O recorte de linhas (clipping) pode ser feito tanto no sistema de coordenadas do universo como
+no da tela.
+
+Quais estão corretas?
+
+A) Apenas I.
+
+B) Apenas II.
+
+C) Apenas III.
+
+D) Apenas I e III.
+E) I, Ile III.
+
+ 
+
+QUESTÃO 58 - No processo de visualização tridimensional, a região do universo que será recortada
+e projetada sobre o plano de projeção é denominada:
+
+A) Projeção perspectiva.
+
+B) Volume de visão.
+
+C) Sistema de referência da câmera.
+D) Observador.
+
+E) Plano de recorte frontal.
+
+ 
+
+QUESTÃO 59 - São técnicas de processamento digital todas as opções abaixo, EXCETO:
+
+A) Processamento morfológico.
+B) Amostragem e quantização.
+C) Segmentação.
+
+D) Têmpera simulada.
+
+E) Limiarização.
+
+ 
+
+QUESTÃO 60 - Qual protocolo faz o mapeamento de endereço IP em endereço Ethernet?
+
+A) IEEE 802.11
+B) DNS
+
+C) TCP
+
+D)IP
+
+E) ARP
+
+ 
+
+QUESTÃO 61 - Sobre a transformada wavelet para processamento digital de imagens, é correto
+afirmar que:
+
+A) É um algoritmo que produz classificação de objetos na imagem.
+
+B) É uma técnica que permite o processamento da imagem em multirresolução.
+
+C) É uma técnica capaz de extrair frequências da imagem sem a localização temporal das mesmas.
+D) É uma técnica que permite a geração de imagens de maior resolução.
+
+E) É um algoritmo capaz de compreender informações granulares em imagens digitais.
+
+ 
+
+Execução: Fundatec 20
+EXAME POSCOMP 2017
+
+estruturados para um serviço de eventos e assinantes expressam interesse em eventos específicos
+
+por meio de assinaturas?
+
+A) Comunicação em grupo.
+
+B) Sistema publicar-assinar.
+
+C) Filas de mensagens.
+
+D) Memória compartilhada distribuída.
+E) Espaços de tuplas.
+
+ 
+
+QUESTÃO 63 - Uma representação intermediária do programa fonte pode ser gerada com a
+transformação da árvore de derivação em um segmento de código. Em relação à etapa de geração de
+código intermediário do compilador, qual das alternativas está INCORRETA?
+
+A) Definindo-se uma representação intermediária adequada, um compilador construído pode combinar
+um front-end para uma linguagem x com um back-end para a linguagem y.
+
+B) Árvores de sintaxe e códigos de três endereços são algumas das possibilidades de representação
+intermediária.
+
+C) Linguagens de alto nível, como, por exemplo, a linguagem C, podem ser utilizadas como uma forma
+de representação intermediária.
+
+D) Na geração de código intermediário, são realizadas tarefas como seleção de instruções, alocação e
+atribuição de registrador e escalonamento de instruções que dependem do conhecimento da
+máquina-alvo para a qual será gerado o código objeto.
+
+E) Uma das vantagens da aplicação da fase de geração de código intermediário é a possibilidade de
+realização de otimização e a tradução do código para diversas máquinas.
+
+ 
+
+QUESTÃO 64 - Em sistemas de arquivos distribuídos, o requisito no qual os programas clientes não
+devem conhecer a distribuição de arquivos, sendo que um único conjunto de operações é fornecido
+para acesso a arquivos locais e remotos, é denominado transparência de
+
+A) acesso.
+
+B) desempenho.
+C) escala.
+
+D) localização.
+E) mobilidade.
+
+ 
+
+QUESTÃO 65 - Ethernet é um padrão para redes locais. Qual das alternativas abaixo NÃO é função
+do Ethernet?
+
+A) Conexão de redes locais.
+
+B) Controle de congestionamento.
+
+C) Envio de pacotes.
+
+D) Definição de cabeamento e sinais elétricos.
+E) Detecção de colisão.
+
+ 
+
+QUESTÃO 66 - Inteligência Artificial é uma área da ciência que se propõe a elaborar algoritmos que
+simulem a capacidade cognitiva humana. Assinale a técnica computacional que NÃO faz parte de
+Inteligência Artificial.
+
+A) Sistemas multiagentes.
+
+B) Redes neurais artificiais.
+
+C) Algoritmos genéticos.
+
+D) Filtros de transformação espacial.
+E) Lógica difusa.
+
+ 
+
+Execução: Fundatec 21
+EXAME POSCOMP 2017
+
+a-=—-..— —- freee Se Se gee eee See ee ge ee See ee ee gee See pe eee ee 0. 2.00.
+
+distribuídos:
+
+I. A essência da comunicação persistente é que uma mensagem apresentada para transmissão é
+armazenada pelo sistema de comunicação pelo tempo que for necessário para entrega-la.
+
+II. Em comunicação transiente, nenhuma facilidade de armazenamento é oferecida de modo que o
+receptor deve estar preparado para aceitar a mensagem quando ela for enviada.
+
+III. Em comunicação síncrona, o remetente tem permissão de continuar imediatamente após a
+mensagem ter sido apresentada para transmissão, possivelmente antes de ela ter sido enviada.
+
+IV. Em comunicação assíncrona, o remetente é bloqueado no mínimo até que uma mensagem seja
+recebida. Alternativamente, o remetente pode ser bloqueado até ocorrer a entrega da mensagem
+ou, até mesmo, até que o receptor tenha respondido.
+
+Quais estão corretas?
+
+A) Apenas le II.
+
+B) Apenas III e IV.
+
+C) Apenas I, Il e III.
+D) Apenas II, II e IV.
+E) 1, I, Ill e Iv.
+
+ 
+
+QUESTAO 68 - A tarefa principal de um analisador léxico consiste em ler os caracteres da entrada
+do programa-fonte, agrupá-los em lexemas e gerar uma sequência de tokens que será enviada ao
+analisador sintático. Sobre o analisador léxico, analise as assertivas abaixo:
+
+I. Além da identificação de lexemas, outras tarefas podem ser realizadas por esse analisador, tais
+como: remoção de comentários e espaços em branco e a associação de mensagens de erros às
+linhas do programa-fonte.
+
+II. Token é a unidade básica do texto-fonte. Pode ser representado por três informações: a classe do
+token, que representa o tipo do token reconhecido, o valor do token, que é o texto do lexema
+reconhecido e a posição que indica o local do texto-fonte (linha e coluna) onde ocorreu o token.
+
+III. Expressões regulares e geradores de analisadores léxicos são notações utilizadas para especificar
+os padrões de lexemas.
+
+IV. Na análise léxica, uma representação intermediária do tipo árvore é criada. Esta apresenta a
+estrutura gramatical da sequência de tokens.
+
+Quais estão corretas?
+
+A) Apenas I.
+
+B) Apenas II.
+
+C) Apenas IV.
+
+D) Apenas le II.
+E) Apenas III e IV.
+
+ 
+
+QUESTÃO 69 - O termo Aprendizado de Máquina pode ser corretamente definido como:
+
+A) A capacidade de um dispositivo eletrônico resolver um problema.
+
+B) A construção de sistemas capazes de adquirir conhecimento a partir de exemplos.
+
+C) Um programa de computador que toma decisões baseado em experiências não mapeadas.
+D) Um programa de computador que executa com perfeição uma tarefa.
+
+E) Um programa de computador que evolui automaticamente para versões aprimoradas.
+
+ 
+
+Execução: Fundatec 22
+EXAME POSCOMP 2017
+
+específicas de software, mas, sim, a propriedades que o sistema deve possuir, ou restrições que deve
+
+atender. Existem diferentes tipos de requisitos funcionais. Abaixo estão listados exemplos para
+
+diferentes tipos de requisitos não funcionais:
+
+ep == ge
+
+. : o software deve ser desenvolvido utilizando a linguagem de programação
+Java versão 7.4.
+
+. : deve ser possível acessar o sistema a partir dos browsers Chrome, Internet
+Explorer e Safari.
+
+. : O sistema deve extrair os tweets da plataforma Tweeter utilizando a API REST
+
+disponível para este fim (detalhes de acesso à API em www.tweeter.com/API).
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.
+
+A) Desempenho - Portabilidade - Padrões
+
+B) Eficiência - Padrões - Portabilidade
+
+C) Implementação - Interoperabilidade - Portabilidade
+D) Implementação - Portabilidade - Interoperabilidade
+E) Eficiência - Padrões - Interoperabilidade
+
+ 
+
+Execução: Fundatec 23
+EXAME POSCOMP 2017
+

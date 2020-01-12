@@ -1,0 +1,1862 @@
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+ 
+
+— QUESTÃO 05
+
+A figura a seguir representa parte do gráfico da derivada de uma função polinomial.
+
+ 
+
+ 
+
+De acordo com os dados apresentados neste gráfico, a função polinomial apresenta
+
+(A) um ponto de mínimo local em x..
+(B) um ponto de maximo local em xy.
+(C) um ponto de inflexão em xo.
+
+(D) um ponto de mínimo local em xs.
+
+(E) um ponto de máximo local em xs.
+
+— QUESTÃO 06
+
+ 
+
+As mudanças de coordenadas, obtidas por meio de transformações, são muito utilizadas na resolução de equações diferenciais. Con-
+sidere a chamada equação da onda
+
+ 
+
+onde F(x,t) é uma função contínua com derivadas parciais contínuas até segunda ordem e c é uma constante.
+Aplicando-se uma mudança de coordenadas, mediante a transformação
+u=x+ct e v=x—ct,
+
+a equação da onda pode ser escrita como
+
+(A) Fat ,=0
+
+(B) Fur w=0
+
+(C) F,=0
+
+(D) Fy72F y+ F =0
+
+(E) Fy 72 Fy F,=0
+
+uu
+
+ 
+
+— QUESTÃO 07
+
+Considere o seguinte problema de programação linear: maximize 2x,+x,, sujeito a x,+x,=4, x<3,  x,>2,
+x,20,x,>0.
+
+O problema dual associado pode ser formulado como:
+
+(A) minimize 2y,+3y,+4», sujeitoa y+),23, yy ty;21, 20,  y,20, Y;<0.
+(B) minimize 4y,+3y,+2y;, sujeitoa y+),22, ty, 20, Y,20, 350.
+(C) minimize y,+y,+4y;, sujeitoa yty,>4, yty,21, yelR, y,20, y»<0.
+(D) minimize 4y,+3y,+2y;, sujeitoa y,+y,>1, yty;22, y,EIR, 3,20, 20.
+
+(E) minimize 4),+3 y,+2y,, sujeitoa y,+y,>2, Vital yer, 3,20, Y;<0.
+
+ 
+
+2/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+— QUESTÃO 05
+
+ 
+
+A figura a seguir representa parte do gráfico da derivada de uma função polinomial.
+
+ 
+
+ 
+
+De acordo com os dados apresentados neste gráfico, a função polinomial apresenta
+
+(A) um ponto de mínimo local em x..
+(B) um ponto de maximo local em xy.
+(C) um ponto de inflexão em xo.
+
+(D) um ponto de mínimo local em xs.
+
+(E) um ponto de máximo local em xs.
+
+ 
+
+— QUESTÃO 06
+
+As mudanças de coordenadas, obtidas por meio de transformações, são muito utilizadas na resolução de equações diferenciais. Con-
+sidere a chamada equação da onda
+
+ 
+
+ 
+
+OF 10°F
+
+~=0
+cor
+
+0x”
+onde F(x,t) é uma função contínua com derivadas parciais contínuas até segunda ordem e c é uma constante.
+Aplicando-se uma mudança de coordenadas, mediante a transformação
+u=x+ct e v=x—ct,
+
+a equação da onda pode ser escrita como
+
+(A) Fat ,=0
+
+(B) Fur w=0
+
+(C) F,=0
+
+(D) Fy72F y+ F =0
+
+©) Fy -2 Fy Fu=0
+
+uu
+
+— QUESTÃO 07
+
+ 
+
+Considere o seguinte problema de programação linear: maximize 2x,+x,, sujeito a x,+x,=4, x<3,  x,>2,
+x,20,x,>0.
+
+O problema dual associado pode ser formulado como:
+
+(A) minimize 2y,+3y,+4», sujeitoa y+),23, yy ty;21, 20,  y,20, Y;<0.
+(B) minimize 4y,+3 y,+2y;, sujeitoa yty.>2,  y,ty;21, yi 20, yr 20, 350.
+(C) minimize y,+y,+4y;, sujeitoa y,t+y,>4, VHL yer, 220, 350.
+(D) minimize 4),+3 y,+2y,, sujeitoa y,t+y,>1, Vity322, yer, 3,20, Y;>0.
+
+(E) minimize 4),+3 y,+2y,, sujeitoa y,+y,>2, Vital yer, 3,20, Y;<0.
+
+ 
+
+2/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+— QUESTÃO 08
+
+ 
+
+Um prisma é delimitado pelos planos de equações x=0,7=0,7=0,y=5 e 3x+7z=21.
+O valor numérico do volume desse prisma é:
+
+(A) 37,5
+
+(B) 39,5
+
+(C) 43,5
+
+(D) 47,5
+
+(E) 52,5
+
+— QUESTAO 09
+
+ 
+
+Segundo o conceito de relações,
+(A) arelação x+y=10 define uma relação de equivalência sobre o conjunto dos números naturais.
+
+(B) a relação de congruência módulo m sobre Z dadapor xRy@x=ymod(m), onde mEZ e m>l, determina em
+Z um conjunto quociente que possui exatamente m—1 elementos.
+
+ 
+
+(C) arelagao de divisibilidade sobre IN dadapor xRy@x|y é uma relação de ordem total.
+
+D) arelagaéo sobre IR definidapor xRy@x<y é uma relação de ordem total.
+¢ Pi wy y Ç
+
+(E) arelação de equivalência R=[(a,a),(b,b),(c,c),(a,c),(c,a)] possui exatamente três classes de equivalência.
+
+— QUESTÃO 10
+
+ 
+
+O trabalho realizado pelo campo diferenciável F(x,y)>| xy’, vty’) para percorrer a circunferéncia x+y =l, no senti-
+do anti-horário, é:
+
+(A) 3m
+(B) 3
+(O 3 :
+D 3 g
+© 3%
+
+— QUESTÃO 11
+
+ 
+
+Uma expressão booleana equivalente à expressão (xVy)?z é dada por:
+
+(A) (x33)v(y>2)
+
+ 
+
+(B)  (x>2)v(y52)
+(O) (xaz)ry
+(D) (x y)A(y>z)
+(E) (x>z)A(y>z)
+3/26
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+ 
+
+— QUESTÃO 12
+
+Considere as seguintes premissas (onde X, Y, Z e W são conjuntos não vazios):
+P, :“X está contido em Y e em Z, ou X está contido em W”.
+P, :“X não está contido em W?”.
+
+Pode-se, então, concluir que, necessariamente,
+
+(A) X está contido em Z.
+
+(B) Y está contido em Z.
+
+(C) Y está contido em Z ou em W.
+
+(D) X não está contido em W e nem em Y.
+
+(E) Y está contido em W.
+
+— QUESTÃO 13
+
+ 
+
+Um grupo de 10 pessoas é composto por 4 homens e 6 mulheres. Nesse caso,
+
+6!4!
+
+(A) o número de maneiras de selecionar uma comissão de cinco pessoas é igual a Sr:
+
+(B) o número de maneiras de selecionar uma comissão de três pessoas, contendo um homem e duas mulheres, é igual a
+
+6!
+alto.
+
+(C) o número de maneiras de selecionar uma comissão de quatro pessoas na qual não constem homens é iguala 10/—4!.
+
+10!
+
+(D) o número de maneiras de organizar as dez pessoas em fila indiana é igual a Ter
+
+(E) o número de maneiras de organizar as dez pessoas em fila indiana, de forma que os homens sejam os quatro primeiros da fila,
+éiguala 4/6!/.
+
+ 
+
+— QUESTÃO 14
+Dados dois conjuntos, 4 e B, com base nas operações elementares da teoria dos conjuntos, constata-se que:
+(A) A-B=ANBº
+
+(B)  (AnB)f=4“nBº
+
+(C) o conjunto das partes de 4 possuirá 2" elementos, se 4 for finito e possuir n elementos.
+
+(D) taje4 e lajgA4, se A=(a,la),(a,b)).
+
+(E) (ANB)UBS=A°NB
+
+— QUESTÃO 15
+
+ 
+
+Aexpressão (pA(7(->pvq)))V(pAq), quando simplificada, resulta em
+
+ 
+
+(A) apvg
+(B) q
+O p
+(D) pag
+(E) pvqg
+4/26
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+— QUESTÃO 16
+
+ 
+
+De acordo com a teoria de grupos,
+(A) oconjunto 4=[xeQ:x>0), munido da operação de adição usual, é um grupo abeliano.
+
+(B) o conjunto B=[0,+1,+3,...]), munido da operação de multiplicação usual, é um subgrupo de Q, também munido da
+mesma operação.
+
+(C) oconjunto 4=[x€Q:x>0), munido da operação de multiplicação usual, é um subgrupo de Q—(0), também munido da
+operação de multiplicação usual.
+
+(D) afunção f:IRAIR, dadapor f(x)=x+1, é um homomorfismo de IR em IR, ambos munidos da operação de adi-
+ção usual.
+
+(E) afunção g:IR-[0]2R—[0), dadapor g(x)=|x|, é um isomorfismo de IR-[0) em IR—[0}, ambos munidos da
+operação de multiplicação usual.
+
+ 
+
+— QUESTÃO 17
+
+A quantidade de números inteiros situados entre 1 e 42.000 inclusive, que não são divisíveis por 2, nem por 3 e nem por 5, é igual a:
+
+(A) 8.400
+(B) 11.200
+(C) 15.600
+(D) 16.400
+(E) 18.200
+
+ 
+
+— QUESTAO 18
+Uma urna contém 10 bolas brancas e n > 0 bolas pretas. Duas bolas são retiradas sem reposição e ao acaso dessa uma. Dado que
+uma bola preta foi retirada na segunda extração, para que a probabilidade condicional de retirar uma bola branca na primeira extra -
+ção seja igual a 1/3, o valor de n deverá ser igual a:
+
+(A) 21
+
+(B) 25
+
+(C) 31
+
+(D) 32
+
+(E) 34
+
+ 
+
+— QUESTAO 19
+Considere 0 grafo G=(N,A) dado a seguir.
+
+ 
+
+Pode-se, então, concluir que
+
+(A) 214/=>; d;+1, onde d, denota o grau do i-ésimo nó.
+
+EN
+(B) G= é euleriano.
+(O Gs
+(D) H=(N,A) éumsubgrafode G=(N,A), onde N=(a,e,f,h) e Á=[fa,c), le, f)lf,h)).
+
+(E) G=(N,4) não é planar.
+
+não é conexo.
+
+ 
+
+5/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+—QUESTAO 20
+
+ 
+
+O tempo requerido para executar determinada tarefa foi medido em dois sistemas, A e B. Os tempos para o sistema A foram 8,19;
+4,57; 3,38; 2,50; 3,60; 1,74. Ja para o sistema B foram 5,36; 3,52; 0,62; 1,41; 0,64; 3,26.
+
+O teste ¢ para amostras independentes apresentou o p-valor bilateral igual a 0,2343.
+Ao nível de significância a=5%, consideram-se os dois sistemas estatisticamente distintos?
+
+(A) Sim, pois o p-valor é maior que o nível de significância, o que significa que existe diferença significativa entre as médias de
+tempo de execução entre os dois sistemas.
+
+(B) Sim, pois o p-valor é maior que o nível de significância, o que significa que não existe diferença significativa entre as médias
+de tempo de execução entre os dois sistemas.
+
+(C) Não, pois o p-valor é maior que o nível de significância, o que significa que não existe diferença significativa entre as médias
+de tempo de execução entre os dois sistemas.
+
+(D) Não, pois o p-valor é maior que o nível de significância, o que significa que existe diferença significativa entre as médias de
+tempo de execução entre os dois sistemas.
+
+(E) Não, pois o p-valor é maior que a metade do nível de significância, uma vez que o teste é bilateral, não existindo diferença sig-
+nificativa entre as médias de tempo de execução entre os dois sistemas.
+
+ 
+
+6/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+FUNDAMENTOS DA COMPUTAÇÃO
+
+— QUESTÃO 21
+
+ 
+
+. ae as . us A ) n k
+Muitas das recorrências que acontecem na análise de algoritmos de divisão e conquista têm a forma F tn J=a-F [z} cn
+
+para F(n)  assintoticamente nao decrescente, @,b,kEN ,a>1,b>2,k20 ,e celR®
+Nessas condições, de acordo com o Teorema Mestre,
+
+ 
+
+log a . . og alo;
+
+e Se Togb” k , então F(n) está em o(n' gal 8») ,
+loga — x 1
+
+e Se Togb então F(n) estáem o(n logn) .
+loga ~ ,
+
+e Se log <‘ então F(n) estáem o(n')
+
+Considere os algoritmos A, Be C, que são descritos, respectivamente, pelas equações de recorrências:
+n
+F aln)=8F —|+n
+4
+n 5
+F,lnj=ar( 3} nº
+
+=| nº
+4
+
+Dado que log,2=1,log,4=2 e 10g,8=3 |, como pode-se comparar a ordem de complexidade O dos algoritmos A,
+BeC?
+
+ 
+
+(A) O(F,)> O(F,> O[F)
+e ofr<o(r;<o(Fç)
+© ofra>o(r;<o(Fç)
+©) e(Fi<olF;>olFç)
+©) (F,|=0(F,)=0(F.|
+
+— QUESTAO 22
+
+ 
+
+Quais destes algoritmos de ordenação têm a classe de complexidade assintótica, no pior caso, em O ( n log n) ?
+(A) QuickSort, MergeSort, e HeapSort
+
+(B) QuickSort e SelectionSort
+
+(C) MergeSort e HeapSort
+
+(D) QuickSort e BubbleSort
+
+(E) QuickSort, MergeSort e SelectionSort
+
+ 
+
+7/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+—QUESTAO 23
+
+ 
+
+São exemplos de aplicações práticas de listas que seguem o princípio LIFO:
+(A) a verificação de agrupamentos de tags HTML de abertura e fechamento, implementada em navegadores web; o gerenciamento
+de trabalhos de impressão realizado pelo processo spooler de impressão.
+
+(B) a alocação de uma fatia de tempo de CPU para múltiplas aplicações concorrentes, realizada por um escalonador round-robin;
+o gerenciamento de pacotes em redes de computadores, implementado em roteadores.
+
+(C) o registro ordenado dos maiores escores obtidos em um jogo de videogame; a verificação da abertura e do fechamento de pa -
+rênteses em expressões aritméticas.
+
+(D) o gerenciamento de endereços visitados mais recentemente, encontrado em navegadores web; o mecanismo de reversão de
+operações mais recentes, implementado em editores de texto.
+
+(E) o cálculo de espaço em disco consumido por um diretório (e seus componentes) em um sistema de arquivos; a procura por pa-
+drões em cadeias de caracteres por meio da técnica de força bruta.
+
+— QUESTÃO 24
+
+ 
+
+Considere T uma árvore binária cheia, em que n, ne, n; e A representam o número de nós, o número de nós externos, o número de nós
+internos e a altura de T, respectivamente. Portanto, a essa árvore T aplica-se a seguinte propriedade:
+
+(A) m=n+1
+
+(B) h-I<n<2
+
+(0) h+Il<n<2!
+
+(D) log(ntl)<h<n-1
+
+(E) 2h+1I<n<28-1
+
+—QUESTAO 25
+
+ 
+
+Sejam T,[n)=100- n+ 15, T,|n)=10-n'+ 2:n e T,[n)=0,5:n'+ n+3 as equações que descrevem a
+complexidade de tempo dos algoritmos Algl, Alg2 e Alg3, respectivamente, para entradas de tamanho n. A respeito da ordem
+de complexidade desses algoritmos, pode-se concluir que
+
+(A) as complexidades assintóticas de Algl, Alg2 e Alg3 estão, respectivamente, em O(n) > ol n?) e oln?) .
+(B) as complexidades assintóticas de Algl, Alg2 e Alg3 estão, respectivamente, em O(n) > ol n?) e on’) .
+(C) as complexidades assintóticas de Algl, Alg2 e Alg3 estão, respectivamente, em O (100) , o(10) e O (0,5) .
+
+(D) Alg2 e Alg3 pertencem às mesmas classes de complexidade assintótica.
+
+(E) Algl e Alg2 pertencem às mesmas classes de complexidade assintótica.
+
+ 
+
+8/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+ 
+
+— QUESTÃO 26
+
+Analise o seguinte programa descrito na forma de pseudocódigo:
+
+1. algoritmo
+
+2. declare X[10], n, i, aux, flag numérico
+3. para i< 1 até 10 faça
+
+4. leia X[i]
+
+5. nel
+
+6. flag — 1
+
+7. enquanto (n < 10 E flag = 1) faça
+8. início
+
+9. flag — 0
+
+10. parai< 1 até 9 faça
+
+ll. inicio
+
+12. se (X[i] < X[i+1]) então
+
+13. inicio
+
+14. flag <—1
+
+15. aux — X[i]
+
+16. X[i] — X[i+1]
+
+17. X[i+1] — aux
+
+18. fim se
+
+19. fim para
+
+20. ne-n+]
+
+21. fim enquanto
+
+22. parai<— 1 até 10 faca
+23. escreva X[i]
+
+24. fim algoritmo
+
+Esse programa realiza a ordenação decrescente de um vetor de números inteiros, que implementa o algoritmo de
+
+(A) ordenação rápida.
+
+(B) ordenação por troca.
+(C) ordenação por seleção.
+(D) ordenação por inserção.
+
+(E) ordenação por intercalação.
+
+— QUESTÃO 27
+
+ 
+
+A linguagem de programação LISP usa o paradigma de:
+(A) programação procedural.
+
+(B) programação de tipos abstratos de dados.
+
+(C) programação orientada a objetos.
+
+(D) programação funcional.
+
+(E) programação declarativa.
+
+ 
+
+9/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+— QUESTÃO 28
+
+ 
+
+Considere o seguinte código desenvolvido em Java.
+
+public class Animal (
+int numeroPatas;
+public void fale (){};
+}
+public class Cao extends Animal {
+public void fale() {
+System.out.println ("au au");
+
+}
+
+public class Gato extends Animal {
+public void fale() {
+System.out.println ("miau");
+
+}
+
+public class GatoPersa extends Gato {
+
+public void fale() {
+System.out.println ("miauuuu") ;
+
+}
+
+}
+
+public class Tigre extends Gato {
+
+public void fale() {
+super. fale();
+System.out.printin ("rrrrrr");
+
+}
+
+}
+
+public class Principal {
+public static void main(String[] args) {
+Gato gato = new GatoPersa();
+gato.fale();
+Cao cao = new Cao();
+cao.fale();
+Tigre tigre = new Tigre();
+tigre.fale();
+}
+
+}
+
+Ao executar 0 código, a saída impressa no console é:
+
+(A) miauuuu
+au au
+miau
+rrrrrr
+
+(B) miauuuuu
+au au
+rrrrrr
+
+(C) miau
+au au
+miau
+miau
+
+(D) miau
+au au
+rrrrrr
+
+(E) miau
+au au
+miau
+rrrrrr
+
+ 
+
+10/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+— QUESTÃO 29
+
+ 
+
+O formato FITS (Flexible Image Transport System) armazena imagens de astronomia. Um cabeçalho FITS é uma coleção de 2.880
+bytes contendo registros de 80 bytes ASCII, no qual cada registro contém um metadado. O FITS utiliza o formato ASCII para o
+cabeçalho e o formato binário para os dados primários. Nesse caso, a inclusão de metadados junto aos dados
+
+(A) desfavorece a portabilidade, pois dificulta a conversão entre padrões.
+
+(B) favorece a portabilidade, embora dificulte a conversão entre padrões.
+
+(C) favorece o acesso ao arquivo por terceiros, por possuir conteúdo autoexplicativo.
+(D) desfavorece o acesso ao arquivo por terceiros.
+
+(E) é adequada ao emprego de etiquetas e palavras-chave.
+
+ 
+
+— QUESTÃO 30
+
+Considere o seguinte código em linguagem C.
+int y=12,2=-4, w=0,x;
+for (x = 0; x<9; x=x+3)
+
+{
+while (w<3) {
+y=zt wtt;
+
+zt++;
+printf ("x:%d y:%d z:%d \n", x, y, 2)?
+}
+
+Ao executar 0 código, qual é a saída impressa na tela?
+(A) x:0 y:-3 2:3
+x:3 yi-4 2:2
+x4 yi4 zil
+(B) x:0 y:-4 z:-3
+x:3 yi-2 z:-2
+x:5 y:4 zl
+(C) x:0 y:-4 z:-2
+x:3 yi-2 z:-2
+x:5 y:2 zi-1
+(D) x:0 y:-4 z:-3
+x:3 y:-3 z:-1
+x:6 y:4 z:0
+(E) x:0 y:-4 z:-3
+x:3 y:-3 z:-2
+x:6 y:4 z:-1
+
+ 
+
+11/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+ 
+
+— QUESTÃO 31
+
+Considere o código em linguagem C a seguir.
+
+void funcao (float n) { }
+main() {
+
+long numero;
+
+funcao (numero);
+
+}
+
+No referido código, a conversão implícita de tipos é um polimorfismo chamado
+(A) coerção.
+
+(B) sobrecarga.
+
+(C) paramétrico.
+
+(D) abstração.
+
+(E) público.
+
+ 
+
+ 
+
+ 
+
+— RASCUNHO
+
+12/26
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+— QUESTÃO 32
+
+ 
+
+Seja G = (V, E) um grafo em que V é o conjunto de vértices e E é o conjunto de arestas. Considere a representação de G como uma
+matriz de adjacências.
+
+ 
+
+ 
+
+o WBN KE
+
+O correspondente grafo orientado G é:
+
+ 
+
+ 
+
+(9 OO COC
+CO
+
+® GQ Ce
+CO
+iS,
+
+OQ) CDC)»
+ço
+
+mC? Ce
+i,
+
+® GQ DC)»13/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+— QUESTÃO 33
+
+ 
+
+O conceito de encapsulamento de programação orientada a objetos pode ser implementado na linguagem Java por meio de
+(A) métodos estáticos (static) e públicos (public).
+
+(B) métodos públicos (public), privados (private) e protegidos (protected).
+
+(C) classes abstratas (abstract) e métodos protegidos (protect).
+
+(D) interfaces (interface), métodos públicos (public) e métodos protegidos (protect).
+
+(E) herança (extends) e métodos estáticos (static).
+
+— QUESTÃO 34
+
+ 
+
+Índices são estruturas de acesso auxiliares usadas para aumentar a velocidade de recuperação de registros de resposta a certas
+condições de busca. Nesse sentido, um índice
+
+(A) esparso possui uma entrada de índice para cada valor da chave de busca (portanto, para cada registro) do arquivo de dados.
+Um índice denso possui entradas de índice para apenas alguns dos valores da chave de busca.
+
+(B) secundário sobre um campo não chave de um arquivo de dados implica que vários registros podem ter o mesmo valor para o
+campo de indexação. Esse índice pode ser denso, com várias entradas no índice com o mesmo valor, uma para cada registro.
+
+(C) secundário sobre um campo não chave de um arquivo de dados implica que vários registros podem ter o mesmo valor para o
+campo de indexação. Esse índice pode ser esparso, com várias entradas no índice com o mesmo valor, uma para cada registro.
+
+(D) secundário serve para ordenar fisicamente os registros no disco; um arquivo de dados pode ter diversos índices primários e, no
+máximo, um índice secundário. O índice primário pode ser especificado sobre qualquer campo de um arquivo.
+
+(E) esparso deve inserir ou eliminar registros no arquivo de dados, resultando na mesma ação sobre o seu índice, à medida que um
+par chave-ponteiro para esse registro é inserido ou eliminado.
+
+— QUESTÃO 35
+
+ 
+
+Em organização de arquivos e dados, um diretório é um arquivo mantido pelo sistema de arquivos, que contém uma lista de outros
+arquivos e, possivelmente, de outros diretórios. Em sistemas de diretório que suportam
+
+(A) diretório único (ou de nível simples), além da raiz do diretório só é possível existir um nível de subdiretórios.
+
+(B) diretório de dois níveis, além da raiz do diretório o sistema prevê um nível onde cada usuário possui o seu diretório e, neste di-
+retório, não existe limite para o número de níveis de subdiretórios.
+
+(C) diretório de dois níveis, além da raiz do diretório o sistema prevê um nível onde cada usuário possui o seu diretório e, neste di-
+retório, o limite para o número de níveis de subdiretórios é dois.
+
+(D) diretórios hierárquicos, não existe limite para o número de níveis de subdiretórios e um arquivo pode ser referenciado por um
+caminho absoluto ou por um caminho relativo ao diretório corrente (ou diretório do processo).
+
+(E) diretórios hierárquicos, como Windows e UNIX, há três entradas especiais em cada diretório: *.” (ponto), *..” (ponto-ponto) e
+“º (til): a primeira volta um nível na hierarquia; a segunda avança um nível; a terceira referencia o diretório reservado ao ad-
+ministrador, quando utilizada em caminhos relativos.
+
+ 
+
+— QUESTÃO 36
+
+Considere os grafos, a seguir.
+Gy Ga Gs Ga
+
+Pela análise desses grafos, verifica-se que
+
+(A) Ge G.são grafos completos.
+(B) Gre G-são grafos isomorfos.
+(C) Gse Gisão grafos bipartidos.
+(D) Gye G:são grafos planares.
+
+(E) G,e G; sao multigrafos.
+
+ 
+
+14/26
+
+ 
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+—QUESTAO 37
+
+ 
+
+Centenas de problemas computacionais são expressos em termos de grafos, e os algoritmos para resolvê-los são fundamentais para a
+computação. O algoritmo de busca em
+
+(A) largura utiliza pilha, enquanto o de busca em profundidade utiliza fila.
+
+(B) largura é o responsável pela definição do vértice inicial.
+
+(C) profundidade é utilizado para obter uma ordenação topológica em um dígrafo acíclico.
+
+(D) largura explora as arestas a partir do vértice mais recentemente visitado.
+
+(E) profundidade expande a fronteira entre vértices conhecidos e desconhecidos uniformemente.
+
+— QUESTÃO 38
+
+ 
+
+Considere o diagrama de classes a seguir.
+
+    
+
+ 
+
+ 
+
+Cliente
+
+   
+ 
+  
+ 
+
+Compra 4 1.5 Item
+
+ 
+
+ 
+
+ 
+
+compras
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nesse diagrama,
+
+(A) a navegabilidade da classe “Cliente” para a classe “Compra” indica que, em termos de código, o atributo “compras” é da clas-
+se “Compra”.
+
+(B) a representação gráfica de agregação indica que não existe compra sem item.
+(C) a representação gráfica indica que existe um atributo itens na classe “Cliente”.
+(D) a cardinalidade das duas relações gera atributos listas nas classes correspondentes.
+
+(E) as relações “compras” e “itens” não geram atributos em termos de código.
+
+ 
+
+— QUESTÃO 39
+A gramática G = ((S, A, B), (0, 1), P, S), onde P é dado pelas regras de produção
+S— 0AB|1BA
+A> 0AS | 1A|/e
+B— 0B| IBS |e
+gera uma linguagem que
+(A) pertence à classe Regular.
+(B) contém a cadeia vazia e.
+(C) pode ser aceita por um autômato com pilha.
+(D) pode ser denotada por uma expressão regular.
+
+(E) é igual ao conjunto de cadeias ( x E £0, 1)* | x tem quantidade igual de zero (0) e de um (1) }
+
+— QUESTÃO 40
+
+ 
+
+Considerando as linguagens L= (0"1"2'|n>0ei>z0JeM=(01"2"|n>0€ei>0), pode-se afirmar que
+(A) a linguagem LU M pode ser gerada por uma gramática livre de contexto.
+
+(B) a linguagem M pode ser gerada por uma gramática regular.
+
+(C) a linguagem L pode ser aceita por um autômato finito determinístico.
+
+(D) a linguagem LN M pertence à classe das linguagens livres de contexto.
+
+(E) a linguagem M pode ser denotada por uma expressão regular.
+
+ 
+
+15/26
+
+ 
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+— QUESTÃO 41
+
+Considere uma linguagem L e as classes de problemas IP, INP e co INP, esta última definida como coINP= { L€ INP | L € INP }.
+A sequência de implicações lógicas a seguir corresponde a uma tentativa de prova do teorema "se LEIP então LEcoINP":
+
+LEIPSLEIPSL el. Le IP > Le INP
+
+LE INPeL € INP x LE colNP
+
+Nesta tentativa de prova do teorema,
+
+(A) aprova não está correta, porque a implicação lógica I é falsa.
+(B) a prova não está correta, porque a implicação lógica IV é falsa.
+(C) aprova é correta, porém a implicação lógica III é falsa.
+
+(D) aprova é correta, porém a implicação lógica II é falsa.
+
+(E) aprova está correta, pois as implicações lógicas são verdadeiras.
+
+— QUESTÃO 42
+
+ 
+
+Analise a figura a seguir.
+
+Entradas
+
+—
+=
+—
+
+   
+  
+
+Saídas
+—
+
+Que tipo de maquina de estados finitos esta representado na figura?
+
+(A) Mealy assincrona
+(B) Mealy sincrona
+(C) Moore
+
+(D) MacGyver
+
+(E) Turing
+
+—QUESTAO 43
+
+ 
+
+Considere a seguinte função F(A,B,C) = A*B*C+A*B’*(A’*C’)’ onde o simbolo ’ representa o complemento. Como soma de
+produtos, essa função pode ser simplificada da seguinte forma:
+
+(A) A*B*C+A*B’+A*B’*C
+
+(B) A*B*C
+
+(C) A*B*C+A*B’*C’+A*B’*C
+
+(D) (A’+C’)*(A’+B)
+
+(E) A*C+A*B’
+
+ 
+
+16/26
+
+ 
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+— QUESTÃO 44
+
+ 
+
+Em um computador, o endereço virtual é de 16 bits e as páginas têm tamanho de 2Kb de endereços. O WSL (Working Set List) de
+um processo qualquer é de quatro páginas, sendo que, inicialmente, nenhuma página está na memória principal. Um programa faz
+referência a endereços virtuais situados nas páginas 0, 7, 2, 5, 8, 9, 2 e 4. Quantos bits do endereçamento virtual destinam-se, res-
+pectivamente, ao número da página e ao deslocamento?
+
+(A) 5 bits e 11 bits.
+
+(B) 6 bits e 10 bits.
+
+(C) 7 bits e 9 bits.
+
+(D) 8 bits e 8 bits.
+
+(E) 9 bits e 7 bits.
+
+— QUESTAO 45
+
+ 
+
+Em um sistema operacional multitarefa, trés processos compartilham dois recursos. Cada um destes processos possui, no minimo,
+(A) seis seções críticas.
+
+(B) quatro seções críticas.
+
+(C) três seções críticas.
+
+(D) duas seções críticas.
+
+(E) uma seção crítica.
+
+— QUESTÃO 46
+
+ 
+
+Considere um cenário de um sistema operacional que implementa um sistema de arquivos com método de alocação de espaço em
+disco baseado na alocação encadeada, a exemplo do popular sistema de arquivos FAT (file allocation table). Em um disco rígido
+com tamanho de setor igual a 512 bytes, criou-se uma partição e a formatou com esse sistema de arquivos usando 2048 bytes para o
+tamanho de blocos (clusters). Durante a escrita de dados em diferentes arquivos nessa partição, foi criado o arquivo ARQ.DAT que,
+após ter todos os seus dados armazenados, totalizou 1024 bytes de tamanho. Nesse cenário, o arquivo ARQ.DAT
+
+(A) pode ter seu conteúdo fragmentado no disco, pois já existiam outros arquivos no disco durante a sua criação e gravação, e o
+sistema de arquivos em uso permite a fragmentação.
+
+(B) pode ter seu conteúdo fragmentado no disco, pois seus dados foram armazenados concomitantemente com o armazenamento
+de dados de outros arquivos, e o sistema de arquivos em uso permite a fragmentação.
+
+(C) pode ter seu conteúdo fragmentado no disco, pois seus dados ocupam, no mínimo, dois setores e o sistema de arquivos em uso
+permite a fragmentação.
+
+(D) possui tamanho que não permite que seu conteúdo esteja fragmentado no disco.
+
+(E) não possui seu conteúdo fragmentado no disco, pois o sistema de arquivos em uso não permite a fragmentação.
+
+ 
+
+— QUESTÃO 47
+Considere a função F(A,B,C,D), composta dos termos mínimos (minterm)=(1,3,5,7,9) e dos termos não essenciais (don't care)={6,
+12, 13). Essa função, como produto de somas, pode ser simplificada da seguinte forma:
+
+(A) D+A*C
+
+(B) DHA+C”)
+
+(C) (D*A’)+(D*C’)
+
+(D) D*A’+A*B’*C’*D
+
+(E) (A’+C’)*(A’+B+C+D)*(A+C+D)*(A+B+C’+D)
+
+ 
+
+17/26
+
+ 
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+— QUESTÃO 48
+
+ 
+
+Computador com um Conjunto Reduzido de Instruções (RISC) é uma linha de arquitetura de processadores que favorece um
+conjunto simples e pequeno de instruções que levam aproximadamente a mesma quantidade de tempo para ser executadas. São
+consideradas características típicas da organização RISC:
+
+(A) oferecer suporte para linguagens de alto nível e facilitar o desenvolvimento de compiladores.
+
+(B) prover o computador com um conjunto complexo de instruções e melhorar a execução de programas.
+(C) manter poucos registradores e ter registradores especializados.
+
+(D) otimizar o pipeline de instrução e apresentar um conjunto limitado de instruções com formato fixo.
+
+(E) dispor grande conjunto de instruções e apresentar vários modos de endereçamento.
+
+ 
+
+— QUESTÃO 49
+
+Analise o trecho de código em linguagem C a seguir.
+
+ 
+
+A[12] =h + a[8]
+
+ 
+
+ 
+
+ 
+
+Em linguagem MIPS, qual é o código de montagem correspondente?
+
+(A) Iw Stl, 12($83)
+add Sto, $s2, $t0
+Sw Sto, 24 ($s3)
+
+(B) Iw $t0, 32($83)
+add Sto, $s2, $t0
+Sw Sto, 48 ($s3)
+
+(C)_ Iw $t0, 6($s3)
+add Sto, $s2, $t0
+Sw StI, 12 (853)
+
+(D) Iw Stl, 32($83)
+add Sto, $s2, $t0
+Sw Stl, 48 ($s1)
+
+(E)_ Iw $t0, 12($83)
+add Sto, $s2, $t0
+Sw StI, 36 (852)
+
+ 
+
+—QUESTAO 50
+
+Um sistema operacional utiliza o algoritmo Buddy system em seu alocador de memória no espaço do usuário. Este alocador se inicia
+com um bloco de memória livre de 1024 bytes e utiliza um mapa de bits para controlar a quantidade e a posição da memória aloca -
+da. Cada bit no mapa representa uma unidade de alocação de 64 bytes. Neste cenário, considere que um processo, logo após ser
+criado, execute a seguinte sequência de operações:
+
+ptrl=malloc(64);
+
+ptr2=malloc(192);
+
+ptr4=malloc(64);
+
+free(ptr2);
+
+free(ptr4);
+
+ptr2=malloc(193);
+
+Após a execução com sucesso da sequência de operações listadas, a configuração do mapa de bits é:
+
+(A) 1111100000000000
+
+(B) 1000111100000000
+
+(C) 1000011100000000
+
+(D) 0000111100000000
+
+(E) 0000000011100001
+
+ 
+
+ 
+
+18/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+TECNOLOGIA DA COMPUTAÇÃO
+
+ 
+
+—QUESTAO 51
+
+Considere o esquema de banco de dados relacional para uma clínica médica, em que as chaves primárias estão sublinhadas:
+PACIENTE (CPE, Nome, Sexo, DataDeNascimento); MEDICO (CRM, Nome, Sexo); CONSULTA (CPF, DataHora, CRM, Sala);
+MEDICAMENTO (Codigo, Nome, PrincipioAtivo); e PRESCRICAO (CPF, DataHora, Codigo, Posologia). Os atributos CPF em
+CONSULTA, CRM em CONSULTA, (CPF, DataHora) em PRESCRICAO e Codigo em PRESCRICAO são chaves estrangeiras que
+referenciam, respectivamente, PACIENTE, MEDICO, CONSULTA e MEDICAMENTO. A expressão SQL pertinente à consulta
+“qual o nome dos medicamentos prescritos mais de uma vez, por um particular médico para um mesmo paciente, restrito às
+consultas em que médico e paciente possuem o mesmo nome?” é:
+
+(A) SELECT DISTINCT X.NOME FROM MEDICAMENTO X WHERE 2 < ( SELECT COUNT(*) FROM PACIENTE V JOIN
+MEDICO W JOIN CONSULTA Y JOIN PRESCRICAO Z ON V.CPF = Y.CPF AND W.CRM = Y.CRM AND Z.CPF = Y.CPF
+AND Z.DATAHORA = Y.DATAHORA WHERE Z.CODIGO = X.CODIGO AND V.NOME = W.NOME )
+
+(B) SELECT DISTINCT X.NOME FROM PACIENTE V JOIN MEDICO W JOIN MEDICAMENTO X JOIN CONSULTA Y
+JOIN PRESCRICAO Z ON V.CPF = Y.CPF AND W.CRM = Y.CRM AND Z.CPF = Y.CPF AND Z.DATAHORA = Y.DATA -
+HORA AND Z.CODIGO = X.CODIGO WHERE V.NOME = W.NOME GROUP BY Y.CPF, Y.CRM, X.CODIGO, X.NOME
+
+(C) SELECT DISTINCT X.NOME FROM MEDICAMENTO X WHERE 2 > ( SELECT COUNT(*) FROM PACIENTE V JOIN
+MEDICO W JOIN CONSULTA Y JOIN PRESCRICAO Z ON V.CPF = Y.CPF AND W.CRM = Y.CRM AND Z.CPF = Y.CPF
+AND Z.DATAHORA = Y.DATAHORA WHERE Z.CODIGO = X.CODIGO AND V.NOME = W.NOME )
+
+(D) SELECT DISTINCT X.NOME FROM PACIENTE V JOIN MEDICO W JOIN MEDICAMENTO X JOIN CONSULTA Y
+JOIN PRESCRICAO Z ON V.CPF = Y.CPF AND W.CRM = Y.CRM AND Z.CPF = Y.CPF AND Z.DATAHORA = Y.DATA-
+HORA AND Z.CODIGO = X.CODIGO WHERE V.NOME = W.NOME GROUP BY Y.CPF, Y.CRM, X.CODIGO, X.NOME-
+HAVING COUNT(*) > 1
+
+(E) SELECT DISTINCT X.NOME FROM PACIENTE V NATURAL JOIN MEDICO W NATURAL JOIN MEDICAMENTO X
+NATURAL JOIN CONSULTA Y NATURAL JOIN PRESCRICAO Z WHERE V.NOME = W.NOME GROUP BY X.CODI-
+GO, X.NOME HAVING COUNT(*) > 1
+
+ 
+
+ 
+
+ 
+
+— QUESTAO 52
+
+Deadlock ocorre quando cada transação, em um conjunto de duas ou mais transações, está em estado de espera por algum item de
+dado, que está bloqueado por alguma outra transação no conjunto.
+
+Considere o seguinte cenário: há duas transações, Tl e T2, em que T1 está bloqueando o item de dado X e T2 necessita bloquear X.
+Um protocolo de tratamento de deadlock possui as seguintes características: é um protocolo de prevenção de deadlock; a decisão
+por qual transação abortar não considera o timestamp de Tl e T2; se Tl já estiver em estado de espera no momento em que T2
+precisou bloquear X, T2 será abortada, caso contrário T2 entrará em estado de espera. Esse protocolo é denominado
+
+(A) tempo expirado (timeout).
+
+(B) baseado no grafo (wait-for).
+
+(C) espera-cautelosa (cautious-waiting).
+(D) esperar-ou-morrer (wait-die).
+
+(E) ferir-ou-esperar (wound-wait).
+
+ 
+
+19/26
+
+ 
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+—QUESTAO 53
+
+ 
+
+A Empresa XYZ tem como missão desenvolver software com um alto padrão de qualidade. A referida empresa atua no Brasil e en-
+contra-se em processo de expansão que prevê a instalação de uma subsidiária na Argentina. A Empresa XYZ, no Brasil, tem um pro -
+cesso de software com padrões de qualidade reconhecidos. Este processo é dividido em atividades e tarefas. As atividades do pro-
+cesso são: Levantamento de Requisitos; Projeto de Software; Implementação (ou Codificação); Teste e Implantação. A subsidiária
+Argentina irá responsabilizar-se somente pela Implementação (ou Codificação) e pelo Teste. No Brasil, a XYZ irá executar o levan -
+tamento de requisitos, a modelagem do projeto de software, a divisão do projeto em ordens de serviços e a implantação do software.
+A seguir, pode-se visualizar um exemplo de uma ordem de serviço repassada à subsidiária instalada em solo argentino.
+
+ 
+
+Empresa XYZ - Ordem de Serviço
+
+Esta ordem de serviço apresenta alguns artefatos gerados durante a atividade de projeto de software: diagrama de caso de uso, diagrama
+de sequência e diagrama de classes. O diagrama de sequência contempla o fluxo normal para simulação de cenário encapsulado pelo
+diagrama de caso de uso. Os fluxos alternativos não são apresentados nesta ordem de serviço.
+
+à Efetuar Login
+no software
+
+2 Iteecelogn
+Usuario
+
+Usuário
+
++ captureluserName'Sting,pessword String)  booleen
+
+ 
+
+ 
+
+  
+ 
+
+  
+ 
+
+<<actor>>
+Usuário
+
+  
+ 
+
+<<interface Gréfica>>
+InterfaceLogin
+[o
+
++ capturar{userName : String, password : String) : boolean
+
+       
+   
+ 
+
+[A
++ validar(userName : String, password : String) : boolean
++ logar{userName : String, password : String) : void
+
+     
+
+ 
+
+ 
+
+ 
+
+Ao receber as ordens de serviços, a subsidiária deverá informar à empresa no Brasil o tempo e o custo da Implementação (ou codifi -
+cação) e do Teste para a referida ordem de serviço. Para delinear estas informações, a subsidiária utiliza a métrica de software pon -
+tos por caso de uso não ajustados.
+
+De acordo com a Base Histórica de Projetos de Software da subsidiária, os custos para implementar e para testar um caso de uso não
+ajustado são, respectivamente, US$ 18,25 (implementação) e US$ 11,75 (teste). Já o tempo para implementar e testar um caso de
+uso não ajustado é, respectivamente, 55 e 32 minutos.
+
+De posse dessas informações e com base na ordem de serviço apresentada na figura, o custo de implementação, o custo de teste, o
+tempo de implementação e o tempo de teste da ordem de serviço são, respectivamente:
+
+(A) US$ 127,75; US$ 82,25; 385 minutos; 224 minutos.
+(B) US$ 146,00; US$ 94,00; 440 minutos; 256 minutos.
+(C) US$ 164,25; US$ 105,75; 495 minutos; 288 minutos.
+(D) US$ 182,25; US$ 117,50; 550 minutos; 320 minutos.
+(E) US$ 200,75; US$ 129,25; 650 minutos; 352 minutos.
+
+ 
+
+20/26
+
+ 
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+—QUESTAO 54
+Normalmente, existem vários caminhos entre origem e destino em uma rede de computadores. O processo de descobrir um caminho
+que funcione por meio de uma rede é denominado
+
+(A) roteamento.
+
+(B) encaminhamento.
+
+(C) nomeação.
+
+(D) descobrimento.
+
+(E) endereçamento.
+
+ 
+
+—QUESTAO 55
+
+No processo de recuperação de bancos de dados baseado em Jog, dois recursos básicos são: UNDO, que desfaz o efeito das
+operações de uma transação no banco de dados; e REDO, que refaz o efeito das operações de uma transação no banco de dados.
+Considere duas técnicas para a recuperação após falhas: a primeira, NO-UNDO/REDO, que não emprega UNDO, mas utiliza
+REDO; a segunda, UNDO/NO-REDO, que emprega UNDO, mas não utiliza REDO. Com relação à persistência, os dados
+atualizados por uma transação serão gravados no banco de dados, quando se aplicam as técnicas, respectivamente,
+
+(A) após a gravação do commit da transação no log, e antes da gravação do commit da transação no log.
+
+(B) após a gravação do commit da transação no log, e antes ou após a gravação do commit da transação no log.
+(C) antes da gravação do commit da transação no log, e após a gravação do commit da transação no log.
+
+(D) antes da gravação do commit da transação no log, e antes ou após a gravação do commit da transação no log.
+
+(E) antes ou após a gravação do commit da transação no log, e após a gravação do commit da transação no log.
+
+—QUESTAO 56
+
+ 
+
+A Empresa XYZ tem como missão desenvolver software com um alto padrão de qualidade. Nesse sentido, está reestruturando o seu
+processo de desenvolvimento de software. Durante a reestruturação, optou por utilizar o framework Scrum como base da composi-
+ção do processo. O Software Engineering Process Group (SEPG) também decidiu inserir algumas práticas e artefatos do eXtreme
+Programming junto ao Scrum. Uma visão geral do processo pode ser verificada por meio da Figura a seguir.
+
+natonstrução para agilizar
+
+ 
+   
+   
+    
+
+  
+
+“quando problemas forem detectados.
+
+formatação.
+padronização neforocução Pingisseminaro para faciitar
+dos artefatos conhetaqento aprodução
+
+Cartões de EE peer) esi
+a : Padroniza'
+
+Estórias Planejamento em pares mples
+Ao analisar a Figura apresentada, é possível perceber que o artefato Cartões de Estórias serve como base para compor um item da
+Product Backlog e que a prática Design Simples é inserida durante a execução da Sprint.
+O processo da Empresa XYZ, criado pela SEPG, pode ser classificado como um modelo de processo:
+(A) cascata.
+(B) orientado a eventos.
+(C) formal.
+(D) orientado a objetos.
+
+(E) “iterativo e incremental.
+
+ 
+
+21/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+—QUESTAO 57
+
+ 
+
+Simular a propagação da luz no ambiente, avaliando a sua interação com os objetos que o compõem e considerando a interação da
+luz com as suas superfícies, é o objetivo da técnica do algoritmo
+
+(A) Cohen-Sutherland
+(B) Bresenham
+
+(C) Boundary-Fill
+
+(D) Sutherland Hodgman
+(E) Ray Tracing
+
+—QUESTAO 58
+
+ 
+
+Considere a expressão a seguir.
+
+t)
+
+nom
+Plst)=>, > By Jinl8)J il] 0<st<1 onde: B, define o vértice de controle da superfície e Jin(S) ; J im|
+
+i=0 j=0
+são as funções de Bernstein, respectivamente, nas direções s e t.
+
+De qual superfície pode ser obtido um ponto qualquer pela expressão apresentada?
+(A) Superfície de Hermite
+
+(B) Superfície de Bézier
+
+(C) Superfície B-Spline
+
+(D) Superfície Paramétrica Bicúbica
+
+(E) Superfície Racional
+
+ 
+
+—QUESTAO 59
+
+No contexto de processamento de imagens, é utilizado um filtro digital com os seguintes objetivos:
+
+(A) detectar, reconhecer e rastrear objetos.
+
+(B) avaliar, determinar e julgar se uma imagem pode ser utilizada.
+(C) melhorar, corrigir ou substituir o sensor de aquisição de imagem.
+(D) corrigir, suavizar ou realçar informações em uma imagem.
+
+(E) preservar, compactar e salvar a imagem.
+
+—QUESTAO 60
+
+ 
+
+Na transmissão de dados, quando um transmissor rápido enviar uma quantidade excessiva de dados a um receptor mais lento, deve-
+se aplicar
+
+(A) o controle de congestionamento.
+
+(B) o controle de fluxo.
+
+(C) a retroalimentação.
+
+(D) a adaptação.
+
+(E) a transferência.
+
+ 
+
+22/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+—QUESTAO 61
+
+ 
+
+O seguinte modelo NÃO é utilizado na representação de uma imagem digital:
+
+(A) Escala de cinza.
+
+(B) RGB (Rede-Green-Blue).
+
+(C) DOI (Digital Object Identifier System).
+(D) HSV (Hue-Saturation-Value).
+
+(E) CMY (Cyan-Magenta-Yellow).
+
+—QUESTAO 62
+
+ 
+
+Em um Sistema Distribuído, a ordenação causal assegura que todos os processos reconheçam que um evento deve acontecer so-
+mente após a ocorrência de todos os eventos dos quais ele é dependente. A ordenação causal pode ser implementada pela relação
+acontece antes, representada como a — b. Esta relação determina que se a e b são eventos de um mesmo processo e a aconteceu
+antes de b, então a — b. Esta relação também estabelece que, se o evento a for o envio de uma mensagem e o evento b for o recebi-
+mento desta mesma mensagem, então a — b. Finalmente, esta relação é transitiva, ou seja, ssa» be b>c, então a > c.
+
+Considere a existência de três processos: P1, P2 e P3, cada um residindo em um nó de processamento distinto. Estes processos estão
+representados no diagrama espaço-tempo abaixo. A direção vertical representa o espaço (ou seja, processos diferentes) e a direção
+horizontal representa o tempo. Uma seta em diagonal indica uma mensagem enviada de um processo para outro. As letras minúscu-
+las representam os eventos.
+
+ 
+
+De acordo com o diagrama apresentado, uma ordenação causal destes eventos, consistente com a relação acontece antes, seria:
+
+(A) abcdefghikm
+(B) aeibfkmcgdh
+(C) eabicdfkgmh
+(D) eiabkfcgdmh
+(E) iabefkmcghd
+
+—QUESTAO 63
+
+ 
+
+Em um texto fonte de linguagem de programação, o compilador realiza a identificação da função gramatical das palavras, a verifica-
+ção da estrutura gramatical dos comandos e dos seus significados. Os componentes arquiteturais de um compilador que realizam es-
+sas atividades são, respectivamente,
+
+(A) analisador léxico, analisador semântico, otimizador de código intermediário.
+
+(B) analisador léxico, analisador sintático, analisador semântico.
+
+(C) analisador sintático, gerador de código, analisador semântico.
+
+(D) analisador semântico, gerador de código intermediário, otimizador de código intermediário.
+
+(E) analisador sintático, analisador semântico, gerador de código.
+
+ 
+
+23/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+—QUESTAO 64
+Um dos objetivos do projeto de um Sistema Distribuído é fornecer transparência, ocultando aspectos distribuídos dos usuários do
+sistema. Um sistema transparente proporciona um ambiente em que os seus componentes apresentam-se logicamente centralizados,
+mesmo fisicamente separados. Entre os vários tipos de transparência que os sistemas distribuídos podem fornecer, o ocultamento do
+fato de que há várias cópias de um recurso disponíveis no sistema é conhecido como
+
+(A) transparência de acesso.
+
+(B) transparência de transação.
+
+(C) transparência de replicação.
+
+(D) transparência de concorrência
+
+(E) transparência de migração.
+
+ 
+
+—QUESTAO 65
+No modelo de referéncia ISO/OSI, qual camada deve gerenciar tokens, impedindo que duas partes tentem executar, ao mesmo
+tempo, a mesma operação crítica?
+
+(A) Sessão
+
+(B) Transporte
+
+(C) Apresentação
+
+(D) Sincronização
+
+(E) Aplicação
+
+ 
+
+—QUESTAO 66
+
+No contexto de algoritmos genéticos, cruzamento (ou crossover) é uma operação em que
+
+(A) a aptidão das soluções ao problema proposto é avaliada.
+
+(B) as características dos indivíduos resultantes do processo de reprodução são alteradas, acrescentando assim variedade à popula-
+ção.
+
+(C) as características das soluções escolhidas são recombinadas, gerando novas soluções (ou indivíduos).
+
+(D) as condições de encerramento da evolução são verificadas.
+
+(E) a seleção de indivíduos da atual geração é realizada para gerar novos indivíduos da próxima geração.
+
+ 
+
+ 
+
+ 
+
+— RASCUNHO
+
+24/26
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+—QUESTAO 67
+
+ 
+
+A Empresa XYZ tem como missão desenvolver software com um alto padrão de qualidade. A empresa possui entre seus colaborado-
+res uma pessoa responsavel por analisar a consisténcia dos artefatos gerados na atividade de projeto de software, mais precisamente
+na construção dos diagramas de casos de uso, diagramas de classes e diagramas de sequência. O analista de qualidade recebeu os
+seguintes diagramas para analisá-los quanto à sua consistência.
+
+E \ Efetuar Login’
+euario, po software
+
+ 
+
+ 
+
+% <interfece Oréfice>>
+Usuário IntertaceLogin
+
+4: capturer(userName Sting, password Sting) boolean
+
+   
+    
+
+true or false
+
+ 
+
+2: validat)
+
+    
+
+true or false
+
+ 
+
+-—— > ee E
+
+  
+ 
+ 
+  
+
+ 
+ 
+
+<s<actor>>
+Usuário
+
+ 
+ 
+ 
+  
+
+ 
+
+<<interface Oráfica=>
+InterfaceLogin
+—————
++ capturar(userName : String, password: String) : booleen
+
+ 
+ 
+   
+
+   
+
+Usuarios
+
+ee
++ velider(userNeme : Sting, password: String) : boolean
++ logar(userName : Sting, password : String) void
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+Após análise, o analista de qualidade identificou que, no diagrama de sequéncia,
+(A) o método capturar da classe InterfaceLogin não é consistente com o método apresentado na troca de mensagem.
+(B) o objeto Usuario instanciado é órfão de uma classe.
+
+(C) o objeto InterfaceLogin é órfão de uma classe e o método capturar da classe InterfaceLogin não é consistente com o método
+apresentado na troca de mensagens.
+
+(D) o objeto Users é órfão de uma classe e o método validar da classe Usuarios não é consistente com o método apresentado na
+troca de mensagens.
+
+(E) o objeto InterfaceLogin é órfão de uma classe e o método logar da classe Usuarios é consistente com o método apresentado na
+troca de mensagens.
+
+ 
+
+—QUESTAO 68
+Qual é a classe de método de analise sintatica deterministico, ascendente, que processa a sequéncia de simbolos da esquerda para a
+direita?
+
+(A) LL
+
+(B) LR
+
+(C) Árvore de derivação anotada
+
+(D) GAD
+
+(E) Árvore associativa
+
+ 
+
+25/26
+
+UFG/CS EXAME NACIONAL PARA INGRESSO NA PÓS-GRADUAÇÃO EM COMPUTAÇÃO 2015
+
+ 
+
+—QUESTAO 69
+Em qual arquitetura de rede neural artificial o algoritmo da retropropagação de erros (backpropagation) é utilizado para treinamen-
+to?
+
+(A) Kohonen.
+
+(B) Hopfield.
+
+(C) Perceptron.
+
+(D) Rede Perceptron Multicamadas (MLP - MultiLayer perceptron).
+
+(E) Rede de base radial (RBF - Radial Basis Function) .
+
+ 
+
+—QUESTAO 70
+
+MeshSmooth, Bump Map, Flat Shading são, respectivamente, tipos de:
+
+(A) Modificador, Textura, Método de Renderização.
+(B) Modificador, Método de Renderização, Textura.
+(C) Textura, Método de Renderização, Modificador.
+(D) Textura, Modificador, Método de Renderização.
+(E) Método de Renderização, Textura, Modificador.
+
+— RASCUNHO26/26

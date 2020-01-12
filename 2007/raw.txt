@@ -1,0 +1,2007 @@
+QUESTÕES DE MATEMÁTICA
+
+1. [MT] A quantidade de soluções inteiras da equação « + y + z = 20, com x > 2, y>2
+ez>2,6é
+
+(a) 120
+(b) 20
+(
+
+H
+
+)
+)
+
+Nw wb
+É
+
+(c) 23
+d) 132
+)
+
+(e) Essa equação não tem solução inteira.
+
+H
+
+2. [MT]
+Para o processamento de um programa com 20 módulos independentes, pretende-se
+utilizar dois grupos de processadores em paralelo, X e Y. Para organizar esses grupos,
+contamos com 48 processadores, sendo que dois deles estão sujeitos a falhas. O grupo
+X somente pode conter oito processadores e nenhum deles pode apresentar falhas.
+Nenhuma restrição foi especificada para o grupo Y.
+
+Nessa situação representada pela combinação de m elementos p a p e pelo arranjo de
+m elementos p a p, conclui-se que a quantidade de maneiras distintas de apresentar a
+organização dos processadores é igual a
+
+(a) C(48,8) x C(40, 12)
+(b) A(48,8) x A(40, 12)
+(c) C(46,8) x C(40, 12)
+(d) A(46,8) x A(40, 12)
+(e) A(46,8) x C(40, 12)
+
+3. [MT]
+Com respeito a uma matriz quadrada A de ordem n, com entradas reais, as assertivas
+abaixo são equivalentes a dizer que A tem inversa, EXCETO
+
+a) as linhas de A são vetores linearmente independentes.
+
+(b) o sistema Ax = 0 tem solução única.
+(c) o determinante da transposta de A é diferente de zero.
+(d) o sistema Ax = b tem solução única para qualquer vetor n-dimensional b.
+
+(e) dois-a-dois os vetores-coluna de A nao podem ser colineares.
+
+QUESTOES DE MATEMATICA
+
+1. [MT] A quantidade de soluções inteiras da equação « + y + z = 20, com x > 2, y>2
+ez>2,6é
+
+H
+
+20
+0
+3
+32
+
+Essa equação não tem solução inteira.
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+2. [MT]
+Para o processamento de um programa com 20 módulos independentes, pretende-se
+utilizar dois grupos de processadores em paralelo, X e Y. Para organizar esses grupos,
+contamos com 48 processadores, sendo que dois deles estão sujeitos a falhas. O grupo
+
+X somente pode conter oito processadores e nenhum deles pode apresentar falhas.
+Nenhuma restrição foi especificada para o grupo Y.
+
+mo NH bw
+Be
+
+Nessa situação representada pela combinação de m elementos p a p e pelo arranjo de
+m elementos p a p, conclui-se que a quantidade de maneiras distintas de apresentar a
+organização dos processadores é igual a
+
+(a) C(48,8) x C(40, 12)
+
+(b) A(48,8) x A(40, 12)
+
+(c) C(46,8) x C(40, 12)
+
+(d) A(46,8) x A(40, 12)
+
+(e) A(46,8) x C(40, 12)
+3. [MT]
+
+Com respeito a uma matriz quadrada A de ordem n, com entradas reais, as assertivas
+abaixo são equivalentes a dizer que A tem inversa, EXCETO
+
+(a) as linhas de A são vetores linearmente independentes.
+(b) o sistema Ax = 0 tem solução única.
+(c) o determinante da transposta de A é diferente de zero.
+
+d)
+)
+
+(e
+
+o sistema Ax = b tem solução única para qualquer vetor n-dimensional b.
+
+dois-a-dois os vetores-coluna de A nao podem ser colineares.
+
+4. [MT] É CORRETO afirmar
+
+(a) que os autovalores de uma matriz não-singular são positivos.
+
+(b) que, para uma matriz 4, À é autovalor de A se, e somente se, A? é um autovalor
+de 42.
+
+(c) que, se uma matriz é igual a sua inversa, então seus autovalores são iguais a 1.
+
+(d) que, se u e v são vetores não-nulos de R”, então u é autovetor da matriz uv”.
+
+(e) que, se uma matriz quadrada tem entradas reais, então seus autovalores são núme-
+ros reais.
+5. [MT]
+
+. ss , > . .
+Dados dois vetores u e v E R?,o vetor w tem origem em (—1,4) e extremidade
+=> 24 : wd 9
+em (3,5) co vetor v 6 igual a (—10,7). Considere w o vetor em R? que apresenta
+: : 4 : x => =>
+comprimento igual a 5 e é perpendicular à soma dos vetores u e v”.
+
+=>
+Nesse caso, 0 vetor w pode ser expresso por
+
+(a) (3,4)
+(b) (3,—4)
+(c) (—4,3)
+(d) (4,3)
+(e) (-8, -4)
+
+6. [MT] Um trabalho de monitoramento do fluxo de acesso ao provedor de rede de deter-
+minada instituição foi efetivado durante uma hora, no período das 19 às 20 horas. A
+taxa estimada R(t) segundo a qual ocorre o acesso à rede é modelada pela expressão
+
+R(t) = 100(1 — 0,0001t2) usuários /minuto,
+
+em que t indica o tempo (em minutos) a partir das 19 h.
+
+Considere as questões.
+
+e Quando ocorre o pico no fluxo de acesso à rede ?
+
+e Qual é a estimativa para o número de usuários que estão acessando a rede durante
+a hora monitorada ?
+
+Assinale a alternativa que apresenta as melhores aproximações contendo as respostas
+CORRETAS a essas questões.
+
+a) Das 20:30 às 21:30 horas; mais de 5.000 usuários.
+
+(a)
+(b) Das 20:30 às 21:30 horas; menos de 5.000 usuários.
+(c) Das 19 : 30 as 20 : 30 horas; mais de 5.000 usuários.
+
+(d)
+(e)
+
+7. [MT] Considere a função f: R — R definida pela expressão:
+
+f(c) ={ wp, eso
+
+Das 19 : 30 as 20 : 30 horas; menos de 5.000 usuários.
+
+Nenhuma das aproximações contém as respostas.
+
+q +1, sex >0,
+Com base nesses dados, assinale a alternativa que apresenta a afirmativa VERDADEIRA:
+a) lim,—o- f’(x) = lim, o+ f(x) mas f’(0) nao existe.
+
+(a)
+(b) lim,9- f(z) =0 e lim,4o+ f(x) = 1= f(0).
+(
+
+(c) f(x) é continua mas não é diferenciável.
+
+d)
+)
+
+(e
+
+f’(x) é decrescente e f(x) > 0 se x € (—00,0).
+
+ 
+
+iMz—o0 f(v) = 00 e€ limy-20 f’(a) = +00.
+
+8. [MT] Assinale a alternativa que apresenta o comprimento do segmento de reta de-
+terminado pelos pontos de interseção de uma semi-reta, cuja origem está no ponto
+P,(1,2,1) e cuja orientação é definida pelo vetor d = (2,1,1), com a esfera centrada
+no ponto C(31,2,21) e raio de 103.
+
+(a) 3
+(b) 2,6
+)
+(
+
+a
+
+3
+(e) E
+
+d) 3v3
+(e) Bv3
+9. [MT] Quatro retas do plano cartesiano identificadas por 1), ly e 71, 1r2 definem, com os
+eixos coordenados, triângulos de área A = 6 e satisfazem as seguintes condições:
+e li; || |» (retas paralelas) e ry || r2;
+e lie l> são perpendiculares a reta t definida por 4: +3y = 0 (istoé, lh L tel; 1 t);
+3
+
+e r,e ro têm coeficiente angular iguais a m, = 5º.
+
+As expressões das equações das retas l4,l> e 71,72 são, respectivamente,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) 3a —4y+12=00¢ 3r+4y+12=0.
+
+(b) 3a +4y+12=O0ce 3a —4y+12=0.
+
+(c) 3a —4y424=00¢ 34+4y+24=0.
+
+(d) —3a —4y +24 =0e —3a7 +4y+24=0.
+)
+
+(e) Nenhuma das respostas está correta.
+
+10. [MT] Dados os conceitos de coerência e completeza de um sistema dedutivo, analise
+as seguintes afirmativas.
+
+I. Existe pelo menos um sistema de dedução coerente e completo para a Lógica
+Proposicional.
+
+II. Todo sistema de dedução para a Lógica de Predicados de Primeira Ordem que é
+completo também é coerente.
+
+HI. Existe pelo menos um sistema de dedução coerente e completo para a Lógica de
+Predicados de Primeira Ordem.
+
+A partir da análise, pode-se concluir que é(são) VERDADEIRA(S)
+
+(a) nenhuma das afirmativas.
+
+(b) somente as afirmativas I e II.
+
+(c) somente as afirmativas 1 e HI.
+
+(d)
+)
+
+d
+(e
+
+somente as afirmativas II e HI.
+
+todas as afirmativas.
+
+11. [MT] Considere a seguinte linguagem de primeira ordem:
+
+e constantes: a,b
+
+e variáveis: x,y
+
+e predicados unários: P
+e predicados binários: R
+
+Considere a seguinte função de interpretação Z para essa linguagem, com valores no
+conjunto IN dos números naturais:
+
+e T(a)=T(b) =0
+eTP)=(n|n<4)
+e T(R) = {(x,y) | x < y}
+
+Dadas as seguintes formulas:
+
+I. P(a)
+IL Va,y: R(x,y) > Rly, 2)
+IH. Sa : R(x, a)
+
+Em relação à função de interpretação Z definida acima, pode-se afirmar que é(são)
+VERDADEIRA (AS)
+
+somente a fórmula I.
+somente as fórmulas I e II.
+
+)
+)
+
+c) somente a fórmula III.
+) nenhuma das fórmulas.
+)
+
+todas as fórmulas.
+
+12. [MT]
+
+Seja * um conectivo terndrio definido por: *(a, 2,7) é verdadeiro se, e somente se, ou
+nenhuma ou apenas uma das fórmulas a, 3, y é verdadeira.
+
+Assinale a alternativa que apresenta a fórmula equivalente a *(a, 3,7).
+
+a V BV) A (aV (28) V (™)) A (ra) V Bv (9) A (70) V (78) V7)
+
+(a) A (SB) (9) V (an (58) A (9) (2a) ABA (49) Va) A (8) 9)
+a V (8) V (49) A (70) V BY (49) A (50) v (58) V9)
+
+(a) A (38) A (9) V (aA (8) A (=9)) V (70) A BA (49) V (20) A (78) A)
+
+enhuma destas respostas é correta.
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+13. [MT] Um conjunto €, subconjunto de um conjunto 4, é decidível se existe um pro-
+grama que recebe uma entrada x € A, e sempre para indicando se x € C ou se x ¢ C.
+
+a
+
+Zor
+
+Entre os conjuntos relacionados abaixo, assinale o que NAO é decidivel.
+(a) O conjunto das fórmulas satisfatíveis da lógica clássica proposicional.
+(k
+
+O conjunto dos teoremas da lógica clássica proposicional.
+
+(
+
+a
+
+:) O conjunto dos teoremas da lógica clássica de primeira ordem.
+d) O conjunto das fórmulas da lógica clássica de primeira ordem.
+
+(e) O conjunto das tautologias da lógica clássica proposicional.
+14. [MT] Analise as seguintes afirmativas e assinale a alternativa CORRETA.
+
+(a) {{O}} € {0, {0}}
+
+(b) Para todo conjunto A, P(A) denota o conjunto de todos os subconjuntos de A.
+Se a e B sao conjuntos tais que a € B, entao P(a) C P(B)
+
+(c) O conjunto fn!ºº : n € IN} é infinito enumerdvel.
+(d) Se A, Be C são três conjuntos, então A- (B-C)=(A-B)-C.
+
+(e) Nenhuma das afirmativas anteriores é correta.
+
+ 
+
+15. [MT] Analise as seguintes alternativas e assinale a que apresenta uma afirmativa
+FALSA.
+
+(a) Se Ay, Ao,---, A, são conjuntos disjuntos, então |4, U---UA,U B| = |B|+
+Di-(lA; — BI).
+
+(b) 1+2+2 +28 +... 49º =2"H “1 paratodon EN.
+
+c) Ontett — So Ort’, para todone NepeN.
+
+( r=0 “r
+(d) Sejam keNcACN. SekeA4e(neAn>k>n+1€4), então A=N.
+(e)
+
+16. [MT] Analise as seguintes afirmativas.
+
+Existe exatamente uma alternativa falsa dentre as anteriores.
+
+I. Seja A = P(X) o conjunto dos subconjuntos de um conjunto X. A relação
+x={(a,a):a€e Ade Aaca}
+é uma relação de ordem parcial.
+
+II. Se R é uma relação binária simétrica e anti-simétrica, então R = 0).
+
+III. Seja R uma relação reflexiva em um conjunto 4. Então, R é uma relação de
+equivaléncia se e somente se ((a,b) € Re (b,c) € R => (c,a) € R).
+
+IV. Se F e G são duas funções inversíveis, então Go F é uma função inversível.
+
+Assinale a alternativa que apresenta a quantidade de afirmativas CORRETAS.
+
+(a) O (zero)
+(b) 1 (uma)
+(c) 2 (duas)
+(d) 3 (três)
+(e) 4 (quatro)
+
+17. [MT] Sejam R e S relações em um conjunto A o qual contém pelo menos três elementos.
+Analise as seguintes afirmativas.
+1 SeResS são simétricas, então RN S é simétrica.
+II. Se Re S são simétricas, então RU S é simétrica.
+HI. Se Re S são reflexivas, então RN S é reflexiva.
+
+IV. Se Re S são reflexivas, então RU S é reflexiva.
+A análise permite concluir que está(ão) CORRETA(AS)
+
+a) apenas a afirmativa 1.
+
+(c
+d
+
+(e
+18. [MT]
+
+Um professor de programação passa um trabalho e avisa à turma que vai utilizar um
+verificador automático para detectar trabalhos copiados. Os alunos descobrem que o
+verificador não é capaz de identificar a cópia se as linhas do programa não aparecem
+na mesma ordem. Além disso, eles também descobrem que uma rotina do trabalho
+de um de seus colegas continua funcionando corretamente se as linhas são trocadas de
+ordem, mas nenhuma linha aparece à distância maior do que 1 de sua posição original.
+
+(a)
+(b) apenas as afirmativas Ie II.
+
+) apenas as afirmativas II e IV.
+(
+
+) apenas as afirmativas III e IV.
+)
+
+todas as afirmativas.
+
+Indique o número de alunos que podem entregar uma cópia do trabalho quando n = 7
+(incluindo o próprio autor do trabalho).
+
+19. [MT] Suponha que o tempo de execução de um programa seja dado por uma variável
+aleatória 7 que assume os valores 10,20,...,100 com distribuição de probabilidade
+uniforme (i.e., P(T = 10k) = 1/10, para k = 1,...,10).
+
+A probabilidade de que o tempo total de duas execuções sucessivas e independentes
+desse programa não exceda 100 é
+
+a
+
+(a) 0,50
+(b
+(
+
+)
+)
+(c)
+d)
+(e)
+20. [MT] Suponha agora que o programa é executado e se aguarda até 50 minutos para
+
+seu término. Se após esse período a execução não está terminada, então o programa é
+interrompido e reiniciado. A segunda execução sempre vai até o final.
+
+So. so Ss
+
+45
+40
+55
+60
+
+O tempo médio até o final da execução do programa quando utilizamos esse procedi-
+mento é
+
+(a) 55
+(b) 62,5
+(c) 60
+(d) 49,5
+(e) 67,5
+
+QUESTÕES DE FUNDAMENTOS DA COMPUTAÇÃO
+
+21. [FU] Um processador tem a seguinte hierarquia de memória: uma cache com latência
+de acesso de Ins e uma memória principal com latência de acesso de 100ns. O acesso
+à memória principal somente é realizado após o valor não ser encontrado na cache.
+
+A MAIOR taxa de cache miss aceitável para que o tempo médio de acesso à memória
+seja menor ou igual à 2ns é
+
+22. [FU] Observe o circuito lógico abaixo.
+
+a c
+
+ 
+
+ 
+
+|
+ITA
+
+TESS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[ 4
+
+ 
+
+ 
+
+ 
+
+A expressão booleana de saída S do circuito representado é
+
+(a) A+B-C
+(b) A
+(c) B
+(d) A-B-C
+(e) A+B-C
+
+23. [FU] Seja T uma árvore AVL vazia. Supondo que os elementos 5, 10, 11,7,9,3e 6
+sejam inseridos nessa ordem em 7, indique a sequência abaixo que corresponde a um
+percurso de T em pós-ordem.
+
+) 3,5,6,7,9,10e 11.
+) 7,5,3,6,10,9e 11.
+c) 9,10,7,6,11,5€3.
+) 11,10,9,7,6,5€3.
+) 3,6,5,9,11,10€7.
+
+24. [FU] Considere um arquivo texto que contenha uma mensagem de 10.000 caracteres
+utilizando os caracteres 4, Be €, com probabilidades 0,1, 0,1 e 0,8 respectivamente.
+Ao utilizar o algoritmo de Huffman para compressão /codificação do referido texto, as
+seguintes afirmativas são apresentadas.
+1. O comprimento médio dos códigos para os referidos caracteres é 1,2.
+
+II. Se forem utilizados todos os pares possíveis de símbolos para a construção da
+árvore de Huffman, então o comprimento médio dos códigos para os referidos
+pares é menor que 1,2 por caractere.
+
+HI. A codificação de Huffman a partir de todos os pares possíveis de caracteres sempre
+produz códigos de menor comprimento médio.
+
+Os dados acima permitem afirmar que
+
+a) apenas a afirmativa I é verdadeira.
+(c
+d
+
+(e
+
+(b) apenas as afirmativas I e II são verdadeiras.
+) apenas as afirmativas I e III são verdadeiras.
+(
+
+) apenas as afirmativas II e III são verdadeiras.
+)
+
+todas as afirmativas são verdadeiras.25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44,
+
+[FU] Considerando as diferenças existentes entre a execução de um algoritmo sequen-
+cial e a execução de um algoritmo distribuído, analise as seguintes afirmativas.
+
+1. Somente na execução sequencial de um algoritmo existe a possibilidade de ocorrer
+um deadlock.
+
+II. Um algoritmo sequencial apresenta mais de uma execução possível para uma dada
+entrada.
+
+HI. Um algoritmo distribuído tem sua complexidade medida pela quantidade de men-
+sagens transmitidas durante sua execução.
+
+IV. A execução de um algoritmo distribuído pode ser não deterministica.
+A análise permite concluir que
+
+a) todas as afirmativas são falsas.
+
+(c
+d
+
+(e
+
+[FU] Seja a linguagem formal L = (a"b?"c,n > 0). Analise as seguintes assertivas.
+
+(a)
+
+(b) todas as afirmativas são verdadeiras.
+)
+
+(
+
+) apenas as afirmativas 1 e IV são verdadeiras.
+
+apenas a afirmativa IV é verdadeira.
+
+I. L é uma linguagem livre de contexto.
+IL A gramática G = ((S, XY (a,b,c), (S>Xc, X>aXbble), S) gera a linguagem L.
+
+HI. L não pode ser reconhecida por um autômato com pilha.
+A análise permite concluir que estão CORRETAS
+
+a) apenas as assertivas I e II.
+
+(c
+d
+
+(e
+
+(a)
+
+(b) apenas as assertivas I e IIL.
+) apenas as assertivas II e III.
+
+(
+
+) todas as assertivas.
+
+nenhuma das assertivas.
+
+[FU] Assinale a alternativa que apresenta a afirmativa FALSA.
+
+(a) Uma linguagem L é aceita por uma Máquina de Turing não determinística com
+k fitas, m dimensões, n cabeçotes de leitura e gravação por fita se, e somente se,
+ela é aceita por uma Máquina de Turing determinística com uma fita infinita em
+apenas um sentido e um cabeçote de leitura e gravação.
+
+(b) Um problema é dito ser decidível se a linguagem associada a esse problema é
+recursiva.
+(c) O conjunto de todos os programas que páram para uma dada entrada é um
+
+conjunto recursivo mas não recursivamente enumerável.
+
+(d) Uma função é parcialmente computável se, e somente se, ela pode ser obtida a
+partir de funções iniciais (por exemplo, sucessor, zero e projeção) por um número
+finito de aplicações de composição, recursão primitiva e minimalização.
+
+(e) Uma Máquina de Turing Universal U toma como argumentos uma descrição de
+uma Máquina de Turing qualquer M e uma entrada x para M, e executa as
+mesmas operações sobre x que seriam executadas por M, ou seja, U simula M
+sobre x.
+
+[FU] Considere o seguinte enunciado e as possibilidades de sua complementação.
+
+A regra de inferência utilizada pela linguagem Prolog, denominada “regra de resolu-
+
+ção”,
+
+I. opera com fórmulas contendo apenas quantificadores existenciais.
+
+II. é capaz de reduzir fórmulas quantificadas à suas correspondentes formas clausais.
+III. opera sobre fórmulas em forma clausal pelo corte de literais de sinais opostos.
+IV. opera sobre fórmulas em forma clausal pelo corte de literais de mesmo sinal.
+
+V. produz deduções que evitam a construção de árvores de dedução lineares.
+Completa(m) CORRETAMENTE o enunciado acima
+
+apenas o item II.
+
+(a
+(b
+(c
+(d
+(e
+
+apenas o item III.
+apenas o item IV.
+
+apenas os itens I e II.
+
+ 
+
+LDL
+©
+
+apenas os itens III e V.
+
+[FU] Analise as seguintes afirmativas.
+I. Encapsulamento é a capacidade de uma operação atuar de modos diversos em
+classes diferentes.
+
+II. Polimorfismo é o compartilhamento de atributos e métodos entre classes com base
+em um relacionamento hierárquico.
+
+HI. Herança consiste no processo de ocultação dos detalhes internos de implementação
+de um objeto.
+
+IV. Sobreposição é a redefinição das funções de um método herdado. Os métodos
+apresentam assinaturas iguais.
+
+V. Em JAVA, todos os métodos numa classe abstrata devem ser declarados como
+abstratos.
+
+A partir da análise, pode-se concluir que
+
+(a) apenas a afirmativa IV está correta.
+
+(b) apenas as afirmativas HI e IV estão corretas.
+(c)
+
+(d
+
+(e
+
+apenas as afirmativas I, IV e V estão corretas.
+apenas as afirmativas I, II e V estão corretas.
+
+todas as afirmativas sao falsas.
+
+)
+)
+
+[FU] Suponha que tenhamos à nossa disposição um algoritmo MULT que efetua a
+multiplicação de duas matrizes A,xq € Bgxr dadas como entrada com pxqxr multi-
+plicações de escalares. Esse algoritmo é, então, usado para definir o seguinte problema
+de decisão chamado MULTMAT:
+
+ENTRADA: vetor p[0], p(1),..., p[n], um inteiro positivo m.
+
+QUES TÃO: existe uma sequência de multiplicações de duas matrizes com
+o algoritmo MULT que produz o resultado de A, A,--- A,, em que cada Aj,
+para todo à € (1,2,...,n), é uma matriz de dimensões pfi — 1] x pfi], com
+m multiplicações de escalares no máximo?
+
+ 
+
+ 
+
+Considere as seguintes afirmativas.
+
+1. O algoritmo abaixo demonstra que MULTMAT está na classe de problemas P.
+Chamada: MuLTMAT(p, m)
+1: g Q(p,0,n)
+2: seq <m então
+3: retorna “Sim”
+4: retorna “Não”
+
+Chamada: Q(p, i, j)
+5: sei = então
+6: retorna 0)
+Ti q— oo
+8: parak —i,i+1,---,j—1 faça
+9 r— Q(p,i,k) + Q(p,k +1, 9) + vft — Uplkl ply]
+10: ser <q então
+11: qe—r
+12: retorna q
+Il. MULTMAT esta na classe de problemas NP.
+
+HI. Se Ie II são corretas, então P= NP.
+Assinale a alternativa que apresenta a(s) afirmativa(s) CORRETA(S).
+
+(a) Somente a afirmativa 1.
+
+(b) Somente a afirmativa IL
+
+(c) Somente a afirmativa IH.
+
+(d) Somente as afirmativas II e III.
+)
+
+(e) Somente as afirmativas I, Il e HI.
+
+[FU] Considere o problema do caixeiro viajante, definido como se segue.
+
+Sejam S um conjunto de n n > O cidades, e d;; > O a distância entre as cidades i e j,
+i,j € S,i# 73. Define-se um percurso fechado como sendo um percurso que parte de
+uma cidade i E S, passa exatamente uma vez por cada cidade de SMi), e retorna à
+cidade de origem. A distância de um percurso fechado é definida como sendo a soma
+das distâncias entre cidades consecutivas no percurso. Deseja-se encontrar um percurso
+fechado de distância mínima. Suponha um algoritmo guloso que, partindo da cidade
+1, move-se para a cidade mais próxima ainda não visitada e que repita esse processo
+até passar por todas as cidades, retornando à cidade 1.
+
+Considere as seguintes afirmativas.
+
+1. Todo percurso fechado obtido com esse algoritmo tem distância mínima.
+
+II. O problema do caixeiro viajante pode ser resolvido com um algoritmo de com-
+plexidade linear no número de cidades.
+
+HI. Dado que todo percurso fechado corresponde a uma permutação das cidades,
+existe um algoritmo de complexidade exponencial no número de cidades para o
+problema do caixeiro viajante.
+
+Em relação a essas afirmativas, pode-se afirmar que
+
+a) 1 é falsa e III é correta.
+
+(a)
+(b) I, IL e III sao corretas.
+
+(c) apenas I e II sao corretas.
+(
+
+d)
+)
+
+(e
+
+apenas 1 e III são falsas.
+
+1, He III são falsas.
+
+[FU] Observe as funções representadas no gráfico abaixo.
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+ 
+
+Assinale a afirmativa FALSA sobre o crescimento assintótico dessas funções.
+
+ 
+
+[FU] Seja L =< r,...,rm > uma lista qualquer de inteiros não necessariamente
+distintos.
+
+A esse respeito, assinale a alternativa INCORRETA.
+
+(a) Existe um algoritmo determinístico ótimo de complexidade 0(n) para selecionar
+o maior elemento de L.
+
+(b) Existe um algoritmo determinístico de complexidade O(nlgn) para selecionar,
+paral<1%<n, o i-ésimo menor elemento de L.
+
+(c) Se existe um algoritmo linear para selecionar o i-ésimo menor elemento de L,
+então, usando esse algoritmo, é possível projetar um algoritmo linear para ordenar
+L em ordem não crescente.
+
+(d) Existe um algoritmo linear para determinar o terceiro maior elemento de L.
+
+(e) Existe um algoritmo que, percorrendo uma única vez L, pode determinar o menor
+e o maior elemento de L.
+
+[FU] Seja V =< v,,...,v, > uma lista qualquer de inteiros distintos que se deseja
+ordenar em ordem não descrescente. Analise as seguintes afirmativas.
+
+1. Considere o algoritmo Quicksort. Suponha uma execução do algoritmo sobre V tal
+que a cada sorteio do pivot, a mediana do (sub)problema em questão é escolhida.
+Então, a complexidade dessa execução é O(nlgn).
+
+II. Considere o algoritmo Quicksort. Suponha uma execução do algoritmo sobre V'
+tal que a cada sorteio do pivot, os dois subproblemas gerados têm tamanho a e 2
+respectivamente do tamanho do (sub)problema em questão. Então, a complexi-
+dade dessa execução é O(n?).
+
+II. Considere o algoritmo Mergesort. A complexidade do pior caso do algoritmo é
+O(nlgn) e a complexidade do melhor caso (vetor já está ordenado) é O(n).
+
+IV. Considere o algoritmo Heapsort. A complexidade do pior caso do algoritmo é
+O(nlgn) e a complexidade do melhor caso (vetor já está ordenado) é O(n).
+
+V. Se para todo i, v; é O(n), então a complexidade do algoritmo Bucketsort é O(n).
+A partir dos dados acima, pode-se concluir que estão CORRETAS
+
+(a) apenas as afirmativas 1 e II.
+
+(b) apenas as afirmativas I, II e HI.
+(c
+(d
+
+(e
+
+)
+
+)
+
+) apenas as afirmativas I, III e V.
+
+) apenas as afirmativas II, IV e V.
+)
+
+[FU] Analise as seguintes afirmativas e assinale a alternativa INCORRETA.
+
+(a) O acesso a setores localizados em sequência em uma mesma trilha de um disco
+é mais rápido do que acessar o mesmo número de setores em trilhas diferentes,
+devido ao menor número tanto de deslocamentos do cabeçote quanto de rotações
+no disco.
+
+(b) Na paginação por demanda, não é necessário que o processo inteiro se encontre
+em memória para execução.
+
+(c) O escalonamento de operações de entrada e saída em um disco rígido pode ser
+utilizado para aumentar o desempenho. Porém, algoritmos como o SSTF (Shortest
+Seek Time First) podem fazer com que requisições esperem indefinidamente.
+
+(d) O escalonamento de processos por prioridades utiliza múltiplas filas e garante que
+todos os processos recebam sua fatia de tempo.
+
+(e) O surgimento do conceito de interrupções, juntamente com dispositivos de acesso
+nao-seqiiencial, foi primordial para a evolução que levou aos sistemas multipro-
+gramados.
+
+[FU] Agregações são muito importantes em programação orientada a objetos.
+
+Analise as afirmativas abaixo relativas ao uso de agregações.
+
+I. Uma agregação é formada por agregado (todo) e componentes (partes).
+
+II. Uma agregação não é transitiva e, portanto, não pode modelar situações desse
+tipo.
+
+III. A simetria é uma das principais características de uma agregação.
+A análise permite concluir que
+
+as três afirmativas são falsas.
+
+as três afirmativas são verdadeiras.
+
+c) apenas a afirmativa I é verdadeira.
+) apenas as afirmativas I e II são verdadeiras.
+
+apenas a afirmativa III é verdadeira.
+
+[FU] Multiplicidade é um conceito muito importante na modelagem de classes em
+programação orientada a objetos. Por isso, na modelagem de classes usando Uni-
+fied Modeling Language (UML), é sempre recomendável especificar a multiplicidade
+dos relacionamentos (associações). Um dos tipos mais comuns de multiplicidade é a
+multiplicidade um-para-muitos (1:n).
+
+Entre as alternativas abaixo, assinale a que apresenta uma situação de associação um-
+para-muitos, seguindo a notação “associação (classel, classe2)”.
+
+(a) Comprar (Jornal, Leitor)
+(b) Casar (Marido, Esposa)
+(c) Torcer (Time, Pessoa)
+(d) Votar (Prefeito, Eleitor)
+
+(e) Escrever (Coluna, Colunista)
+
+[FU] Dado o seguinte programa escrito em C:
+
+#include <stdio.h>
+
+int main(void)
+
+{
+int nl] = 17, 8, 9};
+int *p;
+
+p = &n[0];
+p++;
+
+printf("Valor: Kd ", *p);
+(xp) ++;
+printf("Valor: %d\n", *p);
+
+Qual é a resposta que será impressa na tela:
+
+(a) Valor: 7 Valor : 8
+(b) Valor: 7 Valor:
+
+(c) Valor: 8 Valor:
+(d) Valor: 7 Valor:
+(e) Valor: 9 Valor:
+
+o o oq
+
+[FU] Seja G = (V, E) um grafo simples e finito, onde |V| = n e |E| = m.
+Nesse caso, analise as seguintes afirmativas.
+
+I. Se G é hamiltoniano, então G é 2-conexo em vértices.
+
+II. Se G é completo, então G é hamiltoniano.
+
+III. Se G é 4-regular e conexo, então G é euleriano.
+
+IV. Se G é bipartite com partições A e B, então G é hamitoniano se, e somente se,
+
+|A| = |BI.
+
+V. Se G é euleriano, então G é 2-conexo.
+A análise permite concluir que são FALSOS
+(a
+(b
+(
+
+) apenas os itens 1 e II.
+
+)
+(c) apenas os itens II e III.
+)
+
+)
+
+apenas os itens Le V.
+
+d
+(e
+
+[FU] Considere os seis grafos G1, G2, G3, G4, G5 e G6 mostrados a seguir.
+
+Ep pa
+
+Pode-se afirmar que os únicos pares de grafos isomorfos entre si são:
+
+apenas os itens Ill e IV.
+
+apenas os itens IV e V.
+
+(a) Gle G5; G3 e G6
+(b) G3 e G4; G2 e G6
+(c) Gle G5
+(d) G2e G4
+(e) G3 e G6
+
+QUESTÕES DE TECNOLOGIA DA COMPUTAÇÃO
+
+[TE] Considere um banco de dados com as seguintes tabelas e campos:
+
+ALUNOS (nome-aluno, código-aluno, cidade, código-curso)
+CURSOS (nome-curso, código-curso, carga-horária)
+
+Assinale a alternativa que apresenta a forma mais otimizada de realizar a consulta
+“encontrar o nome dos alunos que pertencem ao curso Computação”. (operações em
+ordem de execução)
+
+(a) Junção de cursos com alunos, seleção de linhas em que nome-curso = “Com-
+putação”, projeção do resultado sobre nome-aluno.
+
+(b) Junção de cursos com alunos, projeção do resultado sobre nome-aluno, seleção de
+linhas em que nome-curso = “Computação”.
+
+ 
+
+ 
+
+(c) Seleção de linhas em cursos em que nome-curso = “Computação”, projeção do
+resultado sobre código-curso, junção com alunos, projeção do resultado sobre
+nome-aluno.
+
+(d) Seleção de linhas em cursos em que nome-curso = “Computação”, junção com
+alunos, projeção do resultado sobre nome-aluno.
+
+(e) Seleção de linhas em cursos em que nome-curso = “Computação”, projeção do
+resultado sobre nome-aluno.
+
+[TE]
+
+Considere o conteúdo do arquivo de log abaixo, em que um registro (Tj, start) indica
+o início da transação T;, um registro (T;, commit) indica o seu final, e IA,IB,...
+indicam os itens afetados pelas transações. Assim, no registro (T1, 14,200, 500), temos
+respectivamente T, como um identificador de transação, 7 A como o item afetado, 200 o
+seu valor antigo e 500 o seu novo valor. Os números sequenciais indicam o timestamping
+da ação.
+
+ 
+
+1. (hi, start) 6. (Ts, ID, 659,333) [IL (Ts, I F,445,559)
+2. (T,,1A,200,500) | 7. (T>, commit) 12. (Ts, commit)
+3. (Ty, start) 8. CHECKPOINT 13. FALHA
+
+4. (Ty, 1B,400,500) |9. (Z,, start)
+
+5. (Ty, 1C,560,340) | 10. (Ty, LE, 2234, 344)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note que no tempo 8 ocorreu um checkpoint e que, no tempo 13, ocorreu uma falha
+de sistema (por exemplo, uma falta de energia).
+
+Considere que está sendo utilizada a técnica de atualização imediata do banco de dados,
+estratégia que também é conhecida como algoritmo UNDO/REDO.
+
+Avalie as seguintes afirmativas.
+
+I. A transação T) deverá ser refeita (REDO).
+II. A transação T, deverá ser desfeita (UNDO).
+II. A transação T; deverá ser refeita (REDO).
+IV. A transação T) deverá ser desfeita (UNDO).
+V. A transação T3 deverá ser refeita (REDO).
+VI. A transação T; deverá ser desfeita (UNDO).
+
+VII. Não é preciso fazer nada com respeito à transação 71.
+
+ 
+
+VIII. Não é preciso fazer nada com respeito à transação T>.
+IX. Não é preciso fazer nada com respeito à transação T.
+
+Com base nessas afirmativas, assinale a alternativa que apresenta os três itens COR-
+RETOS.
+
+(a) VIL, Ve IL
+(b) VIL IV e VL.
+(c) VII, Viel
+(d) IX, Ile I.
+
+(e) VIL, VI e HI
+
+[TE] Considere que um Banco de Dados Distribuído siga o protocolo TWO-PHASED
+COM-MIT e que o nodo X tenha retornado uma resposta negativa na primeira fase,
+indicando que não pode realizar a operação que lhe cabe.
+
+Nesse caso, durante a segunda fase, o coordenador da transação deverá
+
+(a) avisar o nodo X para completar a tarefa de qualquer forma porque os demais
+nodos participantes também deverão completar a transação.
+
+(b) avisar o nodo X para não completar a tarefa e avisar os demais nodos participantes
+para completarem a transação.
+
+(c) completar ele mesmo a tarefa que cabia ao nodo X e avisar aos demais nodos
+participantes para completarem a transação.
+
+(d) avisar a todos os nodos participantes para completarem a transação.
+
+(e) avisar a todos os nodos participantes para não completarem a transação.
+
+[TE] Considere o esquema de relação R(A, B,C, D, E, F).
+
+Suponha que F = {E > C,C > B, A > D,CDE > Aléo conjunto de dependências
+funcionais não triviais válidas em R.
+
+Considere os seguintes conjuntos de atributos.
+
+S1 = {C,D, E},
+$2 ={D,E,F},e
+53 = {A,E, F}.
+
+Entre as afirmativas abaixo, assinale a que contém a informação CORRETA.
+
+(a) Sl e $2 são chaves candidatas de R.
+
+(b) 92 e $3 são chaves candidatas de R.(c) Sl é a única chave candidata de KR.
+
+(d) $2 é a única chave candidata de R.
+
+o
+
+(e) S3 é a única chave candidata de R.
+
+45. [TE] Considere a gramática regular abaixo onde +; e x; são operadores unários e
+
+n,m > 0.
+A>4B| +.B |...| +,B|B
+Bo2,B\ xB... | amB | id
+
+Nesse caso, é CORRETO afirmar que
+
+) sua tabela SLR tem 2n + 2m + 4 estados.
+
+) sua tabela SLR tem 2" + 27 + 4 estados.
+
+c) sua tabela SLR tem 2(n — 2)(m — 2) estados.
+) sua tabela SLR tem 2(n + 2)(m + 2) estados.
+) sua tabela SLR tem 2n + 2(m + 2) estados.
+
+ 
+
+ 
+
+ 
+
+s descendentes recursivos.
+
+ 
+
+46. [TE] Analise as seguintes afirmativas sobre os par:
+
+1 São parsers fáceis de implementar para linguagens cuidadosamente projetadas,
+porém geralmente exigem transformações em gramáticas originalmente apresen-
+tadas em BNF.
+
+II. Um dos principais problemas desse tipo de parser é a necessidade de retroc
+alternativas, o que pode ser resolvido com o uso de um parser recursivo preditivo.
+
+so nas
+
+ 
+
+HI. Para evitar os problemas do parser descendente recursivo, podemos realizar a
+andlise TOP-DOWN usando um parser preditivo nao recursivo, ou parser pred-
+itivo tabular. O parser preditivo tabular usa uma tabela baseada nos conjuntos
+FIRST e FOLLOW para decidir qual produção aplicar à entrada.
+
+ 
+
+A análise permite concluir que
+
+a) apenas a afirmativa I está correta.
+(c
+d
+
+(e
+
+(a)
+
+(b) apenas a afirmativa II está correta.
+) apenas a afirmativa III está correta.
+
+(
+
+) apenas as afirmativas I, II estão corretas.
+
+as três afirmativas estão corretas.
+
+47. [TE]
+Considere a gramática G abaixo, em que é representa o string nulo.
+S>BI|CI|D
+Ae
+Bad
+
+C — Aac | bAc
+D > Bed | bBa
+
+A esse respeito, analise as seguintes afirmativas.
+
+I. GéSLR(1)
+IL. G é LALR(1)
+HI. GéLR(1)
+
+A análise permite concluir que
+
+somente as afirmativas I e II são verdadeiras.
+somente as afirmativas II e II são verdadeiras.
+somente a afirmativa II é verdadeira.
+
+todas as afirmativas são verdadeiras.
+
+(e) nenhuma afirmativa é verdadeira.
+
+48. [TE] Analise as seguintes afirmativas sobre a fase de análise (Front-End) de um com-
+pilador.
+
+I. O uso de uma variável de ponto flutuante para indexar um vetor causa um erro
+geralmente detectado na análise semântica.
+
+II. Parênteses desbalanceados são um erro geralmente detectado pela análise léxica
+já que essa fase lê o arquivo fonte e o traduz para uma sequência de símbolos
+léxicos, ou toke
+
+ 
+
+HI. Para a análise sintática TOP-DOWN usando o método de empilhar e reduzir, é
+necessário reescrever a gramática eliminando toda recursividade à esquerda.
+
+A análise permite concluir que
+todas as afirmativas são incorretas.
+apenas a afirmativa II é incorreta.
+
+c) apenas as afirmativas 1 e II são incorretas.
+) apenas as afirmativas I e III são incorretas.
+
+apenas as afirmativas II e III são incorretas.
+
+49. [TE] Considere as afirmativas abaixo.
+
+1 Um terminal raster apresentará o efeito “pisca-pisca” quando a cena é complexa.
+II. Em uma cena composta apenas de objetos convexos, a eliminação de superfícies
+s).
+III. No algoritmo do ponto médio para traçado de círculos, se f(zm,ym) =
+
+y” <0, 0 ponto (xyz, yar) é interior à circunferência.
+
+ocultas restringe-se à remoção das faces posteriores (back fac
+
+  
+
+ 
+
+A esse respeito, pode-se afirmar que
+
+a) apenas a afirmativa I é verdadeira.
+
+as três afirmativas são falsas.
+
+(c
+d
+
+(e
+
+50. [TE] Seja o plano definido pelos pontos A(10,0,0), B(0,10,0) e C(2,2,20). A projeção
+do ponto D(20, 20, 10) sobre esse plano segundo a direção de projeção U = (—5, —10,-—15)
+
+e
+
+(a)
+
+(b) apenas a afirmativa III é verdadeira.
+)
+
+(
+
+) as três afirmativas são verdadeiras.
+
+apenas as afirmativas I e II são verdadeiras.
+
+a
+
+(a) (300/13, 40/13, —100/13
+(b
+(
+
+) ( )
+) (150/13, 80/13, —200/13)
+(c) (300/13, 80/13, — 100/13)
+d) ( )
+(e) ( )
+
+150/13, 40/13, —200/13
+300/13, 80/13, —200/13
+
+51. [TE] Dado o seguinte trecho de um programa escrito em C:
+
+float dist, raio;
+int xmouse, ymouse, xcentro, ycentro;
+dist = _-_-
+if (dist <= raio)
+Mouse_DENTRO_Envelope_Circular() ;
+else
+Mouse FORA Envelope Circular();
+
+ 
+
+xmouse, ymouse
+
+Considere que um sistema gráfico utiliza envelope circular para localizar objetos em
+sua interface gráfica. O programador está utilizando o trecho de programa descrito
+acima para verificar se o usuário está apontando o mouse para um dos objetos. Para
+tanto, ele utiliza o cálculo da distância entre dois pontos.
+
+Assinale a alternativa que indica corretamente como é calculada a distancia (dist)
+entre dois pontos.
+
+sgrt ((xmouse-xcentro)+(ymouse-ycentro))
+sqrt (pow(xmouse+xcentro ,2)-pow(ymousetycentro, 2) )
+
+)
+)
+(c) sqrt (pow(xmouse-xcentro ,2)+pow(ymouse-ycentro , 2) )
+) sqrt ((xcentro-xmouse)+( ycentro-ymouse) )/2
+
+)
+
+sqrt ((xmouse-xcentro)-(ymouse-ycentro) )
+
+52. [TE] Considere as seguintes afirmativas sobre as facilidades oferecidas pela UML 2.0.
+
+I. O Diagrama de Comunicação, como o próprio nome já indica, procura dar ênfase
+à troca de mensagens entre os objetos durante o processo. Outra característica
+interessante é que, embora partilhe elementos com o Diagrama de Segúências, o
+Diagrama de Comunicação não apresenta linhas de vida.
+
+II. Quando necessitamos detalhar um estado individual no Diagrama de Máquina de
+Estados.
+sentação de subestados dentro de um mesmo diagrama.
+
+podemos utilizar o recurso estado composto, o qual possibilita a repre-
+
+ 
+
+HI. Visando contemplar as necessidades de modelagem de sistemas de tempo real e
+aplicações hipermídia e multimídia, onde a representação do tempo em que um
+objeto executa algo é essencial, a UML 2.0 disponibiliza o Diagrama de Tempo
+que descreve as mudanças de estado de um objeto ao longo do tempo.
+
+IV. No intuito de facilitar a representação de uma visão mais geral de um sistema (ou
+processo), a UML 2.0 oferece o Diagrama de Interação Geral, uma variação do
+Diagrama de Atividades no qual são utilizados quadros ao invés de nós de ação.
+Estes podem aparecer no modo detalhado (apresentando seu comportamento in-
+terno) ou não.
+
+A esse respeito, pode-se afirmar que
+
+a) são verdadeiras todas as afirmativas.
+
+somente as afirmativas II e II são verdadeiras.
+
+(c
+d
+
+(e
+
+53. [TE] Na UML, o Diagrama de Casos de Uso proporciona uma forma de representar a
+aplicação segundo a perspectiva do usuário. Considere o Diagrama de Casos de Uso
+para um sistema de gerenciamento de cursos a distância apresentado na figura abaixo
+(próxima página).
+
+(a)
+
+(b) nenhuma das afirmativas é verdadeira.
+)
+
+(
+
+) somente as afirmativas HI e IV são verdadeiras.
+
+somente as afirmativas I, II e II são verdadeiras.
+
+    
+
+Responder
+Avaliação
+
+   
+
+ 
+
+Professor
+
+       
+ 
+
+Elaborar
+Nova
+Curso
+
+Consuntar
+Detalhes sobre
+Material Didático
+
+ 
+ 
+    
+ 
+
+A esse respeito, analise as seguintes afirmativas.
+
+1 O relacionamento < include > entre os casos de uso “Elaborar Novo Curso”,
+“Configurar Curso” e “Selecionar Material Didático” representa um caminho obri-
+gatório de execução de funções da aplicação.
+
+II. O caso de uso “Consultar Detalhes sobre Material Didático” só é executado se o
+caso de uso “Selecionar Material Didático” tiver sido executado anteriormente.
+
+III. Os relacionamentos especiais < include > e < extends > são exclusivos para
+casos de uso.
+
+IV. A utilização de diferentes perfis de usuário (atores: “Aluno” e “Professor”) é
+representada através de um tipo de relacionamento especial chamado composição,
+o qual pode ser aplicado tanto a casos de uso como entre atores.
+
+A análise permite afirmar que
+(a) todas as afirmativas são verdadeiras.
+(b
+
+) nenhuma das afirmativas é verdadeira.
+(c) somente as afirmativas II e II são verdadeiras.
+
+somente as afirmativas HI e IV são verdadeiras.
+
+(d
+(e
+
+somente as afirmativas I, II e II são verdadeiras.
+
+54. [TE] Qualidade é uma das premissas básicas para se desenvolver software hoje em dia.
+Contudo, gerenciar a qualidade dentro do processo de software não é uma etapa trivial.
+Requer preparação, conhecimento técnico adequado e, sobretudo, comprometimento de
+todos os stakeholders envolvidos. A esse respeito, considere as seguintes afirmativas.
+
+1 O MPS.br é uma iniciativa para Melhoria de Processo do Software Brasileiro. O
+MPS.br adequa-se à realidade das empresas brasileiras e está em conformidade
+com as normas ISO/IEC 12207. No entanto, não apresenta uma estratégia de
+compatibilidade com 0 CMMI - Capability Maturity Model Integration.
+
+II. A rastreabilidade de requisitos de software proporciona uma melhor visibilidade
+para a geréncia de qualidade do projeto.
+
+HI. Uma empresa de tecnologia certificada por meio de modelos como CMMI ou
+MPS.br oferece produtos de software também certificados.
+
+IV. A padronização é um dos fundamentos básicos da gerência da qualidade. A
+padronização pode acontecer em diversos níveis: na documentação, no código
+e, principalmente, no processo.
+
+Considerando a gerência da qualidade, assinale a alternativa CORRETA.
+
+a) Todas as afirmativas são verdadeiras.
+
+(a)
+(b) Nenhuma das afirmativas é verdadeira.
+
+(c) Somente as afirmativas II e III são verdadeiras.
+(
+
+d)
+)
+
+(e
+
+55. [TE] Documentos de projeto de software servem principalmente para ajudar o pro-
+jetista a tomar boas decisões e para explicar o projeto para os outros envolvidos.
+
+Somente as afirmativas Il e IV são verdadeiras.
+
+Somente as afirmativas I, Il e II são verdadeiras.
+
+Levando em consideração o conteúdo de um documento de projeto, assinale a alterna-
+tiva abaixo que contém tópicos de um modelo de guia para o documento de projeto.
+
+Objetivo, escopo, requisitos, principais características do projeto e detalhes do
+código.
+
+ 
+
+(b) Objetivo, prioridades gerais, visão geral do projeto, principais características do
+projeto e detalhes do projeto.
+
+(c) Visão geral do projeto, escopo, objetivo, principais características do projeto e
+detalhes do código.
+
+(d) Objetivo, prioridades gerais, requisitos, escopo e detalhes do projeto.
+
+(e) Nenhuma das anteriores.
+
+56. [TE] Para atingir usabilidade, o projeto da interface de usuário para qualquer produto
+interativo, incluindo software, necessita levar em consideração um número de fatores.
+
+Marque, nas alternativas abaixo, o fator que NAO deve ser considerado na análise de
+usabilidade de um projeto de interface de usuário.
+
+(a) Capacidades cognitivas e motoras de pessoas em geral.
+
+(b) Características únicas da população usuária em particular.
+
+(c) Fatores que levem em consideração as restrições de uso de um grupo em particular
+não suportado pelo produto
+
+(d) Requisitos das atividades dos usuários que estão sendo suportadas pelo produto.
+(e) Nenhuma das anteriores.
+
+57. [TE] Levando em conta as podas alfa-beta na árvore Mini-Max abaixo, assinale a
+alternativa que apresenta a quantidade de folhas que deverão ser visitadas.
+
+ 
+
+58. [TE] Considerando que h(n) é o custo estimado do nó n até o objetivo, em relação à
+busca informada, pode-se afirmar que
+
+a busca gulosa minimiza h(n).
+
+(a)
+
+(b) a busca 4* minimiza h(n).
+
+(c) a busca de custo uniforme minimiza A(n).
+
+(d) a busca gulosa minimiza h(n) somente se a heurística for admissível.
+)
+
+(e) a busca A* minimiza h(n) somente se a heurística for admissível.
+
+59. [TE] Analise o seguinte conjunto de afirmativas caracterizando agentes computacionais
+e os ambientes em que operam.
+
+I. Um agente reflexivo que não dispõe de modelo de seu ambiente seleciona a próxi-
+ma ação que vai executar tendo por base apenas as suas percepções atuais.
+
+II. Um agente capaz de planejar sequências futuras de ações não pode e não deve ter
+representações explícitas de seus objetivos.
+
+HI. Um ambiente determinístico é aquele que permite a um agente, que se encontra
+sozinho no ambiente, saber o resultado de uma ação realizada a partir do con-
+hecimento do estado do ambiente no momento em que a ação foi realizada e das
+características da ação que o agente realizou.
+
+IV. Um ambiente parcialmente observável é aquele que só permite a um agente con-
+
+hecer completamente o estado atual do ambiente se o agente estiver sozinho no
+ambiente.
+
+V. Uma função de utilidade é uma função que ajuda um agente a distinguir quais
+percepções atuais são mais importantes para a realização dos objetivos do agente.
+
+A esse respeito, pode-se concluir que estão CORRETAS
+
+a) somente as afirmativas 1 e II.
+
+(c) somente as afirmativas HI e IV.
+d
+(e
+
+(a)
+
+(b) somente as afirmativas 1 e HI.
+)
+
+(
+
+) somente as afirmativas III e V.
+)
+
+somente as afirmativas IV e V.
+
+60. [TE] Analise as seguintes afirmativas.
+1. A estratégia de busca em largura encontra a solução ótima quando todos os op-
+eradores de mudança de estado têm o mesmo custo.
+
+II. A estratégia de busca em profundidade sempre expande um menor número de nós
+que a estratégia de busca em largura, quando aplicadas ao mesmo problema.
+
+HI. A estratégia de busca heurística encontra sempre a solução de menor custo.
+
+IV. A estratégia de busca heurística expande um número de nós em geral menor que
+o algoritmo de busca em largura, mas não garante encontrar a solução ótima.
+
+V. O algoritmo de busca heurística que utiliza uma função heurística admissível
+encontra a solução ótima.
+
+A esse respeito, pode-se concluir que
+
+(a) apenas a afirmativa V é correta.
+(b) todas as afirmativas são corretas.
+(c) todas as afirmativas são falsas.
+
+d)
+)
+
+(e
+61. [TE] O realce de imagem tem como objetivo destacar detalhes finos procurando obter
+
+uma representação mais adequada do que a imagem original para uma determinada
+aplicação.
+
+apenas as afirmativas Il e V são corretas.
+
+apenas as afirmativas I, IV e V são corretas.
+
+Dessa forma, sobre as técnicas utilizadas no realce de imagens, é CORRETO afirmar
+que
+
+(a) o melhor resultado obtido depende do filtro aplicado na imagem. Normalmente,
+o mais aplicado é o filtro da mediana.
+
+(b) o melhor resultado é obtido com a aplicação de filtros passa-baixas, cujos parâmetros
+dependem do resultado desejado.
+
+(c) a aplicação de filtros da média sempre oferece resultado adequado no realce de
+imagens.
+
+(d) o resultado mais adequado no realce de imagens está associado à aplicação de
+filtro passa-altas e da interpretação subjetiva do observador que deverá ter con-
+hecimento a priori da imagem original.
+
+(e) o resultado mais adequado no realce de imagens está associado à aplicação de
+filtro passa-baixas e da interpretação subjetiva do observador que deverá ter con-
+hecimento a priori da imagem original.
+
+62. [TE] Um sistema de codificação e compressão de imagens consiste de dois blocos, que
+são: o codificador e o decodificador. Entre as diversas técnicas de codificação, a mais
+popular é o código de Huffman. Considere a tabela abaixo, em que é apresentado o
+código resultante num processo de codificação.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| probabilidade | código
+
+0,35 1
+
+0,25 01
+
+0,2 010
+
+0,1 0101
+
+0,05 01011
+
+0,03 010110
+
+0,01 0101100
+
+0,01 0101101
+Nesse caso, o comprimento médio do código obtido foi de:
+
+(a) 3,15 bits/símbolo
+(b) 1,14 bits/símbolo
+(c) 2,42 bits/símbolo
+(d) 4,38 bits/símbolo
+(e) 3,00 bits/símbolo
+
+63. [TE] Constitui(em) método(s) para alterar o contraste de uma imagem em cores sem
+alterar sua tonalidade.
+
+1 Transformar RGB em IHS, aumentar o contraste de I e fazer a transformação
+
+inversa IHS para RGB.
+
+II. Aumentar o contraste de I, transformar IHS em RGB e fazer a transformação
+inversa RGB para IHS.
+
+II. Aumentar o contraste em R, transformar RGB em IHS.
+A esse respeito, pode-se afirmar que
+
+(a
+(b
+(
+
+) apenas o item I é verdadeiro.
+(c) são verdadeiros apenas os itens 1 e II.
+
+apenas o item II é verdadeiro.
+
+d
+(e
+
+são verdadeiros apenas os itens 1 e III.
+
+são verdadeiros apenas os itens Il e HI.
+
+64. [TE] O controle de congestionamento é uma das funções desempenhadas pela Camada
+de Transporte no modelo TCP/IP.
+
+Sobre essa função, assinale a alternativa INCORRETA.
+
+(a) No controle de congestionamento fim-a-fim, uma situação de congestionamento
+é intuída pelos hosts terminais via eventos como perda ou atraso excessivo de
+pacotes.
+
+(b) No controle de congestionamento assistido pela rede, os nodos (roteadores) enviam
+notificações explícitas do estado de congestionamento da rede diretamente à fonte
+de cada fluxo que, por meio dele, trafega.
+
+(c) O mecanismo Explicit Congestion Notification (ECN) utiliza um dos dois últimos
+bits do campo ToS do cabeçalho IPv4 para notificar a um destinatário o estado
+de congestionamento da rede.
+
+(d) Ao perceber um estado de congestionamento na rede, uma conexão TCP, por
+meio de seu mecanismo de prevenção de congestionamento (congestion avoidance),
+reduz o tamanho de sua janela de congestionamento.
+
+ 
+
+(e) Na fase de partida lenta (slow start) de uma conexão TCP, o tamanho da janela de
+congestionamento aumenta a cada RTT (Round-Trip Time) de forma exponencial,
+até que esse tamanho alcance um determinado valor de limiar (threshold).
+
+65. [TE] Sobre o protocolo de transferência de hipertextos (HTTP - Hyper-Teat Transfer
+Protocol), é CORRETO afirmar que
+
+(a) O protocolo HTTP é capaz de transportar nativamente arquivos no formato
+binário.
+
+(b) A versão 1.0 do protocolo HTTP não permite a utilização de cookies.
+
+(c) A versão 1.1 do protocolo HTTP difere da versão 1.0 na capacidade de transportar
+objetos maiores.
+
+(d) A instrução GET condicional permite que o cliente opte por receber um determi-
+nado objeto do servidor apenas se este tiver sido alterado depois de uma deter-
+minada data e hora.
+
+(e) O protocolo HTTP não pode ser utilizado para transportar outros tipos de objetos
+senão os hiper-textos.
+
+66. [TE] Considere os pares de endereços de hosts e suas respectivas máscaras de endereços
+listados abaixo.
+I. 192.168.0.43/255.255.255.192 e 192.168.0.66/255.255.255.192
+IL. 192.168.1.97/255.255.255.224 e 192.168.1.118/255.255.255.2
+IH. 192.168.2.115/255.255.255. 2
+IV. 192.168.3.34/255.255.255.240 e 192.168.3.46/255.255.255.240
+V. 192.168.4.167/255.255.255.224 e 192.168.4.207/255.255.255.224
+
+Os itens nos quais o par citado pertence a uma mesma sub-rede são
+
+apenas 1, IL, V
+apenas I, III
+apenas II, IV
+apenas II, II, IV
+(e) anenas IL IV V67. [TE] Analise as seguintes afirmativas.
+
+1 O protocolo UDP é um protocolo da Camada de Transporte orientado a data-
+grama, enquanto que o PCP é um protocolo da Camada de Transporte orientado
+a conexão.
+
+II. Apesar de o protocolo IP ser orientado a datagrama, o protocolo UDP é necessário
+
+por fornecer multiplexação de um endereço de rede em várias portas, permitindo
+que múltiplos processos sejam endereçados em um mesmo endereço de rede.
+
+HI. O protocolo TCP utiliza o tamanho da janela deslizante de uma conexão para o
+
+A
+
+(
+(
+(
+
+a
+
+b
+
+controle de congestionamento.
+esse respeito, pode-se afirmar que
+) somente a afirmativa I é correta.
+
+somente as afirmativas I e II são corretas.
+
+(c) somente as afirmativas 1 e III são corretas.
+
+d
+(e
+
+) somente as afirmativas II e III são corretas.
+)
+
+todas as afirmativas são corretas.
+
+68. [TE] Considere as afirmativas sobre um Sistema de Arquivos Distribuídos (SAD).
+
+I. Um “Servidor de Arquivos com Estado”, em um SAD, mantém todo seu estado
+no caso de uma falha, garantindo a recuperação do mesmo sem a necessidade de
+diálogo com os clientes.
+
+II. II. Na gerência de cache em um SAD, uma das políticas utilizadas é a write-
+
+through. O inconveniente dessa política, comparada com outras, é a pouca confi-
+abilidade no caso de falhas no cliente.
+
+III. O uso de replicação em um SAD ao mesmo tempo que provê aumento na confia-
+
+A
+(
+(
+
+(c)
+(d) somente a afirmativa III está correta.
+)
+
+(e
+
+a
+
+b
+
+bilidade, também introduz um gargalo em termos de desempenho.
+esse respeito, pode-se afirmar que
+) nenhuma das afirmativas está correta.
+) somente a afirmativa I está correta.
+
+somente a afirmativa II está correta.
+
+somente as afirmativas I e II estão corretas.
+
+69. [TE] Analise as seguintes afirmativas concernentes a questões de projeto de sistemas
+distribuídos.
+
+I. Um sistema distribuído tolerante a falhas deve continuar operando na presença
+de problemas, podendo ocorrer uma degradação tanto no seu desempenho, como
+nas suas funcionalidades.
+
+II. No que diz respeito à escalabilidade, o projeto de um sistema distribuído deve
+
+prever que a demanda nos serviços em qualquer dos equipamentos seja limitada
+por uma constante dependente do número de nodos envolvidos.
+
+HI. Em um sistema distribuído transparente quanto à concorrência, a informação de
+
+A
+(
+(
+
+a
+
+b
+
+quantos usuários estão empregando determinado serviço deve ser omitida.
+análise permite concluir que
+) somente a afirmativa I está incorreta.
+
+somente a afirmativa II está incorreta.
+
+(c) somente a afirmativa III está incorreta.
+
+(d
+(e
+
+) somente as afirmativas 1 e III estão incorretas.
+
+todas as afirmativas estão incorretas.
+
+70. [TE] Em relação aos sistemas distribuídos, analise as seguintes afirmativas.
+
+I. Um sistema assíncrono apresenta medida de tempo global.
+
+II. A passagem de mensagens é o instrumento empregado para efetuar a comunica-
+
+ção entre os processos de um sistema assíncrono.
+
+HI. E possível simular um computador paralelo de memória compartilhada usando-se
+
+um sistema distribuído.
+
+IV. Quando um determinado elemento de um sistema distribuído efetua a difusão
+
+A
+
+de uma mensagem por meio de um multicast, todos os elementos do sistema
+distribuído recebem a mensagem.
+
+análise permite concluir que
+
+somente a afirmativa IV está correta.
+
+somente as afirmativas 1 e II estão corretas.
+
+somente as afirmativas II e III estão corretas.
+
+)
+)
+c) somente as afirmativas I e II estão corretas.
+)
+)
+
+somente as afirmativas I e IV estão corretas.

@@ -1,0 +1,1616 @@
+QUESTÕES DE MATEMÁTICA
+
+1. A representação polar do número complexo —3i é dada por:
+
+(a) (3, —90º)
+(b) (3, 90º)
+
+(c) (—3, 180º)
+(d) (3, —180º)
+(e) (=3, 270°)
+
+2. Sex=3-2iey= + 4isão números complexos, então o produto « - y é dado por:
+
+ 
+
+3. Considere a matriz abaixo:
+
+NOF
+
+O posto de 4, as dimensões dos dois subespaços: imagem de 4 e núcleo de 4, e uma
+base para a imagem de A sao, respectivamente:
+
+) 2, {(1, —2, 1), (1,0, 2), (1, 4,3)}
+
+) 2, {(1, —2, 1), (1,0, 2), (5, —2, 9)}
+>) 3, 2, 3, {(1,-2, 1), (1,0, 2)}
+
+) 2, {(1, —2, 1), (1,0, 2), (5, —2, 9)}
+) 2, {(1, —2, 1), (1,0, 2)}
+
+QUESTOES DE MATEMATICA
+
+1. A representação polar do número complexo —3i é dada por:
+
+(a) (3, —90º)
+(b) (3, 90º)
+
+(c) (—3, 180º)
+(d) (3, —180º)
+(e) (=3, 270°)
+
+2. Sex=3-2iey= + 4isão números complexos, então o produto « - y é dado por:
+
+ 
+
+3. Considere a matriz abaixo:
+
+1 31105
+A=|{ -2 -6 04 —2
+1 323 9
+
+O posto de 4, as dimensões dos dois subespaços: imagem de 4 e núcleo de 4, e uma
+base para a imagem de A sao, respectivamente:
+
+(a) 3, 3, 2, {(1,—2, 1), (1,0, 2), (1,4,3)}
+(b) 3, 3, 2, {(1,—2, 1), (1,0, 2), (5, —2, 9)}
+(c) 3, 2, 3, {(1, —2, 1), (1,0, 2)}
+
+(d) 2, 3, 2, {(1,—2, 1), (1,0, 2), (5, —2,9)}
+(e) 2, 3, 2, {(1, —2, 1), (1,0, 2)}
+
+4. Dada a matriz de transformação linear
+
+pode-se afirmar que:
+
+06 a (1,3, 2)
+Dé a (3, 0, 2)
+, 1, 0) é mapeado para (3, 1, 2).
+, 0, 1) é a (3, 2, 3)
+10/6 a (3, 2, 3)
+
+5. Seja Tim um tabuleiro xadrez n x m. Denominamos um circuito eqtiestre em Tym a
+um percurso de um cavalo, se movendo como num jogo de xadrez, que passa por cada
+uma das células de Tm exatamente uma vez, e que começa e termina numa mesma
+
+célula (arbitrária). O número de circuitos equestres em 75,5 é
+
+Figura 1: Exemplo de movimentos válidos de um cavalo.
+
+6. Considere a função f(x) = 1/x. Seja À a área compreendida entre o gráfico de f e o
+eixo « no intervalo [1,00) e seja V o volume do sólido obtido pela revolução do gráfico
+
+de f em torno do eixo « no intervalo [1,00). Escolha a alternativa correta:
+
+7. Considere as afirmações a seguir:
+(1) Se f:R — R é uma função tal que f(x) = f(—«:) para todo « E Re f é derivável
+no ponto a = 0, então f'(0) = 0.
+(II) Se lim, 49 bn = +00 e lim, o an = 0, então lim, ,o dnb, nao existe.
+(IH) lim, 3 [nr] = 3.
+(IV) Se c € (a, b] é um máximo local de uma função f: [a,b] > R então f'(c) = 0.
+(V) Se limp—oo @n existe e lim, by não existe, então lim, -.oo(An + bn) não existe.
+Quais são as afirmações verdadeiras?
+(a) Somente as afirmações (1), a (V) são verdadeiras.
+(b) Somente as afirmações (1), (II) e (III) são verdadeiras.
+ye ) são verdadeiras.
+),
+
+(IV) e (V) são verdadeiras.
+
+) (
+
+) (
+(c) Somente as afirmações (1
+(d) Somente as afirmações (1
+
+) (
+
+(e) Somente as afirmações (IN), nb (IV) são verdadeiras.
+
+8. Na figura abaixo, a curva é o gráfico da função f(x) = x? e a região marcada no
+retângulo corresponde a R = {(x,y) € R®:i< a <i+lea?<y<(i+1)*}.
+
+ 
+
+A área de R é:
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) SR
+(b) ZE
+(c) st
+(d) sai
+(e) i+1
+
+9. A sequência x, é definida recursivamente por
+
+1 sen =0
+Tn41 = se
+1+ oc caso contrario.
+n
+
+Se lim,-.oo Ln = L, então
+
+(a) L=1
+
+(b) L=1+1
+(c) L=2
+
+(d) D=,/1+4
+(ce) L= v2
+
+10. Uma equação do segundo grau em x e y, da forma ax? + by? + cry + dv + ey + f =0,
+
+com a, b > 0 pode descrever:
+
+a) Uma curva arbitrária.
+
+(b) Uma circunferência ou uma elipse, mas não uma reta.
+
+(d) Uma parábola ou uma hipérbole, mas não uma reta.
+
+)
+)
+(c) Uma reta.
+)
+)
+
+(e) Simultaneamente duas parábolas.
+
+11. Denote por (x,y) o produto escalar dos vetores x = (1, 12,73) e y = (y1, yo, y3) em
+R%. O lugar geométrico dado por (x,1) =r, onde 1 = (1,1,1])ere Ré
+
+a) a circunferência de raio r e centro 1
+
+(
+(
+
+b) um parabolóide com foco em 1
+
+d
+
+(c) um plano com vetor normal 1
+(d) um cilindro de raio r e altura 1
+
+(e) um hiperbolóide
+
+12. Determine qual das seguintes proposições não pode ser provada a partir da premissa:
+((aA b) Vc) A (ce d)
+
+(a)
+(b)
+(c)
+(d)
+
+)
+
+(av d) A (bV d)
+(na V ab) > (cad)
+(aA b) > 7d
+
+d
+
+aad
+
+(e) ad >b
+
+13. Dadas as quatro premissas:
+e Se o universo é finito, então a vida é curta.
+e Se a vida vale a pena, então a vida é complexa.
+e Se a vida é curta ou complexa, então a vida tem sentido.
+
+e A vida não tem sentido.
+e as assertivas lógicas:
+
+(1) se o universo é finito e a vida vale a pena, então a vida tem sentido;
+(II) a vida não é curta;
+(II) a vida tem sentido ou o universo é finito;
+
+quais assertivas pode-se dizer que se seguem logicamente das premissas dadas?
+
+(a) Somente (1) e (III)
+(b) Somente (II) e (HI)
+(c) Somente (1) e (II)
+(d) (1), (ID e (11)
+
+)
+
+(e) Somente a assertiva (1).
+
+14. Considere a seguinte proposição:
+P :Vx[Bx > [Le A Ca]
+Assinale a alternativa que contém uma proposição equivalente a =P.
+
+[Ba A [La v Ca].
+x[Bx > [Le A Ca].
+|
+[
+
+aBa A [AL V 7Ca)].
+a[hBav [Le A Ca].
+
+15. Quantas cadeias de 7 bits contêm pelo menos 3 zeros consecutivos?
+
+16. Sejam a,b e n inteiros, com n > 0. Considere a equação
+
+ax =b (mod n).
+
+a
+
+(a) A equação acima não tem solução.
+
+À equação acima sempre tem solução.
+
+o
+
+A equação acima tem solução se mde(a,n) = 1.
+
+-s
+
+1) A equação acima tem solução se mdc(a, b) = 1.
+
+e) À equação acima tem solução se mde(b,n) = 1.
+
+17. O número máximo de nós no nivel 7 de uma árvore binária é:
+
+(Considere o nível da raiz igual a 1.)
+(a) 2H,i>0
+
+(b) 2-1 4>1
+
+(co) 2,i>1
+
+(d) Y+Li>1
+
+(e) 2-1,1>1
+18. Dadas as seguintes afirmações:
+1) se R é uma relação transitiva, a sua inversa também é transitiva.
+
+Ç ,
+II) se R é uma relação reflexiva, anti-simétrica e transitiva, então a sua inversa
+Ç > ,
+também é uma relação reflexiva, anti-simétrica e transitiva.
+III) se R é uma relação simétrica e transitiva, então R é reflexiva.
+Ç ,
+
+Sao verdadeiras:
+(a) Somente (I) e (II)
+(b) Somente (I) e (HI)
+(c) Somente (I) e (III)
+(d) (1), (ID e (III)
+
+(e) Somente (I) é verdadeira.
+
+ 
+
+19. Considere que todos os relés do circuito representado na figura abaixo funcionam inde-
+pendentemente e que a probabilidade de fechamento de cada relé é dada por p. Qual
+a probabilidade de que haja corrente entre os terminais 4 e B?
+
+ 
+
+ 
+
+ 
+
+ 
+
+20. Seja R o reticulado no plano formado pelos pares de números inteiros no intervalo
+[-2n,2n], n inteiro maior que 1, e S o circulo de raio n e centro (0,0):
+
+R {(i,j) €Z: —2n<i< Me —IWK<j <2},
+S = {(xyeR:2+y=n}.
+Uma amostra aleatória é tomada do reticulado de modo que cada ponto tem proba-
+
+bilidade 0,5 de ser escolhido, com as escolhas feitas de maneira independente. Qual o
+número de pontos esperados no interior do círculo S?
+
+(a) 0,5: (4n + 1)2
+
+(b) 0,5-4-[{@j) EZ: P +7? <n? ei>O0, j > OF.
+(c) 0,5: mn?
+
+(d) 0,5: TE
+
+(e) 0,5-H(i,j)eZ: 2 +72 <n?).
+
+QUESTÕES DE FUNDAMENTOS DA COMPUTAÇÃO
+
+21. Considere uma cpu usando uma estrutura pipeline com 5 estágios (IF, ID, EX, MEM,
+WB) e com memórias de dados e de instruções separadas, sem mecanismo de data
+forwarding, escrita no banco de registradores na borda de subida do clock e leitura na
+borda de descida do clock e o conjunto de instruções a seguir:
+
+Ii: lw $2, 100($5)
+I2: add $1, $2, $3
+13: sub $3, $2, $1
+14: sw $2, 50($1)
+I5: add $2, $3, $3
+I6: sub $2, $2, $4
+
+Quantos ciclos de clock são gastos para a execução deste código?
+
+(a) 30
+(b) 17
+(c) 16
+(d) 11
+(e) 10
+
+22. Para a representação de número ponto flutuante no padrão IEEE, quais das afirmações
+a seguir são verdadeiras?
+
+(1) Quando a fração e o expoente são zero, o número representado é zero.
+
+(II) Quando o expoente é zero, o número representado é desnormalizado.
+
+(III) Quando todos os bits do expoente são iguais a um e a fração é zero, o número é
++00 ou —o0
+
+(IV) Quando todos os bits do expoente são iguais a um e a fração é diferente de zero,
+a representação não é número.
+
+ID), (IH) e (IV).
+
+I), (II) e (IV).
+
+1), (II) e (III).
+
+I), (III) e (IV).
+
+Somente as afirmações
+
+ss
+Tso
+
+Somente as afirmações
+
+o
+
+Somente as afirmações
+
+pu
+sau
+
+Somente as afirmações
+
+ 
+
+o
+
+Todas as afirmações.
+
+23. Das afirmações a seguir, sobre memória cache, quais são verdadeiras?
+(1) Numa estrutura totalmente associativa, um bloco de memória pode ser mapeado
+em qualquer slot do cache.
+
+(II) O campo tag do endereço é usado para identificar um bloco válido no cache, junto
+com o campo de índice.
+
+(III) Um cache de nível 2 serve para reduzir a penalidade no caso de falta no nível 1.
+(IV) O esquema de substituição LRU é o mais usado para a estrutura de mapeamento
+
+direto.
+
+(a) Somente as afirmações (1), (IH) e (IV).
+(
+
+a
+
+Somente as afirmações (II), (II) e (IV).
+
+o
+
+(II).
+(LI) e (IN).
+
+Somente as afirmações (II) e (IH).
+
+O
+pu
+Ss
+
+(
+(
+Somente as afirmações (T) e
+Somente as afirmações (1),
+
+(
+
+o
+
+24. Considere as seguintes expressões booleanas:
+
+=
+
+a-b)+(c-d-e)
+a-b)-(c-d-e)
++b)-(c+d+e)
+
+a+b)+(c+d+e)
+
+B
+
+ 
+
+Q
+
+(A) (
+(B) (
+(C) (a4
+(D) (
+
+ 
+
+Considere ainda as seguintes afirmações:
+
+(1) A é equivalente a B.
+(II) C é equivalente a D.
+(LI)
+
+)
+
+(IV) B é equivalente a C.
+
+A é equivalente a D.
+
+Quais das alternativas acima são verdadeiras?
+
+(a) Somente as afirmações (1) e (II) são verdadeiras.
+(b) Somente as afirmações (1) e (II) são verdadeiras.
+(
+(d
+
+(e) Todas as afirmações são falsas.
+
+)
+)
+c) Somente as afirmações (II) e (IV) são verdadeiras.
+) Todas as afirmações são verdadeiras.
+
+)
+
+25. Uma lista ligada possui a seguinte definição de nó:
+
+type ap = Tno;
+no = record
+info : integer;
+link : ap
+end;
+
+Como o procedimento a seguir deve ser completado para inverter uma lista ligada?
+
+procedure inverte(var h: fno);
+
+var p,q: tno;
+
+begin
+if h <> NIL
+then begin
+p := hf link;
+hf link := NIL;
+while p <> NIL do
+begin
+[i
+[i
+[i
+[
+end
+end
+end;
+
+(a) pt link:=h; q:=pT link; h:=p; p:=q;
+(b) q:=pT link; h:=p; p:=q; p?link:=h;
+(c) pt link:=h; h:=p; p:=q; q:=p7 link;
+(d)
+
+)
+
+d) qi=pf link; pf link:=h; h:=p; p:=q;
+(e) pflink:=h; h:=p; q:=p? link; p:=q;
+
+26. Considere um heap H com 24 elementos tendo seu maior elemento na raiz. Em quantos
+nós de H pode estar o seu segundo menor elemento?
+
+(a) 18
+(b) 15
+(c) 14
+(d) 13
+(e) 12
+
+27. Dadas as seguintes características para uma Arvore B de ordem n:
+
+(I) Toda página contém no máximo 2n itens (chaves).
+(II) Toda página, exceto a página raiz, contém no mínimo n itens.
+
+(III) Toda página ou é uma página folha, ou tem m + 1 descendentes, onde m é o
+número de chaves.
+
+(IV) Todas as páginas folhas aparecem no mesmo nível.
+Qual das seguintes opções é verdadeira:
+
+(ID), (IID) e (IV) são falsas.
+I I
+
+(I),
+
+As caracteristicas (
+
+(c) As características (IN), (II) e (IV) são verdadeiras.
+(
+(
+
+(a) As características (T),
+(
+
+= —
+
+e (IV) são verdadeiras.
+
+pu
+
+(c
+
+(e) As características (II), (II) e (IV) são falsas
+
+As características (T), (II), (II) e (IV) são verdadeiras.
+
+28. Qual das seguintes afirmações é falsa?
+
+(a) Dada uma máquina de Turing M com alfabeto de entrada D e uma string w E D,
+não se sabe se a computação de M com entrada w vai ou não parar.
+(b) O problema da parada é indecidível.
+(c) Não existe algoritmo que determina quando uma gramática livre de contexto
+arbitrária é ambígua.
+
+(d) Não existe autômato finito determinístico que reconheça alguma linguagem livre
+de contexto.
+
+ 
+
+(e) Um autômato com duas pilhas pode ser simulado por uma máquina de Turing.29. Considere as seguintes afirmações:
+(T) O paradigma da programação funcional é baseado em funções matemáticas e com-
+posição de funções.
+
+(II) PROLOG é uma linguagem de programação cuja sintaxe é uma versão simplifi-
+cada do cálculo de predicados e seu método de inferência é uma forma restrita de
+Resolução.
+
+(IT) O conceito de “Classe” foi primeiramente introduzido por Simula67.
+(IV) O paradigma orientado a objeto surgiu em paralelo ao desenvolvimento de Smalltalk.
+
+(V) No paradigma declarativo, programas são expressos na forma de lógica simbólica
+
+e usam um processo de inferência lógica para produzir resultados.
+Quais são as afirmações verdadeiras?
+ID e (V).
+1), (I) e (V).
+I) e (II).
+
+(e) Todas as afirmações são verdadeiras.
+
+a) Somente (1) e (V)
+) Somente
+
+( (
+(b (
+(c) Somente (
+( (
+
+)
+d) Somente
+)
+
+30. Dadas duas funções f,g: N — R, dizemos que f = o(g) se lim, x. f(n)/g(n) = 0.
+Suponha que o tempo de execução de um certo algoritmo em função do tamanho n de
+sua entrada é descrito por T(n) = log,n + o(1). A alternativa que melhor expressa
+esta afirmação é
+(a) para todo e > 0, existe ng > 0 tal que [7 (n) — log, n] < € para todo n > no.
+
+(b) para todo c > 0, existe no > 0 tal que T(n) < log, n + c para todo n > no.
+(c
+(d
+
+) existem constantes c > 0 e no > 0 tais que T(n) < clogon para todo n > no.
+) existem constantes c > 0,c)>0eno > 0 tais que c logyn < T(n) < cologon
+para todo n > no.
+
+(e) existem constantes c > 0 e no > 0 tais que T(n) > clogyn para todo n > no.
+
+31. Considere o programa :
+
+program P (input, output);
+var m,n : integer;
+function FUN (n : integer): integer;
+var x: integer;
+begin
+ifn < 1 then FUN := 1
+else begin
+
+x:=n * FUN (n-1);
+
+m:= m-1;
+FUN := m+x;
+end;
+
+end;
+
+begin
+
+readIn (m,n);
+writeln (m, n, FUN (n) );
+
+end.
+
+Este programa, para os valores m = 5 e n = 4, tem como resultado:
+
+5, 4, 5
+b) 5, 4, 120
+
+(a)
+(b)
+(c)
+
+(d) 5
+(e) 1
+
+165
+
+o
+
+14,
+14,
+1, 4, 14400
+14,
+14,
+
+120
+
+32. Considere o algoritmo máximo(v, i, f) que devolve o índice de um elemento máximo de
+Lota), ... ol]
+maximo(v, i, f)
+se i = f, devolva i
+p — máximo(v,i, [(i + f)/2])
+q máximo(o, [(i + f)/2) +1, f)
+se u[p] > v[g], devolva p
+devolva q
+Considerando n = f — à + 1, o número de comparações entre elementos de v numa
+execução de máximo(v, i, f) é
+(a) nlogon
+(b) n/2
+(c) n-1
+(d) logy n
+(e) 2n
+33. Um algoritmo de ordenação é estável se a ordem relativa dos itens com chaves iguais
+mantém-se inalterada após a ordenação. Quais dos seguintes algoritmos de ordenação
+são estáveis?
+
+(I
+
+BubbleSort (ordenação por bolha);
+
+)
+(IL) InsertionSort (ordenação por inserção);
+(II) HeapSort;
+(IV) QuickSort;
+
+Somente (II).
+
+1) e (II).
+
+1), (I) e (IID).
+ID), (II) e (IV).
+Somente (I), (II) e (IV).
+
+Somente
+
+Somente
+
+) (
+) (
+c) Somente (
+) (
+) (
+
+34. Seja A = aj,...,a@n uma seqiiéncia de n números, todos distintos entre si. Dados
+1 <i <j <n, dizemos que o par (i,j) 6 uma inverséo em A se aj < a; Qual o
+
+número máximo de inversões possível numa sequência de n elementos?
+
+(a) n
+(b) (3)
+(
+
+3
+
+(c) n-1
+d
+(e
+
+35. Em uma estrutura de arvore binaria de busca, foram inseridos os elementos “h” , “a” ,“b”,
+
+a!
+
+3
+
+)
+) n!
+) n?
+
+Ke
+
+ 
+
+j”, nesta seqiiéncia. O tamanho do caminho entre um no qualquer da árvore
+e a raiz é dado pelo número de arestas neste caminho. Qual o tamanho do maior
+caminho na árvore, após a inserção dos dados acima?
+
+(a)
+(b)
+
+er Dm Ww
+
+(c)
+(d) 5
+(e) 3
+
+36. Quatro tarefas, A, B, Ce D, estão prontas para serem executadas num único proces-
+
+sador. Seus tempos de execução esperados são 9, 6, 3 e 5 segundos respectivamente.
+
+Em qual ordem eles devem ser executados para diminuir o tempo médio de resposta?
+
+37. Qual das alternativas a seguir melhor define uma Região Crítica em Sistemas Opera-
+cionais?
+
+(a) Um trecho de programa que deve ser executado em paralelo com a Região Crítica
+de outro programa.
+
+(b) Um trecho de programa cujas instruções podem ser executadas em paralelo e em
+qualquer ordem.
+
+(c) Um trecho de programa onde existe o compartilhamento de algum recurso que
+não permite o acesso concomitante por mais de um programa.
+
+(d) Um trecho de programa onde existe algum recurso cujo acesso é dado por uma
+prioridade.
+(e) Um trecho de programa onde existe algum recurso a que somente o sistema ope-
+
+racional pode ter acesso.
+
+38. Arvores binárias podem ser usadas para guardar e recuperar informações com número
+de operações proporcional à altura da árvore. Quais das seguintes figuras representam
+árvores binárias de altura balanceada ou do tipo AVL (Adelson-Velski e Landis):
+
+A
+
+(1)
+1)
+
+(LIT) (IV)
+
+(a) Somente (1) e (IV) são árvores binárias AVL.
+(b) Somente
+
+)
+T) é árvore binária AVL.
+c )
+
+(c) Somente (1), (II) e (III) são árvores binárias AVL.
+(d) Somente (II) e (III) são árvores binárias AVL.
+(e) Todas (I), (II), (IH) e (IV) são árvores binárias AVL.
+
+ss
+
+39. Os grafos G = (Vo, Ec) e H = (Vw, En) são isomorfos. Assinale a alternativa que
+
+justifica esta afirmação.
+
+ 
+
+H
+
+(a) As sequências dos graus dos vértices de G e H são iguais.
+
+(b) Os grafos têm o mesmo número de vértices e o mesmo número de arestas.
+
+(c) Existe uma bijeção de Va em Vg que preserva adjacências.
+
+(d) Cada vértice de G e de H pertence a exatamente quatro triângulos distintos.
+
+(e) Ambos os grafos admitem um circuito que passa por cada aresta exatamente uma
+Vez.
+
+40. Dadas as seguintes afirmações
+(D) Qualquer grafo conexo com n vértices deve ter pelo menos n — 1 arestas.
+(II) O grafo bipartido completo Km é Euleriano desde que m e n sejam ímpares.
+(III) Em um grafo o número de vértices de grau ímpar é sempre par.
+
+São verdadeiras:
+
+(a) Somente a afirmação (1).
+
+(b) Somente as afirmações (1) e (III).
+(c) Somente as afirmações (II) e (III).
+(d) Somente as afirmações (TI) e (II)
+
+)
+
+(e) Todas as afirmações.
+
+QUESTÕES DE TECNOLOGIA DA COMPUTAÇÃO
+
+41. Qual das seguintes afirmações é verdadeira?
+
+(a) Nem toda relação que está na FNBC (Forma Normal de “Boyce-Codd”) está
+também na 3FN (Terceira Forma Normal).
+
+(b) Se a relação R possui somente uma chave candidata, ela sempre está na FNBC.
+
+(c) Se a relação R está na 3FN e toda chave candidata é simples, então não podemos
+afirmar que R está na FNBC.
+
+(d) Uma dependência funcional multivalorada na relação R, na forma X»Y, é dita,
+trivial somente se XY = R.
+
+(e) Uma dependência funcional multivalorada na relação R, na forma X-»Y, é dita
+
+trivial se YCX ou XY = R,
+
+42. Em um banco de dados relacional, considere os esquemas de relação:
+
+e Pessoa (CPF, Profissao)
+e Trabalha (CPF, CGC, Periodo)
+
+e Firma (CGC, nome, endereco)
+
+e considere as operações de álgebra relacional União, Interseção, Diferença, Junção
+Natural, Projeção e Seleção.
+A consulta “Qual a profissão das pessoas que trabalham em alguma firma de
+nome X” exige ao menos a seguinte operação para ser processada:
+
+(a) Interseção de Pessoa, Trabalha e Firma.
+
+(b) Junção Natural de Pessoa, Trabalha e Firma.
+(c) União de Pessoa, Trabalha e Firma.
+(d) Seleção de Pessoa, Trabalha e Firma.
+
+)
+
+(e) Nada pode ser afirmado porque os dados não foram fornecidos.
+
+43. Em um banco de dados relacional, considere os esquemas de relação:
+
+e Pessoa (CPF, Profissao)
+e Trabalha (CPF, CGC, Periodo)
+
+e Firma (CGC, nome, endereco)
+
+e considere as operações de álgebra relacional União, Interseção, Diferença, Junção
+Natural, Projeção e Seleção.
+
+Considere que cada relação tenha 1 milhão de tuplas e que existe um índice no banco de
+dados para cada chave de relação. Considere as consultas a seguir, supondo que antes
+
+do processamento de cada uma nenhum pedaço das relações já esteja na memória.
+
+C1 Quais as profissões de todas as pessoas?
+C2 Qual a profissão da pessoa de CPF = ’X’, onde X é um CPF válido?
+C3 Qual o endereço da firma de CGC diferente de 'Z”, onde Z é um CGC válido?
+
+C4 Quais os períodos na década 1990-1999 em que ninguém trabalhou, onde o banco
+
+de dados contém informações entre 1980 e 2005?
+
+Qual das consultas acima é mais rápida em termos de operações de E/S? Assinale a
+
+afirmação correta.
+
+(a) A consulta Cl porque só exige uma projeção na relação Pessoa sem precisar olhar
+o índice.
+
+(b) A consulta C2 porque pode ser processada diretamente via indice de CPF para
+acessar Pessoa.
+
+(c) A consulta C3 porque pode ser processada sequencialmente sobre a relação Firma
+descartando-se a tupla com CGC de valor Z.
+
+(d) A consulta C4 porque requer apenas selecionar os períodos não cadastrados na
+relação Trabalha.
+
+(e) Nada se pode afirmar porque rapidez, neste caso, não pode ser medida.
+
+44. Sejam T1 e T2 duas transações sendo processadas por um SGBD. Os termos lockR
+
+e lockW correspondem a pedidos de tranca de leitura e gravação, respectivamente, e
+
+Unlock liberação de tranca. A, Be C€ são dados do banco de dados.
+
+O trecho a seguir é um pedaço do escalonamento de T1 e T2 definido pelo escalonador
+
+do SGBD (o trecho não está completo):
+
+start(T1); lockR(T1, A); read (T1, A); start(T2);
+lockR(T2, B); read (T2, B); lockW (T1, C); read(T1,C);
+write(T1,C); unlock(T1, C); lockW (T1, B); lockW (T2, A); lockR(T2,C);
+
+Considere as seguintes afirmações:
+(1) O trecho mostra um exemplo de aplicação do protocolo 2PL (two phase lock ou
+tranca em 2 fases).
+(II) O trecho viola o protocolo 2PL.
+(HI
+(IV
+
+(V) Nada se pode afirmar.
+
+)
+) O trecho mostra um exemplo em que ha deadlock (impasse) entre Tl e T2.
+) O trecho nao tem deadlock entre T1 e T2.
+
+)
+
+Estão corretas as afirmações:
+
+(a) Somente (1) e (HI)
+
+(b) Somente (II) e (IV)
+
+(c) Somente (II) e (III)
+
+(d) Somente (1) e (IV)
+) (
+
+(e) Somente (V)
+
+45. No processo de geração de um código executável (em linguagem de máquina) a par-
+
+46.
+
+ir de um programa fonte, escrito em linguagem de alto nível (por exemplo, C) o
+programa original passa por transformações e análises que são realizadas em diversas
+'ases. De forma simplificada, pode-se dividi-las nas oito (8) fases apresentadas, em
+ordem alfabética, a seguir:
+A) Alocação de Registradores
+(B) Análise Léxica
+C) Análise Sintática
+(D) Emissão de Código Assembly
+(E) Link Edição
+F) Montagem
+)
+)
+
+(G) Seleção de Instruções
+
+H) Verificação de Tipos e Símbolos
+
+ 
+
+Durante o processo de geração do código executável a partir do código fonte em qual
+
+ordem essas fases são possíveis de serem executadas?
+
+ES!
+
+i
+É
+
+(a) BCHGAD
+(b) CBHGAD
+(
+
+ES!
+
+(c) BCHGADI
+d) BHCGAD
+(ec) BCHAGDI
+
+Do WY
+T
+
+[ea]
+
+ES!
+
+ 
+
+ 
+
+BD
+
+No que diz respeito à geração de imagens por RayTracing, qual das afirmações a seguir
+
+não é verdadeira?
+
+(a) O número de raios lançados independe do número de objetos da cena.
+
+(b) A refração e a reflexão da luz precisam ser tratadas neste método.
+
+(c) O lançamento de raios é dependente da posição da câmera.
+
+(d) Em algumas variações do método, o cálculo das sombras é feito a parte.
+)
+
+(e) Este método pode ser facilmente paralelizado.
+
+47. Requisitos são capacidades e condições para as quais um sistema deve ter conformidade.
+
+48.
+
+49.
+
+Analise as afirmações a seguir:
+(1) No Processo Unificado, requisitos são categorizados de acordo com o modelo
+FURPS+, onde o U do acrônimo representa requisitos de usabilidade.
+(II) Casos de uso são documentos em forma de texto, não diagramas, e modelagem de
+casos de uso é basicamente um ato de escrever estórias de uso de um sistema.
+(IT) UML (Unified Modeling Language) provê notação para se construir o diagrama de
+casos de uso, que ilustra os nomes dos casos de uso, atores e seus relacionamentos.
+Considerando-se as três afirmações (1), (II) e (II) acima, identifique a única alternativa
+válida:
+(a) Somente as afirmações (1) e (II) estão corretas.
+(b) Somente as afirmações (II) e (HI) estão corretas.
+(c) Somente as afirmações (1) e (III) estão corretas.
+(d) As afirmações (T), (II) e (III) estão corretas.
+(e) Somente a afirmação (III) está correta.
+Qual das alternativas a seguir não representa um artefato da disciplina de Requisitos
+
+do Processo Unificado:
+
+a) Modelo de Casos de Uso.
+
+(a)
+(b) Diagrama de Sequência de Sistema.
+(c) Modelo do Domínio.
+
+)
+(d) Documento de Visão.
+)
+
+(e) Glossário.
+
+Considere as seguintes afirmações sobre o objetivo da atividade de validação de soft-
+
+ware:
+
+(1) Verificar se o produto está sendo corretamente construído.
+
+(II) Verificar se o produto está sendo corretamente avaliado.
+
+(TIN) Verificar se o produto correto está sendo construído.
+
+50.
+
+Quais são as afirmações verdadeiras?
+(a) Somente a afirmação (II).
+
+(b) Somente a afirmação (II).
+
+(c) Somente as afirmações (T) e (II).
+(d) Somente as afirmações (II) e (III).
+(e) Afirmações (1), (II) e (IH).
+
+Considere as seguintes afirmações sobre o diagrama de classes e outros modelos UML
+
+(Unified Modeling Language):
+
+(I) O diagrama de classes pode representar as classes sob diferentes perspectivas, tais
+como a conceitual, a de especificação e a de implementação.
+
+(II) O diagrama de classes, diferentemente do diagrama de estados, é estático.
+
+(NT) O diagrama de classes, diferentemente do diagrama de atividades, não contém
+
+51.
+
+52.
+
+mensagens.
+Quais são as afirmações verdadeiras?
+(a) Somente a afirmação (1).
+(b) Somente a afirmação (II).
+(c) Somente as afirmações (T) e (III).
+(d) Somente as afirmações (II) e (III).
+(e) Afirmações (1), (II) e (IH).
+
+A Atividade de Teste é considerada uma atividade dinâmica, pois implica na execução
+do código. Ela é composta das etapas de planejamento, definição dos casos de teste,
+execução dos casos de teste e análise dos resultados. A Atividade de Teste deve iniciar-
+
+se na fase:
+
+(a) de projeto.
+
+(b) de codificação.
+
+(c) inicial de desenvolvimento.
+
+(d) de análise de resultados.
+)
+
+(e) de validação.
+
+Dentre as definições a seguir, conceitos de computação evolutiva da Inteligência Arti-
+
+ficial, qual delas é incorreta?
+
+(a) A computação evolutiva deve ser entendida como um conjunto de técnicas e pro-
+cedimentos genéricos e adaptáveis, a serem aplicados na solução de problemas
+complexos, para os quais outras técnicas conhecidas são ineficazes ou nem sequer
+são aplicáveis.
+
+(b) Os sistemas baseados em computação evolutiva mantêm uma população de solu-
+ções potenciais, aplicam processos de seleção baseados na adaptação de um in-
+divíduo e também empregam outros operadores “genéticos.”
+
+(c) A roleta é um método de seleção no qual se atribui a cada indivíduo de uma po-
+pulação uma probabilidade de passar para a próxima geração proporcional ao seu
+
+fitness. medido em relacão à somatória do fitness de todos os indivíduos da popu-53.
+
+54.
+
+56.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+lação. Assim, algoritmos genéticos são métodos de busca puramente aleatórios.
+(d) Os algoritmos genéticos empregam uma terminologia originada da teoria da evo-
+lução natural e da genética. Um indivíduo da população é representado por um
+único cromossomo, o qual contém a codificação (genótipo) de uma possível solução
+do problema (fenótipo).
+(e) O processo de evolução executado por um algoritmo genético corresponde a um
+
+procedimento de busca em um espaço de soluções potenciais para o problema.
+
+Considere as cláusulas:
+
+L(x,y, 9(4,y), D)e L(y,C, g(x,u), 2) onde x,y, z,u são variáveis, A,C, D são constan-
+tes, q é função e L é predicado.
+
+A aplicação das substituições unificadoras mais gerais para a unificação das cláusulas
+
+resulta em:
+
+(a) L(C,C, 9(A,C), D)
+(b) L(x,u a u), D)
+(c) L(x, 6, 9(A, C), ,
+(d) Lu, ¢, a u),D
+
+AAA AD)
+
+Considere h(x) como uma função heurística que define a distância de x até a meta;
+considere ainda A” (x) como a distância real de x até a meta. h(x) é dita admissível se
+
+e somente se:
+
+(a) 3n h(m) <hr(m)
+(b) Vn h(n) < h(n).
+(c) Vn h(n) > h(n).
+(d) dn h(n) > h(n).
+(e) dn h(n) < h(n).
+
+. Inspeção de Usabilidade é o nome genérico para um conjunto de métodos baseados em
+
+se ter avaliadores inspecionando ou examinando aspectos relacionados à usabilidade de
+uma interface de usuário. Qual das alternativas a seguir não é um desses métodos:
+(a) Avaliação Heurística.
+
+b) Walktrough Pluralísticos.
+
+d
+
+)
+)
+(c) Walktrough Cognitivo.
+(d) Testes de Usabilidade.
+)
+
+(e) Revisões de Guidelines.
+
+Modelos gráficos, desenvolvidos para uso humano em displays convencionais devem ser
+representados em uma superfície bi-dimensional. As principais pistas perceptuais de
+profundidade que podem ser usadas para representar objetos tridimensionais em uma
+tela bidimensional são:
+
+(1) tamanho e textura;
+
+(II) contraste, claridade e brilho;
+(III) interposição, sombra e paralaxe do movimento.
+
+Considerando-se as três afirmações (1), (II) e (II) acima, identifique a única alternativa
+válida:
+
+(a) Somente as afirmações (1) e (II) estão corretas.
+(b)
+
+(c)
+(d)
+
+(e) Somente a não (III) está correta.
+
+(
+
+Somente as afirmações (II) e (III) estão corretas.
+
+Somente as in (1) e (III) estão corretas.
+e
+
+As afirmações (T), (II) e (III) estão corretas.
+
+. O desenvolvimento de protótipos de sistemas e suas interfaces de usuário possibilitam
+
+aos designers e desenvolvedores experimentarem idéias de design e receberem feed-
+
+back do usuário em diferentes etapas do design e desenvolvimento. Vários tipos de
+
+prototipação são utilizados:
+
+(1) Na prototipação vertical, a interface de usuário é mostrada ao usuário em uma
+
+série de representações pictóricas da interface chamadas storyboards;
+
+(IN) Na prototipação dirigida (Chauffeured Prototyping), o usuário observa enquanto
+uma outra pessoa, usualmente um membro da equipe de desenvolvimento, interage
+com o sistema;
+
+(III) Na prototipação Mágico de Oz, o usuário interage com a interface do sistema,
+mas em lugar de respostas do sistema, estas são enviadas por um desenvolvedor
+sentado em outra máquina.
+
+Considerando-se as três afirmações acima, identifique a única alternativa válida:
+(a) Somente as afirmações (1) e (II) estão corretas.
+(b) Somente as afirmações (II) e (III) estão corretas.
+(c) Somente as in (1) e (III) estão corretas.
+(d) e
+
+)
+
+(e) Somente a não (III) está correta.
+
+As afirmações (T), (II) e (III) estão corretas.
+
+Considere o esquema abaixo para download de um fluxo de áudio na Internet. Considere
+também que o Media Server envia o fluxo de áudio a uma taxa maior do que a taxa,
+do Media Player.
+
+Máquina Cliente Maquina Servidora
+
+Buffer
+; 7 Media
+|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Marcador Marcador
+de Agua Baixo de Agua Alto
+(MAB) (MAA)
+
+Na abordagem de servidor push, o Media Player envia uma mensagem para o Media
+Server quando o buffer atinge o MAA para o Media Server parar temporariamente de
+transmitir o fluxo, e outra mensagem quando o buffer esvazia até o MAB para o Media
+
+Server começar a enviar o fluxo novamente.
+
+Supondo que o Media Server está a uma distância de 100 ms do Media Player, que o
+Media Server transmite a 1,6 Mbps e que o Media Player tem um buffer de 1 MB, que
+
+condições as posições de MAA e MAB devem satisfazer?
+
+(a) MAA > 40 KB e MAB < 980 KB.
+(b) MAA > 20 KB e MAB < 960 KB.
+(c) MAA > 40 KB e MAB < 960 KB.
+(d) MAA > 20 KB e MAB < 980 KB.
+(e) MAA > 20 KB e MAB < 1 MB.
+
+O processo de análise de imagens é uma sequência de etapas que são iniciadas a partir
+
+da definição do problema. A sequência correta destas etapas é:
+
+(a) pré-processamento, aquisição, segmentação, representação, reconhecimento.
+(b) aquisição, pré-processamento, segmentação, representação, reconhecimento.
+
+d
+
+(c) aquisição, pré-processamento, representação, segmentação, reconhecimento.
+(d) aquisição, representação, pré-processamento, segmentação, reconhecimento.
+
+(e) pré-processamento, aquisição, representação, segmentação, reconhecimento.
+
+O termo imagem se refere a uma função bidimensional de intensidade de luz, denotada
+por f(x,y), onde o valor ou amplitude de f nas coordenadas espaciais (x,y) repre-
+senta a intensidade (brilho) da imagem neste ponto. Para que uma imagem possa
+ser processada num computador, a função f(x,y) deve ser discretizada tanto espacial-
+mente quanto em amplitude. Estes dois processos recebem as seguintes denominações,
+
+respectivamente:
+
+translação e escala.
+resolução e escala.
+
+)
+)
+
+(c) resolução e ampliação.
+
+(d) amostragem e quantização.
+)
+
+resolução e quantização.
+
+Qual a capacidade máxima segundo o Teorema de Nyquist de um canal de 2 MHz sem
+
+ruído, se sinais de 8 (oito) níveis são transmitidos?
+
+(a) 4 Mbps
+(b) 6 Mbps
+(c) 8 Mbps
+(d) 12 Mbps
+(e) 16 Mbps
+
+A aplicação A deseja enviar a mensagem m para a aplicação B com as propriedades
+de confidencialidade e autenticação de seu conteúdo, usando chaves assimétricas. A
+possui a chave pública PUBa e a chave privada PRIa, e B possui a chave pública
+PUBg e a chave privada PRIg. Para isso:
+
+(
+(II
+(IH
+(IV
+
+A criptografa m usando PUBg e depois PRIa.
+A criptografa m usando PUBg e depois PUBA.
+A criptografa m usando PRIa e depois PUBg.
+
+DDS
+
+A criptografa m usando PUB, e depois PUBg.
+Estao corretas:
+(a) Somente (I) e (II).
+(b) Somente (II) e (IV).
+(c) Somente (1) e (IH).
+
+(d) Somente (II) e (IV).
+
+(e) Todas as alternativas.
+Os protocolos de transporte atribuem a cada serviço um identificador único, o qual
+é empregado para encaminhar uma requisição de um aplicativo cliente ao processo
+servidor correto. Nos protocolos de transporte TCP e UDP, como esse identificador se
+denomina?
+(a) Endereço IP.
+(b) Porta.
+(c) Conexão.
+(c
+
+(e) Protocolo de aplicação.
+
+pu
+
+Identificador do processo (PID).
+
+O DNS (Domain Name System) é um serviço de diretórios na Internet que:
+
+(a) Traduz o nome de um hospedeiro (host) para seu endereço IP.
+
+I
+
+Localiza a instituição à qual um dado host pertence.
+(c) Retorna a porta da conexão TCP do host.
+(c
+
+(e) Traduz o endereço IP de um hospedeiro para um nome de domínio na Internet.
+
+pu
+
+Retorna a porta da conexão UDP do host.
+
+ 
+
+65. Um dos mecanismos de congestionamento na rede é o que utiliza temporizadores de
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+transmissão e duas variáveis chamadas de: Janela de Congestionamento e Patamar. A
+Janela de Congestionamento impõe um limite à quantidade de tráfego que um host pode
+enviar dentro de uma conexão. O Patamar é uma variável que regula o crescimento da
+Janela de Congestionamento durante as transmissões daquela conexão.
+
+Assinale a alternativa correta:
+
+ 
+
+(a) A quantidade de mensagens não confirmadas na transmissão, num dado instante,
+deve ser superior ao mínimo entre a Janela de Congestionamento e a Janela de
+Recepção desta conexão.
+
+(b) A Janela de Congestionamento dobra de tamanho (cresce exponencialmente)
+quando a confirmação das mensagens enviadas ocorre antes dos temporizadores
+de retransmissão se esgotarem (time-out), até o limite do Patamar.
+
+(c) Após exceder o valor de Patamar ainda sem esgotar os temporizadores, a janela
+decresce linearmente.
+
+(d) Quando excede o valor de Patamar e esgotam os temporizadores, a janela decresce
+exponencialmente.
+
+(e) Todas as alternativas estão corretas.
+
+Algoritmos de roteamento são o meio que um roteador utiliza para encaminhar men-
+sagens na camada de rede.
+
+Assinale a alternativa incorreta.
+
+(a) Nos algoritmos de roteamento estáticos as rotas são determinadas via tabelas
+definidas a priori e fixadas para o roteador, em geral manualmente.
+
+(b) No roteamento de Estado de Enlace (Link State), os valores dos enlaces são cal-
+culados pelo projetista da rede e os roteadores atualizam suas tabelas por estes
+valores.
+
+(c) No roteamento por Vetor de Distância (Distance Vector), as tabelas de roteamento
+definidas pelos roteadores vizinhos são repassadas periodicamente a cada roteador
+para obtenção de sua própria tabela.
+
+(d) Algoritmos de roteamento buscam estabelecer o caminho de menor custo entre
+dois hosts através do cálculo dos custos acumulados mínimos entre os enlaces
+disponíveis, dada a topologia da rede.
+
+(e) O OSPF é um exemplo de protocolo de roteamento baseado em Estado de Enlace e
+o BGP é um exemplo de protocolo de roteamento baseado em Vetor de Distâncias.
+
+Sejam as afirmações:
+
+(D) O HTTP eo FTP são protocolos da camada de aplicação e utilizam o protocolo
+de transporte TCP.
+
+(II) Ambos (HTTP e FTP) utilizam duas conexões TCP, uma para controle da trans-
+ferência e outra para envio dos dados transferidos (controle fora da banda).
+
+(IN) O HTTP pode usar conexões não persistentes e persistentes. O HTTP/1.0 usa
+
+conexões não persistentes. O modo defaultdo HTTP/1.1 usa conexões persistentes.
+Dadas estas três afirmações, indique qual a alternativa correta:
+
+(a) (1), (II) e (II) são verdadeiras.
+
+(b) Somente (1) e (II) são verdadeiras.
+
+(c) Somente (1) é verdadeira.
+
+(d) Somente (T) e (III) são verdadeiras.
+
+(e) (D), (IN) e (III) são falsas.
+
+Segundo o W3C (World Wide Web Consortium), um Serviço Web é um sistema de
+
+software projetado para permitir a interação entre máquinas numa rede. Selecione a,
+
+afirmação incorreta sobre Serviços Web:
+
+(a) A interface do Serviço Web é descrita em WSDL.
+
+(b) A representação dos dados é feita em XML.
+
+(c) O transporte das mensagens é feito tipicamente pelo HTTP.
+
+(d) Pode-se compor Serviços Web através de orquestração de serviços.
+
+(e) Cliente e Servidor devem ser escritos na mesma linguagem de programação.
+
+Considere o diagrama espaço-tempo da Figura 2; ele representa uma computação dis-
+tribuída onde os eventos de cada processo são rotulados por relógios lógicos que aten-
+dem à definição de relógio lógico realizada por Leslie Lamport. Cada processo imple-
+menta o seu relógio lógico e usa um incremento diferente do usado pelos demais; os
+incrementos utilizados por Py, Pe P, podem ser determinados a partir dos rótulos
+dos eventos rotulados que aparecem na Figura 2. Qual das alternativas apresenta os
+tempos lógicos para os eventos não rotulados de cada processo?
+
+0 10 20 30 40 50 60 70 80 90 100
+
+ 
+
+ 
+
+ 
+
+Po | | | | | | | | | | |
+| | | | | | | | | |
+0 7
+
+P | | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
+
+Pr |
+0 5 10 15 20 25 30 35
+
+Figura 2: Diagrama espaço-tempo.
+
+P,(14, 21, 28, 35, 42, 49, 56, 63, 70) P,(40, 45, 50)
+
+P,(14, 21, 28, 35, 42, 67, 74,81, 88) P2(40, 79, 84)
+
+(
+
+(
+(c) Pi(8, 15, 22, 29, 36, 61, 68, 75, 88) P2(40, 69, 74)
+P,(8, 15, 22, 29, 36, 43, 50, 57, 64) P,(40, 45, 50)
+(
+
+(e) P,(8, 15, 22, 29, 36, 49, 56, 63, 70) P,(40, 45, 50)
+
+A abordagem geral para tolerância a falhas é o uso de redundância. Considere as
+afirmações a seguir:
+
+(1) Um exemplo de redundância de informação é o uso de bits extras para permitir
+a recuperação de bits corrompidos.
+
+(II) Redundância de tempo é útil principalmente quando as falhas são transientes ou
+intermitentes.
+
+(IH) Um exemplo de redundância física é o uso de processadores extras.
+(IV) O uso de processadores extras pode ser organizado com replicação ativa ou backup
+primário.
+
+Estão corretas:
+(a) Somente as afirmações (1), (II) ay
+(b) Somente as afirmações (T), (II) wn
+( (I), (IH) e no
+
+(d) Somente as afirmações (LI), (II) av)
+
+)
+)
+c) Somente as afirmações
+)
+(e) Todas as afirmações.

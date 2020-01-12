@@ -1,0 +1,2121 @@
+Tecnologia da Computação
+
+Q
+
+uestão 1
+
+Considere o projeto lógico do banco de dados representado pelo modelo E-R abaixo.
+
+Di
+
+ 
+
+ 
+
+   
+ 
+
+ARTISTAS PARTICIPANTES DISCOS
+
+ar’
+
+OO
+
+N título O cod-disco
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O O
+O O
+
+cod-art nome gênero
+
+    
+       
+
+ 
+
+data
+
+GRAVADORA PRODUÇÃO
+
+ 
+
+ 
+
+O
+l estúdio
+
+cod-grav  nome-grav
+
+ 
+
+ 
+
+ga de que tabelas e campos ele resulta (obs: campos chave estão sublinhados):
+
+A) ARTISTAS (cod-art, nome, gênero)
+
+ 
+
+PARTICIPANTES (cod-art, cod-disco)
+DISCOS (cod-disco, título, data)
+PRODUÇÃO (cod-grav, cod-disco, estúdio)
+GRAVADORA (cod-grav, nome-grav)
+
+ 
+
+B) ARTISTAS (cod-art, nome, gênero)
+
+ 
+
+PARTICIPANTES (cod-art, cod-disco)
+DISCOS (cod-disco, título, data, cod-grav, estúdio)
+GRAVADORA (cod-grav, nome-grav)
+
+ 
+
+C) ARTISTAS (cod-art, nome, gênero)
+
+ 
+
+PARTICIPANTES (cod-art, cod-disco)
+DISCOS (cod-disco, título, data, cod-grav, nome-grav, estúdio)
+
+ 
+
+D) ARTISTAS (cod-art, nome, gênero)
+
+DISCOS (cod-disco, título, data, cod-art)
+PRODUÇÃO (cod-grav, cod-disco, estúdio)
+GRAVADORA (cod-grav, nome-grav)
+
+E) ARTISTAS (cod-art, nome, gênero)
+
+DISCOS (cod-disco, título, data, cod-grav, estúdio, cod-art)
+GRAVADORA (cod-grav, nome-grav)
+
+Tecnologia da Computação
+
+Questão 1
+
+Considere o projeto lógico do banco de dados representado pelo modelo E-R abaixo.
+
+Di
+
+A)
+
+B)
+
+E)
+
+ 
+
+ 
+
+   
+ 
+
+ARTISTAS PARTICIPANTES DISCOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O O
+O O
+
+cod-art nome gênero
+
+N título O cod-disco
+
+    
+       
+
+ 
+
+data
+
+GRAVADORA PRODUÇÃO
+
+ 
+
+ 
+
+O
+l estúdio
+
+cod-grav  nome-grav
+
+ 
+
+ 
+
+ga de que tabelas e campos ele resulta (obs: campos chave estão sublinhados):
+
+ 
+
+ARTISTAS (cod-art, nome, gênero)
+PARTICIPANTES (cod-art, cod-disco)
+DISCOS (cod-disco, título, data)
+PRODUÇÃO (cod-grav, cod-disco, estúdio)
+GRAVADORA (cod-grav, nome-grav)
+
+ 
+
+ 
+
+ARTISTAS (cod-art, nome, gênero)
+PARTICIPANTES (cod-art, cod-disco)
+
+DISCOS (cod-disco, título, data, cod-grav, estúdio)
+GRAVADORA (cod-grav, nome-grav)
+
+ 
+
+ARTISTAS (cod-art, nome, gênero)
+PARTICIPANTES (cod-art, cod-disco)
+DISCOS (cod-disco, título, data, cod-grav, nome-grav, estúdio)
+
+ 
+
+ 
+
+ARTISTAS (cod-art, nome, gênero)
+DISCOS (cod-disco, título, data, cod-art)
+PRODUÇÃO (cod-grav, cod-disco, estúdio)
+GRAVADORA (cod-grav, nome-grav)
+
+ARTISTAS (cod-art, nome, gênero)
+DISCOS (cod-disco, título, data, cod-grav, estúdio, cod-art)
+GRAVADORA (cod-grav, nome-grav)
+
+ 
+
+Questão 2
+
+Considere que as transações T1 e T2 abaixo possam ocorrer simultaneamente.
+
+ 
+
+ 
+
+Tl T2
+Leitura(A); Leitura(B);
+A=A+100; Leitura(A);
+Escrita(A); Print (A+B);
+Leitura(B);
+
+B=B- 100;
+Escrita(B);
+
+ 
+
+ 
+
+ 
+
+ 
+
+Analise as seguintes situações.
+
+A operação Leitura(A) de T2 é executada após a operação Escrita(A) e antes da
+operação Leitura(B) de T1. Entretanto, a operação Escrita(B) de T1 causa uma
+violação de integridade, e a transação T1 é abortada, sendo suas operações desfeitas.
+
+Após as operações da transação T1 terem sido executadas, é enviada uma
+mensagem ao usuário informando que a transação foi completada com êxito.
+Entretanto, antes que os buffers relativos a Ti sejam descarregados para o meio
+físico, ocorre uma falha, e os dados não são efetivamente gravados.
+
+As propriedades das transações que foram violadas nessas duas situações são,
+respectivamente,
+
+A)
+B)
+C)
+D)
+E)
+
+Atomicidade e Consistência.
+Durabilidade e Atomicidade.
+Atomicidade e Durabilidade.
+Durabilidade e Isolamento.
+Isolamento e Durabilidade.
+
+Questão 3
+
+Considere as imagens /;, dada por /,(i,j)=9((i+)mod 2),
+
+e L,dada por 1(i,/)=9((i+j)mod 3),
+
+representadas nas tabelas abaixo para dimensões 5 x 5:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 9 0 9 0 0 9 1/18/00 9
+
+9 0 9 0 9 9 1/18] 0 9 | 18
+
+0 9 0 9 0 18 | 0 9 | 18 | 0
+
+9 0 9 0 9 0 9 | 18 | 0 9
+
+0 9 0 9 0 9 | 18 | 0 9 | 18
+(1) (bh)
+
+Dada a janela V(ij) de dimensões 3x3 centrada no pixel (i,j) de uma imagem 1, considere
+
+os
+
+filtros que atribuem a (ij) o valor dado pela média e pela mediana dos valores de / em
+
+Vi).
+
+Desconsiderando os pixels nas bordas das imagens, pode-se afirmar que,
+
+A) aplicando-se o filtro da média a J; , toda a imagem assume um mesmo valor.
+
+B) aplicando-se o filtro da mediana a 1, toda a imagem assume o mesmo valor.
+
+C) aplicando-se os filtros da média e da mediana à imagem 11, obtém-se o mesmo
+resultado.
+
+D) aplicando-se os filtros da média e da mediana à imagem 172, não se obtém o mesmo
+resultado.
+
+E) nenhuma das alternativas anteriores é correta.
+
+4
+Questão 4
+
+Considere o filtro F definido por:
+
+FUG, jf) =
+
+As
+
+(EG + hye DTG JA D+ Ii, DIA JAD FIG JAD FTA Dl
+3
+
+figuras abaixo representam imagens binárias de dimensões n x n, com n grande. O
+
+pixel (0,0) é o do canto superior esquerdo.
+
+As
+
+n-In-1
+sinale em qual figura > ¥ {F(1)(i,j)} € maior.
+i=0 j=0
+
+: =
+
+/
+
+É N
+
+É Il
+
+a
+
+5
+
+Questão 5
+
+Analise as seguintes afirmativas.
+
+Iv.
+
+Extreme Programming, RUP e Prototipação são exemplos de métodos ágeis.
+
+Na UML2, diagramas de contextos são usados para representar o sistema e sua
+interação com atores e ambiente externo.
+
+Os padrões de projeto de software são classificados em padrões de criação,
+estruturais e comportamentais.
+
+A falha para cumprir um requisito funcional pode degradar o sistema e a falha em
+cumprir um requisito não-funcional pode tornar todo um sistema inútil.
+
+A partir dessa análise, pode-se concluir que estão INCORRETAS
+
+A)
+B)
+C)
+D)
+E)
+
+todas as afirmativas.
+
+apenas as afirmativas | e II.
+apenas as afirmativas |, Il e III.
+apenas as afirmativas |, Ille IV.
+
+apenas as afirmativas Il e III.
+
+Questão 6
+
+An
+
+alise as seguintes afirmativas.
+
+Existem vários modelos de processo de software ou paradigmas de engenharia de
+software. No paradigma conhecido como ciclo de vida clássico, a especificação pode
+ser desenvolvida gradativamente à medida que os usuários conseguem compreender
+melhor suas necessidades.
+
+O gerente de projeto é responsável pelas atividades de planejamento, gerenciamento
+de riscos e pela estimativa de custo e de esforço (homem-hora) para a realização de
+um projeto.
+
+. O teste estrutural requer o conhecimento do algoritmo e da implementação do
+
+programa na definição dos casos de teste.
+
+. Após a entrega e implantação do software ao cliente, há uma etapa de manutenção,
+
+que tem por objetivo unicamente corrigir erros e defeitos encontrados no software.
+
+A partir dessa análise, pode-se concluir que estão CORRETAS
+
+A)
+B)
+C)
+D)
+E)
+
+todas as afirmativas.
+
+apenas as afirmativas | e II.
+apenas as afirmativas |, Ile III.
+apenas as afirmativas Il e III.
+
+apenas as afirmativas II, Ille IV.
+
+Questão 7
+
+Analise as seguintes afirmativas.
+
+Um servidor DNS suporta dois tipos de consulta: iterativa e recursiva. Na consulta
+iterativa que é a mais utilizada, caso um servidor DNS não tenha a informação pedida
+pela máquina solicitante, ele irá buscar a mesma consultando outros servidores.
+
+Como estratégia para aumentar a confiabilidade na resposta dos servidores DNS
+quando do emprego de caches, devem-se utilizar valores grandes de TLL (Time-To-
+Live), mantendo elevado o tempo de validade do registro na cache.
+
+Um servidor DNS pode atender dois tipos de consultas: tradução direta, na qual, a
+partir de um endereço IP, o mesmo retorna o nome de rede do equipamento; e
+tradução inversa, na qual, a partir de um nome de rede, retorna o IP associado ao
+mesmo.
+
+A análise permite concluir que
+
+A)
+B)
+C)
+D)
+E)
+
+nenhuma afirmativa está correta.
+somente a afirmativa | está correta
+somente a afirmativa Il está correta.
+somente a afirmativa Ill está correta.
+
+todas as afirmativas estão corretas.
+
+Questão 8
+
+O
+
+nível de transporte oferece serviços para comunicação entre computadores,
+
+independentemente das tecnologias utilizadas nos outros níveis.
+
+Analise as seguintes afirmativas relativas à confirmação do recebimento de pacotes no
+nível de transporte.
+
+A troca de dados entre um computador transmissor e um receptor não precisa
+obrigatoriamente de uma confirmação para cada pacote enviado. Existem três
+estratégias que podem ser utilizadas: confirmação seletiva, confirmação cumulativa e
+confirmação em bloco.
+
+Na confirmação seletiva, cada pacote recebido por um computador não gera uma
+informação de confirmação individualizada para o computador que enviou o pacote.
+
+Na confirmação do recebimento de pacotes, o consumo da banda de rede pode ser
+otimizado pelo uso de um mecanismo denominado piggybacking. No piggybacking a
+informação de confirmação "pega carona" em mensagem de dados que retorna ao
+computador emissor como consequência do fluxo normal de troca de dados.
+
+A análise permite concluir que
+
+A)
+B)
+C)
+D)
+E)
+
+Qu
+
+nenhuma das afirmativas está correta.
+apenas as afirmativas | e Il estão corretas.
+apenas as afirmativas | e Ill estão corretas.
+apenas as afirmativas Il e Ill estão corretas.
+
+todas as afirmativas estão corretas.
+
+estão 9
+
+Analise as seguintes afirmativas sobre redes neurais sem ciclos dirigidos, sendo n o
+número de neurônios e m o número de conexões.
+
+Aa
+
+A)
+B)
+C)
+D)
+E)
+
+O processo de treinamento da rede pode ocorrer tanto em um espaço n -dimensional
+quanto em um espaço m -dimensional. A escolha é uma questão de eficiência,
+dependendo de como se relacionem n e m.
+
+Uma vez treinada, o uso da rede consiste em aplicar uma entrada e esperar até que
+ocorra convergência para que seja obtida a saída.
+
+. O processo de treinamento consiste em obter um vetor em um espaço pelo menos
+
+m -dimensional. Esse vetor é obtido por meio de um processo de otimização que
+busca minimizar o erro sobre as instâncias de treino.
+
+. O processo de treinamento consiste em obter um vetor em um espaço pelo menos
+
+m -dimensional. Esse vetor é obtido por meio de um processo de otimização que
+busca minimizar o erro de generalização.
+
+nálise permite concluir que
+
+apenas as afirmativas | e Il estão corretas.
+apenas as afirmativas Il e Ill estão corretas.
+apenas as afirmativas Il e IV estão corretas.
+apenas a afirmativa III está correta.
+
+todas as afirmativas estão corretas.
+
+Questão 10
+
+Considere o modelo de agentes cognitivos com arquitetura BDI (Beliefs-Desires-Intentios)
+e analise as seguintes afirmativas.
+
+Iv.
+
+V.
+Aa
+
+A)
+B)
+C)
+D)
+E)
+
+Agentes BDI são agentes incapazes de executar planos para a realização de tarefas.
+
+Agentes BDI têm a capacidade de ativar um ou mais objetivos, como resultado de
+percepções do ambiente e/ou de recepção de mensagens.
+
+Intenções em agentes BDI são disposições afetivas motivadas pelo fracasso na
+realização de tarefas.
+
+Crenças em agentes BDI são informações que o agente mantém a respeito de si
+próprio e do ambiente em que ele se encontra.
+
+Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.
+nálise permite concluir que
+
+todas as afirmativas estão corretas.
+
+somente as afirmativas II, III, IV e V estão corretas.
+somente a afirmativa Il está correta.
+
+somente as afirmativas Ill e V estão corretas.
+
+somente as afirmativas II, IV e V estão corretas.
+
+Questão 11
+
+Analise as seguintes afirmativas sobre o BACK-END de um compilador.
+
+Apesar da geração de código intermediário tornar a implementação do compilador
+mais portável, já que o código intermediário pode ser traduzido para várias
+arquiteturas diferentes, o código intermediário é geralmente mais difícil de ser
+otimizado já que ainda é muito longe do código alvo final.
+
+O problema de gerar código ótimo é indecidível. Geralmente nos contentamos com
+técnicas heurísticas que, na maior parte do tempo, geram "bom" código.
+
+São exemplos de código intermediário as notações pré-fixa e pós-fixa que facilitam a
+geração de código para uma máquina de pilha e o código de três endereços em que
+cada instrução faz referência a no máximo três variáveis (endereços).
+
+A análise permite concluir que
+
+A)
+B)
+C)
+D)
+E)
+
+apenas a afirmativa | está correta.
+
+apenas a afirmativa Il está correta.
+
+apenas as afirmativas |, Ile Ill estão corretas.
+apenas as afirmativas | e Il estão corretas.
+
+apenas as afirmativas Il e Ill estão corretas.
+
+10
+
+Questão 12
+
+Considere as seguintes afirmativas sobre o FRONT-END de um compilador.
+
+As mensagens de erro de um compilador são geralmente geradas no FRONT-END.
+Mensagens de erro de compilação não são geradas no BACK-END.
+
+A análise léxica é geralmente implementada como uma subrotina do parser. A análise
+léxica reconhece símbolos léxicos (tokens) e encontra erros como esquecer o ponto-
+e-vírgula depois de um comando em Java.
+
+Para evitar o problema do retrocesso no parser descendente recursivo, podemos usar
+um parser recursivo preditivo que usa os conjuntos FIRST e FOLLOW para decidir
+qual produção aplicar à entrada.
+
+A análise permite concluir que
+
+A)
+B)
+C)
+D)
+E)
+
+apenas a afirmativa | está correta.
+
+apenas a afirmativa Il está correta.
+apenas a afirmativa III está correta.
+apenas as afirmativas | e Il estão corretas.
+
+apenas as afirmativas | e Ill estão corretas.
+
+Questão 13
+
+Observe a seguinte gramática:
+
+DECL > IF | a
+
+IF > if ( EXP ) DECL ELSE
+ELSE > else DECL | E
+
+EXP > 1 | 0
+
+Sendo $ o símbolo que representa final de arquivo, é CORRETO afirmar que
+
+A)
+B)
+C)
+D)
+E)
+
+FIRST(DECL) = {if, a} e FOLLOW(DECL) = {$}
+FOLLOW(DECL) = FOLLOW(IF) = FOLLOW(ELSE) = ($, else)
+FIRST(DECL) = FIRST (IF) = {if}
+
+FIRST(ELSE) = {else} e FOLLOW(ELSE) = {$}
+
+FIRST(EXP) = {0,1} e FOLLOW(ExP) = { ), $}
+
+11
+
+Questão 14
+
+Sobre a comunicação entre processos distribuídos, é CORRETO afirmar
+
+A)
+
+que, no modo síncrono de envio de mensagem, o processo que recebe a mensagem
+terá sua execução desviada por uma interrupção de sistema operacional para tratar
+uma mensagem recebida.
+
+B) que um processo tem no maximo uma porta (port) para receber as mensagens dos
+seus interlocutores.
+
+C) que multiportas são estruturas do tipo portas multicast que permitem a comunicação
+Nx M entre processos.
+
+D) que, nos sockets do tipo datagrama, o endereço do socket do processo
+correspondente acompanha cada envio de mensagem como um parâmetro da
+primitiva sendto().
+
+E) que, nos sockets do tipo datagrama, a primitiva sNew() é usada para aceitar a
+conexão solicitada por um processo que solicita comunicação.
+
+Questão 15
+
+Dada a seguinte função escrita na linguagem de programação C:
+
+void (int xi, int yi, int xf, int yf, int cor)
+t
+
+int x, y;
+
+float a;
+
+a = (yf — yi) / (xf - xi);
+for (x = xi; X <= xf; x++)
+
+t
+y=(yira*(x-xi));
+putpixel(x, y, cor);
+
+Considere que a função putpixel plota um pixel de cada vez na tela em modo gráfico, na
+posição (x, y) com a cor especificada. Essa função plota na tela do computador
+
+A)
+B)
+C)
+D)
+E)
+
+uma elipse.
+um retângulo.
+uma linha.
+um círculo.
+
+um triângulo.
+
+12
+
+Fundamentos da Computação
+
+Questão 16
+
+Sejam duas funções f(n) e g(n) que mapeiam números inteiros positivos em números reais
+
+posi
+
+tivos.
+
+Com respeito às notações assintóticas de complexidade, avalie as afirmativas abaixo.
+
+Iv.
+
+NA
+
+Diz-se que f(n) é O(g(n)) se existe uma constante real c > O e existe uma constante
+inteira no > 1 tal que f(n) < c x g(n) para todo inteiro n > no.
+
+Diz-se que f(n) é o(g(n)) se para toda constante real c > 0 existe uma constante inteira
+No = 1 tal que f(n) <c x g(n) para todo inteiro n > no.
+
+. Diz-se que f(n) é O(g(n)) se existe uma constante real c > O e existe uma constante
+
+inteira no > 1 tal que f(n) > c x g(n) para todo inteiro n > no.
+
+Diz-se que f(n) é o(g(n)) se para toda constante real c > O existe uma constante
+inteira n > 1 tal que f(n) > c x g(n) para todo inteiro n > no.
+
+Diz-se que f(n) é e(g(n)) se, e somente se, f(n) é O(g(n)) e f(n) 6 Q(g(n)).
+
+A análise permite concluir que
+
+A)
+B)
+C)
+D)
+E)
+
+todas as afirmativas são falsas.
+
+todas as afirmativas são verdadeiras.
+
+apenas as afirmativas | e IIl são verdadeiras.
+apenas as afirmativas Il e IV são verdadeiras.
+apenas a afirmativa V é falsa.13
+
+Questão 17
+
+Analise as seguintes afirmativas.
+
+|. Em um problema de decisão, o objetivo é decidir a resposta sim ou não a uma
+questão. Em um problema de localização, procura-se localizar uma certa estrutura
+que satisfaça um conjunto de propriedades dadas. Se as propriedades envolverem
+critérios de otimização, então o problema é dito de otimização.
+
+ll. A teoria da complexidade restringe-se a problemas de decisão, já que o estudo de
+problemas NP-completos é aplicado somente para esse tipo de problema.
+
+Ill. Os problemas NP-Completos são considerados como os problemas mais difíceis em
+NP. Se qualquer problema NP-Completo pode ser resolvido em tempo polinomial,
+então todos os problemas em NP podem ser resolvidos da mesma forma.
+
+A análise permite concluir que
+
+A) apenas a afirmativa | está correta.
+
+B) apenas a afirmativa Il está correta.
+
+C) apenas as afirmativas | e Il estão corretas.
+D) apenas as afirmativas | e Ill estão corretas.
+E) todas as afirmativas estão corretas.
+
+Questão 18
+
+Analise as afirmativas abaixo.
+
+Il. A programação dinâmica é um método ascendente que aborda um dado problema
+subdividindo-o em problemas mínimos, soluciona esses subproblemas, guarda as
+
+soluções parciais, combina os subproblemas e sub-resultados para obter e resolver
+os problemas maiores, até recompor e resolver o problema original.
+
+ll. A divisão e conquista é um método recursivo e, por isso, descendente que decompõe
+sucessivamente um problema em subproblemas independentes triviais, resolvendo-os
+e combinando as soluções em uma solução para o problema original.
+
+Ill. Um algoritmo guloso sempre faz escolhas que parecem ser as melhores no momento,
+ou seja, escolhas ótimas locais acreditando que estas escolhas o levem a uma
+solução ótima global. Por essa estratégia, nem sempre asseguram-se soluções
+ótimas, mas, para muitos problemas, as soluções são ótimas. Os problemas ideais
+para essa estratégia não devem ter a propriedade de subestrutura ótima.
+
+A análise permite concluir que
+
+A) todas as afirmativas são verdadeiras.
+
+B) todas as afirmativas são falsas.
+
+C) apenas as afirmativas | e Il são verdadeiras.
+D) apenas as afirmativas Il e Ill são verdadeiras.
+E) apenas a afirmativa III é verdadeira.
+
+14
+
+Questão 19
+Com respeito ao projeto de linguagens de programação, assinale a afirmativa CORRETA.
+A) A forma dos programas construídos com uma determinada linguagem, definida por
+
+regras formais que expressam restrições que definem como são os programas bem
+formados, é um problema de caráter sintático.
+
+B) O significado de programas bem construídos com uma determinada linguagem, a qual
+define o efeito da execução desses programas, é um problema de caráter semântico.
+
+C) Sistemas de tipos apresentam três propósitos principais em uma linguagem de
+programação: a segurança, a abstração e a modularidade.
+
+D) A segurança de uma linguagem de programação está diretamente relacionada com a
+capacidade de identificação estática e/ou dinâmica de programas mal formados que
+não podem ser identificados somente por meio de mecanismos de análise sintática,
+como gramáticas livres do contexto.
+
+E) Todas as alternativas anteriores estão corretas.
+
+Questão 20
+Analise as seguintes afirmativas.
+I. Ocultar dados dentro das classes e torná-los disponíveis apenas por meio de métodos
+
+é uma técnica muito usada em programas orientados a objetos e é chamada de
+sobrescrita de atributos.
+
+ll. Uma subclasse pode implementar novamente métodos que foram herdados de uma
+superclasse. Chamamos isso de sobrecarga de métodos.
+
+lll. Em Java nao existe Herança múltipla como em C++. A única maneira se se obter algo
+parecido é via interfaces.
+
+A análise permite concluir que
+
+A) apenas a afirmativa | está incorreta.
+
+B) apenas a afirmativa Il está incorreta.
+
+C) apenas a afirmativa Ill está incorreta.
+
+D) apenas as afirmativas | e Ill estão incorretas.
+
+E) apenas as afirmativas | e Il estão incorretas
+
+15
+
+Questão 21
+Analise as seguintes afirmativas.
+|. Encapsulamento permite que uma classe defina métodos com o mesmo nome de
+
+métodos presentes em sua superclasse desde que esses métodos tenham
+argumentos um pouco diferentes.
+
+ll. Em Java, uma instância de uma classe C que implementa uma interface | é membro
+tanto do tipo definido pela interface | quanto do tipo definido pela classe C.
+
+lll. Em Java, classes abstratas não precisam ser completamente abstratas, ao contrário
+das interfaces, classes abstratas podem ter métodos implementados que serão
+herdados por suas subclasses.
+
+A análise permite concluir que
+
+A) apenas as afirmativas Il e Ill estão corretas.
+B) apenas as afirmativas | e Il estão corretas.
+
+C) apenas as afirmativas | e Ill estão corretas.
+D) apenas a afirmativa Il está correta.
+
+E) apenas a afirmativa | está correta.
+
+16
+
+Questão 22
+
+Os fragmentos de programas abaixo, enumerados 1, 2 e 3, são implementações para o
+problema de ordenação usando o algoritmo quicksort.
+
+Programa 1:
+
+quicksort([], [])-
+
+quicksort([Head | Tail], Sorted) :-
+partition(Head, Tail, Left, Right), quicksort(Left, SortedL),
+
+quicksort(Right, SortedR),
+
+append(SortedL, [Head | SortedR], Sorted).
+
+partition(Pivot, [], [], [])-
+
+partition(Pivot, [Head | Tail], [Head | Left], Right) :-
+Head =< Pivot, partition(Pivot, Tail, Left, Right).
+
+partition(Pivot, [Head | Tail], Left, [Head | Right]) :-
+Head > Pivot, partition(Pivot, Tail, Left, Right).
+
+append([], List, List).
+
+append([Head | Listl], List2, [Head | List3]) :-
+append(Listl, List2, List3).
+
+Programa 2:
+
+quicksort [] = []
+
+quicksort (head:tail) = let pivot = head
+
+left = [x|x <- tail,x < pivot]
+
+right = [x|x <- tail,x >= pivot]
+
+in quicksort left ++ [pivot] ++ quicksort right
+
+Programa 3:
+
+void quickSort( int a[], int 1, int r) {
+int 5;
+if( l<r) {
+j = partition( a, l, r);
+quickSort( a, 1, j-1);
+quickSort( a, jtl, r);
+}
+}
+
+int partition( int a[], int 1, int r) {
+
+int pivot, i, j, t;
+
+pivot = a{l]; i= 1; j = r+1;
+
+while(i<xj) {
+do ++i; while( a[i] <= pivot && i <=r );
+do --j; while( a[j] > pivot );
+if( i<j) {
+
+t = afi]; afi] = afj]; ali] = t;
+
+}
+
+>
+
+t = a[1]; a[1] = a[jl]; alj] = t;
+
+return j;
+
+17
+
+Assinale a alternativa que enumera os paradigmas das linguagens com as quais os
+programas 1, 2 e 3 foram respectivamente implementados.
+
+A) Lógico, imperativo e funcional
+
+B) Imperativo, funcional e lógico
+
+C) Funcional, lógico e imperativo
+
+D) Lógico, funcional e imperativo
+
+E) Funcional, funcional e imperativo
+
+Questão 23
+Analise as seguintes afirmativas.
+|. A função map presente em linguagens funcionais como Haskell e OCaml é um bom
+
+exemplo de função de alta-ordem com tipo polimórfico.
+
+ll. Prolog é uma linguagem de programação baseada em lógica de predicados de
+primeira ordem.
+
+ll. Em Haskell todas as funções recebem apenas um argumento. Uma função que
+recebe dois inteiros e devolve um float como resposta na verdade é uma função que
+recebe apenas um inteiro como argumento e devolve como resposta uma função de
+inteiro para float.
+
+A análise permite concluir que
+
+A) apenas as afirmativas Il e Ill estão corretas.
+B) apenas as afirmativas | e Ill estão corretas.
+C) apenas as afirmativas | e Il estão corretas.
+
+D) apenas a afirmativa Il está correta.
+
+E) apenas as afirmativas |, Il e Ill estão corretas.
+
+Questão 24
+
+Denomina-se complemento de um grafo G(V,E) o grafo H que tem o conjunto de vértices
+igual ao de G e tal que, para todo par de vértices distintos v,w em V, temos que a aresta
+(v,w) é aresta de G se e somente se (v,w) não é aresta de H.
+
+A esse respeito, assinale a afirmativa CORRETA.
+
+A) Ge H são grafos isomorfos.
+
+B) Seo grafo G é conexo, então H é conexo.
+
+C) Seo grafo G não é conexo, então H é conexo.
+
+D) Seo grafo G não é conexo, então H não é conexo.
+
+E) Os grafos G e H têm o mesmo número de componentes conexas.
+18
+
+Questão 25
+
+Um grafo G(V,E) é uma árvore se G é conexo e acíclico.
+Assinale a definição que NÃO pode ser usada para definir árvores.
+
+A) G é conexo e o número de arestas é mínimo.
+B) G é conexo e o número de vértices excede o número de arestas por uma unidade.
+C) G é acíclico e o número de vértices excede o número de arestas por uma unidade.
+
+D) G é acíclico e, para todo par de vértices v, w, que não são adjacentes em G, a adição
+da aresta (v,w) produz um grafo contendo exatamente um ciclo.
+
+E) G é acíclico, e o número de arestas é mínimo.
+
+Questão 26
+
+Em um grafo G(V,E), o grau de um vértice é o número de vértices adjacentes a v.
+A esse respeito, assinale a afirmativa CORRETA.
+
+A) Num grafo, o número de vértices com grau ímpar é sempre par.
+B) Num grafo, o número de vértices com grau par é sempre ímpar.
+C) Num grafo, sempre existe algum vértice com grau par.
+
+D) Num grafo, sempre existe algum vértice com grau ímpar.
+
+E) Num grafo, o número de vértices com grau ímpar é sempre igual ao número de
+vértices com grau par.
+
+19
+
+Questão 27
+Considere os grafos |, Il, III, IV e V, mostrados abaixo:
+
+PENA
+
+São grafos isomorfos
+
+A) todos acima apresentados.
+B) apenas |e lll.
+
+C) apenas lle V.
+
+D) apenas llle IV.
+
+E) apenas |, Ile III.
+
+Questão 28
+Seja G=(V,E) um grafo tal que IVI=n e lEl=m.
+
+Analise as seguintes sentenças:
+
+|. Se G é acíclico com no máximo n-1 arestas, então G é uma árvore.
+
+Il. Se G é um ciclo, então G tem n árvores geradoras distintas.
+
+Ill. Se G é conexo com no máximo n—1 arestas, então G é uma árvore.
+
+Iv. Se G é conexo e tem um ciclo, então para toda árvore geradora T de G,
+E(G)-E(T) =D
+
+A análise permite concluir que
+
+A) apenas os itens | e Ill são verdadeiros.
+
+B) apenas os Itens Il e Ill são verdadeiros.
+C) apenas o item | é falso.
+
+D) todos os itens são verdadeiros.
+
+E) apenas os itens Il e IV são verdadeiros.
+
+20
+
+Questão 29
+Assinale a afirmativa INCORRETA.
+
+A) Existe uma máquina de Turing U que simula qualquer outra máquina de Turing M
+sobre qualquer entrada para M.
+
+B) A Tese de Church afirma que o conceito informal de procedimento efetivo é capturado
+pelo conceito formal de Máquina de Turing.
+
+C) Uma linguagem é recursivamente enumerável se, e somente se, for aceita por alguma
+Máquina de Turing.
+
+D) Existe uma máquina de Turing T que, dada qualquer máquina de Turing M e qualquer
+entrada w para M, T determina, em um número finito de passos, se M pára para a
+entrada w ou não.
+
+E) Toda linguagem recursiva é recursivamente enumerável, mas o inverso nem sempre
+é verdadeiro.
+
+Questão 30
+
+Analise as seguintes afirmativas.
+
+Il. Todo autômato finito não-determinístico pode ser simulado por um autômato finito
+determinístico.
+
+Il. Todo autômato finito determinístico pode ser simulado por um autômato finito não-
+determinístico.
+
+Il. Todo autômato finito não-determinístico pode ser simulado por um autômato de pilha
+determinístico.
+
+IV. Todo autômato de pilha determinístico pode ser simulado por um autômato finito não-
+determinístico.
+
+V. Todo autômato finito não-determinístico pode ser simulado por uma máquina de
+Turing determinística.
+
+A análise permite concluir que estão CORRETAS
+
+A) apenas as afirmativas |, II, Ille IV.
+B) apenas as afirmativas Il, Ill e V.
+C) apenas as afirmativas |, Il, Ile V.
+
+D) apenas as afirmativas Ile IV.
+E) apenas as afirmatias |, Ile IV.
+
+21
+
+Questão 31
+
+Um dos itens do problema denominado "Problema do Busy Beaver! consiste em
+determinar qual o tamanho da maior computação finita que pode ser realizada por
+máquinas de Turing com determinada quantidade k de estados, quando as máquinas
+começam com a fita em branco (fita vazia).
+
+Analise as seguintes afirmativas.
+
+Il. Todas as computações de qualquer máquina de Turing de dois estados (k =2) sao
+infinitas, quando a máquina começa com a fita vazia.
+
+Il. Todas as computações de qualquer máquina de Turing de dois estados (k =2) sao
+finitas, quando a máquina começa com a fita vazia.
+
+Il. Para qualquer número k>2, máquinas de Turing com k estados podem realizar
+computações de qualquer tamanho finito, quando a fita começa vazia, dependendo
+apenas do algoritmo que as máquinas estão computando.
+
+A análise permite concluir que
+
+A) nenhuma das afirmativas é verdadeira.
+B) todas as afirmativas são verdadeiras.
+C) somente | e Il são verdadeiras.
+
+D) somente III é verdadeira.
+
+E) somente Ile Ill são verdadeiras.
+
+22
+
+Questão 32
+
+Analise as seguintes afirmativas.
+
+|. Uma arquitetura multithreading executa simultaneamente o código de diversos fluxos
+de instruções (threads).
+
+ll. Em uma arquitetura VLIW, o controle da execução das várias instruções por ciclo de
+máquina é feito pelo compilador.
+
+lll. Uma arquitetura superescalar depende de uma boa taxa de acerto do mecanismo de
+predição de desvio para obter um bom desempenho.
+
+IV. Os processadores vetoriais são um tipo de arquitetura SIMD.
+V. Um processador dual-core é mais eficiente em termos de consumo de energia do que
+dois processadores single-core de mesma tecnologia.
+
+A partir da análise, pode-se concluir que
+
+A) apenas a afirmativa IV está correta.
+
+B) apenas as afirmativas Ill e IV estão corretas.
+C) apenas as afirmativas |, IV e V estão corretas.
+D) apenas as afirmativas |, Ill e V estão corretas.
+E) todas as afirmativas estão corretas.
+
+Questão 33
+O uso de memória caches é muito importante para o desempenho dos processadores
+atuais.
+
+Analise as afirmativas abaixo relativas ao uso de memórias caches.
+
+|. Em uma memoria cache com mapeamento direto um bloco de memória pode ser
+colocado em qualquer posição (entrada) dessa memória cache.
+
+ll. Na política de escrita write-back o bloco modificado é atualizado na memória principal
+apenas quando for substituído.
+
+Ill. O uso de associatividade nas memórias cache serve para reduzir o número de falhas
+por conflito.
+
+A análise permite concluir que
+
+A) as três afirmativas são falsas.
+
+B) as três afirmativas são verdadeiras.
+C) apenas a afirmativa | é verdadeira.
+
+D) apenas as afirmativas Il e Ill são verdadeiras.
+E) apenas a afirmativa III é verdadeira.
+
+23
+
+Questão 34
+
+O trecho de código em linguagem de montagem do MIPS64 a seguir faz a soma do
+conteúdo de dois vetores, armazenando o resultado em um terceiro vetor.
+
+LOOP: Id R1, A(R5) ;; R1 = MEM[A+R5]
+
+ld R2, B(R5) ;; R2 = MEM[B+r5]
+
+dadd R3, R1, R2 ;;R3=R1 +12
+
+sd R3, C(R5) ;; MEM[C+r5] = R3
+
+daddi R5, R5, -8 ;; R5 = R5 -8
+
+bnez R85, loop ;; IF R5 <> 0 THEn PC=LOOP
+nop
+
+Assinale a alternativa que indica quantas dependéncias diretas, antidependéncias e
+dependências de saída respectivamente, podem ser encontradas nesse trecho de código.
+A) 3,1,1
+
+B) 4,3,0
+
+C) 2,2,1
+
+D) 1,2,3
+
+E) Nenhuma das respostas anteriores.
+
+24
+
+Questão 35
+
+Uma tabela de histórico de desvios (PHT) é uma pequena memória colocada no estágio
+de busca de instruções, indexada pelos bits mais baixos do endereço da instrução que
+está sendo buscada. Cada entrada na PHT codifica a predição do resultado da próxima
+execução de qualquer instrução de desvio que indexe essa entrada na tabela, baseado no
+resultado de um contador saturante de 2 bits.
+
+Assumindo 00 como valor inicial dos contadores, ASSINALE a predição de cada desvio
+(A:, B: e C:) após a verificação das seguintes sequências de resultados para uma mesma
+instrução de desvio: (T = tomado, N = não tomado).
+
+A: N T T T NTTTNNTTNNTTN
+B: N T NNN NNNNNTNTTNON
+
+4
+
+c: T NTTTTNNNTTNNNTT iT
+
+A) Tomado, Nao Tomado, Tomado
+
+B) Tomado, Tomado, Tomado
+
+C) Não Tomado, Não Tomado, Não Tomado
+D) Não Tomado, Tomado, Não Tomado
+
+E) Não Tomado, Não Tomado, Tomado
+
+Questão 36
+
+Assuma que um programa tem um profile de execução onde 85% das instruções são
+simples (tais como AND, XOR, ADD e BRANCH) e os 15% restantes são instruções
+complexas (tais como MUL e DIV). Adicionalmente, considere que as instruções simples
+precisam de 2 ciclos de máquina e as complexas precisam de 12 ciclos em uma máquina
+CISC (cada ciclo = 10 ns). Em uma máquina RISC, as instruções simples serão
+executadas em 1 ciclo, enquanto que as instruções complexas deverão ser simuladas por
+software necessitando, em média, 20 ciclos por instrução. Devido a sua simplicidade, o
+tempo de ciclo em uma máquina RISC é de 8 ns. Considere também que o programa
+precisou de 100.000.000 instruções para ser completado.
+
+Qual o tempo gasto em segundos na execução desse programa, respectivamente, nas
+máquinas CISC e RISC?
+
+A) 1e0,8
+
+B) 3,5 e 3,08
+
+C) 10e 12,8
+
+D) 85e1,5
+
+E) 14€e 16,8
+
+25
+
+Questão 37
+Assinale a afirmativa INCORRETA.
+
+A) Seja A[l,n] um vetor não ordenado de inteiros com um número constante k de
+
+valores distintos. Então existe algoritmo de ordenação por contagem que ordena
+A em tempo linear.
+
+B) Seja A[1,n] um vetor não ordenado de inteiros com um número constante k de
+valores distintos, então o limite inferior para um algoritmo de ordenação por
+comparações para ordenar A é de O(n Ig n).
+
+C) Seja A[1,n] um vetor não ordenado de inteiros, cada inteiro com no máximo d dígitos,
+onde cada dígito assume um valor entre um número constante k de valores distintos.
+Então o problema de ordenar A tem limite inferior O(n).
+
+D) Seja A[l,n] um vetor não ordenado de inteiros, cada inteiro com no máximo d dígitos,
+onde cada dígito assume um valor entre O(n) valores distintos. Então o problema de
+ordenar A tem limite inferior O(n Ig n).
+
+E) Seja A[l,n] um vetor não ordenado de inteiros com um número constante k de
+valores distintos, então um um algoritmo de ordenação por comparações ótimo para
+ordenar A tem complexidade O(n lg n).26
+
+Questão 38
+
+Considere as seguintes sentenças:
+
+|. Se um vetor A[l,n], n>2, de inteiros é ordenado em ordem não decrescente, então
+encontrar o i -ésimo maior elemento, I<i<n, pode ser feito em tempo constante.
+
+Il. Se um vetor A[1,n], n>2, de inteiros é ordenado em ordem não decrescente, o limite
+inferior para o problema de encontrar o i-ésimo maior elemento, I<i<n, com um
+algoritmo de comparação, é O(n).
+
+Ill. Se um vetor A[1,n], n>2, de inteiros é ordenado em ordem não decrescente, o limite
+inferior para o problema de encontrar o i-ésimo maior elemento, I<i<n, com um
+algoritmo de comparação, é O(lg n).
+
+IV. Se um vetor A[l,n], n>2, de inteiros é ordenado em ordem crescente, então
+encontrar o (n —1)-ésimo maior elemento, pode ser feito em tempo constante.
+
+V. Se um vetor A[l,n], n>2, de inteiros é ordenado em ordem crescente, então
+encontrar o i -ésimo maior elemento, pode ser feito em tempo constante.
+
+A esse respeito, assinale a alternativa CORRETA.
+
+A) Apenas os itens Il e IV são falsos.
+
+B) Apenas os itens |, Ille V são verdadeiros.
+C) Apenas os itens III, IV e V são verdadeiros.
+D) Apenas os itens Ile Ill são falsos.
+
+E) Apenas os itens Il e V são verdadeiros.
+
+Questão 39
+Associações reflexivas são tipos especiais de associações que podem ocorrer em
+programação orientada a objetos.
+
+Analise as seguintes afirmativas relativas ao uso de associações reflexivas.
+
+Il. | Elas acontecem quando instâncias de uma mesma classe se relacionam.
+Il. Não permitem o uso de papéis (rótulos) para clarificar os relacionamentos.
+
+Ill. Permitem multiplicidade somente do tipo um-para-um (1:1).
+A análise permite concluir que
+
+A) as três afirmativas são falsas.
+B) as três afirmativas são verdadeiras.
+C) apenas a afirmativa | é verdadeira.
+D) as afirmativas | e Il são verdadeiras.
+E) apenas a afirmativa III é verdadeira.
+27
+
+Questão 40
+Na modelagem de classes usando UML (Unified Modeling Language) é sempre
+recomendável especificar a multiplicidade dos relacionamentos (associações).
+
+Seguindo-se a notação associação (classe1, classe2), assinale a alternativa que melhor
+descreve a multiplicidade da associação Casar(Marido, Esposa).
+
+A) 1:1
+
+B) 1:n
+
+C) nin
+
+D) 2:1
+
+E) 1:2
+
+Questão 41
+
+Os membros de uma classe (atributos e operações) podem ser privados, protegidos ou
+públicos em programação orientada a objetos. Suponha agora que se tenha um dado em
+uma determinada classe que só deve ser acessado por instâncias dessa mesma classe.
+
+Assinale a alternativa que melhor descreve o que esse dado pode ser.
+
+A) Somente público
+
+B) Somente privado
+
+C) Somente protegido
+D) Privado ou público
+E) Privado ou protegido
+
+Questão 42
+
+Analise as seguintes igualdades de expressões regulares:
+I a* =(a*)*
+
+Il. (a+b)* = (b+a)*
+
+Ill. a*+b* = (a+b)*
+
+A análise permite concluir que
+
+A) somente as igualdades | e Il são verdadeiras.
+B) somente a igualdade | é verdadeira.
+
+C) somente as igualdades Il e Ill são verdadeiras.
+D) todas as igualdades são verdadeiras.
+
+E) nenhuma das igualdades é verdadeira.
+
+28
+
+Questão 43
+
+Considere o autômato finito mostrado na figura abaixo (os círculos em negrito
+representam estados terminais).
+
+   
+
+=
+
+A esse respeito, assinale a afirmativa FALSA.
+
+A) A palavra aaa é reconhecida pelo autômato.
+
+B) A palavra ababa não é reconhecida pelo autômato.
+C) A palavra vazia é reconhecida pelo autômato.
+
+D) A palavra aba é reconhecida pelo autômato.
+
+E) A palavra baba é reconhecida pelo autômato.
+
+Questão 44
+
+Considere a seguinte gramática G, onde S é o símbolo inicial:
+
+S > AcB
+AS cAlaB
+B > cBlaA
+AE
+
+Assinale a alternativa que apresenta a palavra que NÃO pertence à linguagem gerada
+pela gramática G.
+
+A) ccca
+
+B) aaca
+
+C) aaaca
+
+D) ccac
+
+E) aaa
+
+29
+
+Questão 45
+
+Considere as seguintes gramáticas.
+1 IIT) mM)
+ASbDA tm) C—>CaC Do HE
+ASsaA B>BB A-> AcA EE FG
+Ase Bob A> acs F >alaF
+
+G—>b\bG
+
+A esse respeito, assinale a afirmativa FALSA.
+
+A) A gramática | é livre de contexto.
+
+B) A gramática Il é livre de contexto.
+
+C) A gramática Ill é livre de contexto.
+
+D) A gramática IV é livre de contexto.
+
+E) Nenhuma das gramáticas é livre de contexto.
+
+Questão 46
+
+Seja o autômato finito mostrado na figura abaixo que opera sobre o alfabeto L=(a,b) (O
+círculo em negrito indica um estado terminal):
+
+ 
+
+Analise as seguintes afirmativas.
+
+|. O autômato finito mostrado na figura é determinístico.
+Il. O autômato finito mostrado na figura é não-determinístico.
+
+HI.O autômato finito mostrado na figura reconhece a palavra vazia.
+A análise permite concluir que
+
+A) todas as afirmativas são falsas.
+B) somente a afirmativa | é falsa.
+
+C) somente a afirmativa Il é falsa.
+D) somente a afirmativa III é falsa.
+
+E) nenhuma das afirmativas é falsa.
+
+30
+
+INSTRUÇÃO: As questões 47 e 48 devem ser respondidas com base no circuito digital
+mostrado na figura abaixo.
+
+vow>
+
+tm
+
+Questão 47
+
+Analise as seguintes afirmativas.
+
+Il. O circuito mostrado é um circuito sequencial.
+
+Il. O circuito mostrado é um circuito combinacional.
+
+Ill. O circuito mostrado implementa uma máquina de Mealy de quatro estados.
+IV. O circuito mostrado implementa uma máquina de Moore de quatro estados.
+
+A análise permite concluir que
+
+A) somente as afirmativas | e Il são verdadeiras.
+B) somente a afirmativa IIl é verdadeira.
+
+C) somente a afirmativa IV é verdadeira.
+
+D) somente a afirmativa | é verdadeira.
+
+E) somente a afirmativa Il é verdadeira.
+
+Questão 48
+Considerando o circuito digital mostrado, analise as seguintes afirmativas.
+I. A função booleana implementada pelo circuito pode ser definida por: S= AB+CD+E
+
+Il. A função booleana implementada pelo circuito pode ser definida por:
+S=(A+BX(C+D)E
+
+Hl.A função booleana implementada pelo circuito pode ser definida por: S = (ABC) + (DE)
+A análise permite concluir que
+
+A) todas as afirmativas são verdadeiras.
+B) nenhuma das afirmativas é verdadeira.
+C) somente a afirmativa | é verdadeira.
+
+D) somente a afirmativa Il é verdadeira .
+
+E) somente a afirmativa Ill é verdadeira.
+31
+
+Questão 49
+
+Seja o circuito lógico mostrado na figura abaixo.
+
+Vo w>
+
+Considerando a fórmula lógica que define a função booleana implementada por esse
+circuito, assinale a alternativa CORRETA.
+
+A) S=(AABJAICAD)”
+B) S=(AVB)A(CvD)
+C) S=(ANB)v(CAD)
+D) S=(AVB)v(CvD)
+
+E) nenhuma das fórmulas acima.
+
+Questão 50
+
+Numa loja existem três sensores: de fumaça, de movimento de pessoas e de porta aberta.
+Qualquer um desses sensores, quando detecta alguma das situações para as quais foram
+projetados, envia um sinal com nível lógico alto (A=1 para fumaça, B=1 para movimento e
+C=1 para porta aberta). Entretanto, apenas a informação referente à existência de fumaça
+na loja deverá automaticamente acionar o corpo de bombeiros, via comando Y.
+
+Admitindo-se que, nas situações em que o corpo de bombeiros deve ser acionado, a
+saída referente ao comando deverá estar em nível lógico alto (Y=1), assinale a expressão
+lógica que representa corretamente o acionamento do corpo de bombeiros.
+
+A) Y=ABC+ABC
+
+B) Y=A®B@C
+
+C) Y=A+B+C
+
+D) Y=A
+
+E) Y=ABC
+
+32
+
+Questao 51
+Considere o seguinte termo do cálculo-lambda:
+
+M =(AxAyx)(AuAzu)
+
+Considerando a forma normal que resulta da redução completa do termo M , assinale a
+alternativa CORRETA.
+
+A) (Ay.z)
+
+B) (Ax.x)(Az.z)
+
+C) (Ay(AuAzu))
+
+D) (Ax.Ay.x)
+
+E) Nenhuma das formas acima.
+
+Questao 52
+
+Analise as seguintes afirmativas.
+
+|. Condições de corrida podem ocorrer se múltiplas threads fazem leituras de um dado
+compartilhado, mesmo que nenhuma realize escritas.
+
+ll. O uso de mutex para a exclusão mútua em seções críticas garante que não haja
+condição de corrida, porém pode ocasionar deadlocks se não for corretamente
+empregado.
+
+Ill. Monitores são baseados em um tipo abstrato de dados e um controle de acesso aos
+dados. Apenas funções do monitor acessam os dados e apenas uma thread ou
+processo pode executar funções de um monitor por vez.
+
+IV. Semáforos têm duas operações, P( ) e V(), sendo que apenas a operação P() pode
+bloquear um processo ou thread.
+
+A análise permite concluir que
+
+A) apenas as afirmativas |, Il e Ill são verdadeiras.
+B) apenas as afirmativas |, Ill e IV são verdadeiras.
+C) apenas as afirmativas Il e IV são verdadeiras.
+
+D) apenas as afirmativas II, Ill e IV são verdadeiras.
+
+E) nenhuma das afirmativas é verdadeira.
+
+33
+
+Questão 53
+
+Analise as seguintes afirmativas.
+
+Il. O gerenciamento de operações de entrada e saída permite o compartilhamento de
+periféricos entre múltiplos processos.
+
+Il. O gerenciamento de memória depende do hardware, mais especificamente da MMU
+(Memory Management Unit) para definir se partições, paginação ou segmentação
+podem ser usadas.
+
+Il. Os sistemas operacionais de tempo compartilhado não necessitam de interrupções
+para sua implementação.
+
+IV. O algoritmo FIFO (First In, First Out) de escalonamento de processos é inerentemente
+preemptivo.
+
+A análise permite concluir que
+
+A) apenas as afirmativas | e Il são verdadeiras.
+
+B) apenas as afirmativas |, Il e Ill são verdadeiras.
+C) apenas as afirmativas |, Il e IV são verdadeiras.
+D) apenas as afirmativas Il e IV são verdadeiras.
+
+E) nenhuma das afirmativas é verdadeira.
+
+Questão 54
+
+Um processador tem cinco estágios de pipeline. Suponha que cada uma das etapas do
+processador (busca, decodificação, execução, leitura ou escrita de dados em memoria e
+escrita em registrador) seja executada em 5ns.
+
+O tempo total para que 5 instruções sejam executadas em pipeline, supondo que não haja
+dependência de dados entre as instruções é
+
+A) 15ns
+
+B) 25ns
+
+C) 30ns
+
+D) 45ns
+
+E) 5Ons
+
+34
+
+Questão 55
+
+Analise as seguintes afirmativas.
+
+|. O processador que apresenta o melhor desempenho é sempre aquele que tem a
+frequência de relógio mais alta.
+
+ll. A técnica de pipeline é utilizada para aumentar o desempenho em processadores.
+Dessa forma, o pipeline alivia o tempo de latência das instruções.
+
+lll. A maneira mais simples de aumentar a taxa de acertos em memória cache é
+aumentar a sua capacidade.
+
+IV. Em arquiteturas superescalares, os efeitos das dependências e antidependências de
+dados são reduzidos na etapa de renomeação de registradores.
+
+A análise permite concluir que
+
+A) todas as afirmativas são verdadeiras.
+
+B) somente as afirmativas Il e IIl são verdadeiras.
+
+C) somente as afirmativas Ill e IV são verdadeiras.
+D) somente as afirmativas Il, Ill e IV são verdadeiras.
+
+E) nenhuma das afirmativas é verdadeira.
+
+35
+
+Matemática
+
+Questão 56
+Considere a função f: IR — IR definida pela expressão x* -4x* e assinale a afirmativa
+FALSA.
+
+A) A função f é negativa, decrescente e com concavidade voltada para cima no
+intervalo [-1,0].
+
+B) A função derivada f' é negativa, crescente e com concavidade voltada para baixo em
+[-L0] .
+
+C) Em x=0,a função f tem um zero e um ponto de inflexão e a função derivada f' tem
+um ponto de máximo local.
+
+D) A reta tangente à curva y=f(x) em x=3 é paralela ao eixo 0X.
+
+E) O valor absoluto da área limitada pela curva y=f(x) que está abaixo do eixo 0X é
+51,2.
+
+Questão 57
+Marcam-se 5 pontos sobre uma reta R e 8 pontos sobre uma reta S, paralela a R.
+
+Quantos triângulos não degenerados existem com vértices em 3 desses 13 pontos?
+
+A) 140
+B) 80
+C) 220
+D) 440
+E) 286
+
+Questão 58
+
+De quantos modos é possível comprar 4 picolés em uma loja que os oferece em
+7 sabores distintos?
+
+A) 210
+
+B) 2.401
+
+C) 35
+
+D) 70
+
+E) 11
+
+36
+
+Questão 59
+
+O curso de Matemática de uma universidade tem 500 alunos. As disciplinas de Álgebra,
+Cálculo e Geometria têm 100, 120 e 80 alunos matriculados, respectivamente. O número
+de alunos matriculados em Álgebra e Geometria, mas não em Cálculo é 20. O número de
+alunos matriculados em Cálculo, mas não em Algebra nem em Geometria é 55.
+
+Considere as seguintes afirmativas.
+
+Il. A probabilidade de um aluno da universidade estar matriculado em pelo menos uma
+dessas três disciplinas é menor que 50%.
+
+ll. A probabilidade de um aluno matriculado em Cálculo estar também matriculado em
+Geometria é 25%.
+
+Ill. Nenhum aluno está matriculado simultaneamente nas três disciplinas.
+Com base na situação descrita, assinale a alternativa CORRETA.
+
+A) Apenas a afirmativa Il é verdadeira.
+B) Apenas a afirmativa Ill é verdadeira.
+C) Apenas a afirmativa | é verdadeira.
+
+D) Todas as afirmativas são verdadeiras.
+E) Todas as afirmativas são falsas.
+
+37
+
+Questão 60
+
+A proporção de computadores acessando um provedor em um dado instante t é dada
+
+pela equação P= em que P(t) é a proporção de computadores que estão
++aexp
+
+acessando o provedor no instante t, a e k são constantes positivas com a > 1.
+
+Calcule:
+
+IR lim P(t)
+
+Il. A taxa de aumento de computadores usando o provedor no instante t = 0.
+
+Ill. O tempo necessário para que 80% dos computadores estejam acessando o provedor.
+
+Assinale a alternativa que apresenta o cálculo CORRETO solicitado em |, Il e III,
+respectivamente.
+A) 0; : n(1/4a)
+“da k
+—1
+B) 1 ka; —
+ka
+O ta; +. A
+(Ira) ka
+D) 1; a. n(1/44)
+(ra) k
+
+E) 1; ka; = init/4a)
+
+38
+
+Questão 61
+
+Uma empresa precisa instalar um servidor de modo a atender três outros computadores
+localizados nos pontos A(0;1), B(0;-1) e C(3;0).
+
+Em qual ponto P o servidor deve ser instalado de modo a minimizar a soma das
+distânciasde Pa A,Be Cc?
+
++ (8
+3
+B) (0;0);
+
+C) (30);
+
+D) (3/20);
+
+o
+
+Questão 62Um dispositivo eletrônico envia mensagens binárias no alfabeto (0,1) para um outro
+
+dispositivo de forma que o fim de uma transmissão é indicado por uma sequência de dois
+bits iguais a 1.
+
+Qual é o número máximo de mensagens binárias distintas que podem ter sido emitidas
+por esse dispositivo, sabendo que a transmissão parou ao ser enviado o décimo primeiro
+bit ?
+
+A) 2"
+B) 2!º
+C) 235
+D) 144
+E) 89
+
+39
+
+Questão 63
+Analise as seguintes afirmativas e assinale a alternativa CORRETA.
+A) DeD
+
+B) Seosconjuntos A, B eC saotais quae AUB=AUCe ANB=ANC, entéo BEC
+B=C.
+
+C) Asentengca(P >—Q)vP tem valor V quaisquer que sejam os valores atribuídos a
+Peq.
+
+D) Todas as afirmativas anteriores são verdadeiras.
+
+E) Todas as afirmativas anteriores são falsas.
+
+Questão 64
+
+Considere as seguintes afirmações:
+
+|. Se RAR é uma relação de equivalência, então R é uma relação reflexiva e
+transitiva.
+
+ll. Se F e G são duas funções inversíveis, então Go F é uma função inversível.
+
+lll. SejamkeNe AcN.Seke4e (neAn>k>n+le4A),então4A=N.
+
+IV. Para todo conjunto A, ((A) denota o conjunto de todos os subconjuntos de A. A
+relação ((a,a):a e q(A),a' e g(A),a ca"; é uma relação de ordem parcial.
+
+Assinale a quantidade de afirmativas CORRETAS.
+
+A)
+B)
+C)
+D)
+E)
+
+BoD + oO
+
+40
+
+Questão 65
+
+Defina os conectivos NIMP, NEQ, NAND, negação da implicação, equivalência e
+conjunção, respectivamente, como:
+
+(a NIMP B) = (4)
+(a@NEQ B) = Hae Pf)
+(a NAND B) = (anf)
+
+Assinale alternativa que representa um conjunto de conectivos completo.
+
+A) {NIMP¥
+B) {NEQ}
+C) {NAND}
+D) {NIMP,NEQ}
+
+E) Nenhum é completo.
+
+Questão 66
+Analise as seguintes afirmativas e assinale a alternativa INCORRETA.
+
+A) 1+2+2+2+..+2"=2"! 1, paratodo n e NM.
+p
+
+B) curt! = c"*", paratodoneNe peN.
+> :
+
+r=0
+
+C) Para todo conjunto A, (A) denota o conjunto de todos os subconjuntos de A. Se
+ACB, então (A) @(B).
+
+D) Se 4,4,,...4, são conjuntos disjuntos, então
+
+IAVAULUA, UBI<IBIHS (A BI)
+
+E) Se a afirmativa (A) é falsa, então a afirmativa (D) é falsa.
+
+41
+
+Questão 67
+
+Em relação ao conjunto parcialmente ordenado A=((a,b,c,d,e,f),<), representado pelo
+diagrama de Hasse abaixo, analise as seguintes afirmativas.
+
+|. Aestrutura A não é reticulado.
+
+Il. Os majorantes de {b,c} sao os elementos de e.
+
+lll. O infimo de {d,e} €0 elemento a.
+
+IV. A estrutura é um reticulado limitado com topo sendo o elemento a e o fundo f.
+
+V. A estrutura A possui apenas dois subconjuntos de 4 elementos totalmente ordenados:
+{a,b,d,f} e@ {a,c,e,f}.
+
+A análise permite concluir que
+
+A) somente Ill e IV são falsas.
+B) somente le Il são falsas.
+C) somente V é falsa.
+
+D) somente IV é verdadeira.
+E) somente | é verdadeira.
+
+42
+
+Questão 68
+
+Analise as seguintes relações sobre o conjunto A =(1,2,3):
+R={(2,),3,),3,3)}, 5 =((1,1),(2,2)), T =((1,2),0,3)) e U =((2,3),(3,2)).
+
+|. Somente S é reflexiva.
+
+Il. Somente U não é transitivas.
+
+Il. Somente U é simétrica.
+
+IV. Nenhuma delas é antissimétrica.
+
+V. RUS é reflexiva, antissimétrica e transitiva.
+
+VI. SUU nao é reflexiva, mas é transitiva e simétrica.
+
+VII. RUSUT é reflexiva e simétrica, mas não é transitiva.
+A análise permite concluir que são VERDADEIRAS
+
+A) somente as afirmativas Il, V e VI.
+B) somente as afirmativas |, Il, e VII.
+C) somente as afirmativas III, Ve IV.
+D) somente as afirmativas |, Ill, VI, VII.
+E) todas as afirmativas.
+
+Questão 69
+
+Sobre o conjunto X ={A,B,C,D,E}, em que A={@}, B={a,b}, C ={b,c}, B={a,b,c} e
+F ={a,b,c,d}, fazem-se as seguintes afirmativas:
+
+|. X é fechado para a operação de união de conjuntos.
+
+Il. X é fechado para a operação de interseção de conjuntos.
+
+ll. X não é fechado para a operação de complementação de conjuntos.
+
+IV. (X 4), em que U é a operação de união de conjuntos, é um monóide não comutativo.
+
+V. (X,n), em que n é a operação de interseção de conjuntos, não é um monóide,
+porque X não apresenta elemento neutro para n.
+
+São CORRETAS
+
+A) apenas as afirmativas |, Ile III.
+B) apenas as afirmativas | e IV.
+C) apenas as afirmativas Ile V.
+D) apenas as afirmativas | e III.
+E) todas as afirmativas.
+
+43
+
+Questão 70
+
+Considere que 14 cópias de uma mesma tarefa devem ser executadas paralelamente por
+agentes idênticos, organizados em dois sistemas multiagentes, SMA-A e SMA-B. O
+sistema SMA-A é formado por 16 agentes e o sistema SMA-B é formado por 32 agentes.
+Seja C(m,p) a combinação de m elementos p a p.
+
+Assinale fórmula que representa a quantidade de maneiras diferentes de escolher os
+agentes, no caso em que pelo menos uma tarefa deve ser executada por algum agente
+do sistema SMA-B.
+
+A) C(48,14)-C(16,14)
+B) C(2,1)xC(47,13)
+C) C(48,)xC(16,13)
+D) C(2,1)xC(48,13)
+E) C(32,1)xC(48,1) -C (32,14)
+
+44

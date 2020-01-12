@@ -1,0 +1,1755 @@
+MATEMÁTICA
+
+1) Considere a matriz
+
+4 -3 1
+A=}]2 -1 1
+0 0 2
+Os autovalores da matriz A sao:
+a) 0,1,4
+b) 0,2,3
+c) 1,2,2
+d) 1,1,3
+e) 2,3,-1
+
+ 
+
+ 
+
+2) Considere o triângulo de vértices A = (0,6), B = (4,10) e C = (2,2).
+O ponto de interseção das medianas tiradas do veértice B e do vertice C é:
+a) (2,6)
+
+b) (3,8)
+c) (4,6)
+d) (5,4)
+e) (6,2)
+3) Seja
+1-1 1
+A=|2 -2 1
+2-2 1
+Então 4” vale:
+a)
+10 -1 2
+2 -2 3
+2 -2 5
+b)
+1 -1 1
+a ae
+27-27 1
+e)
+1 -1 1
+16 -21 1
+34-64 1
+d)
+-1 1 -l
+—2 2 -1
+—2 2 -1
+e)
+1-1 1
+2-2 1
+2-2 1
+1/26
+MATEMATICA
+1) Considere a matriz
+4 -3 1
+A=|2 11
+0 0 2
+Os autovalores da matriz A são:
+a) 0,1,4
+b) 0,2,3
+c) 1,2,2
+d) 1,1,3
+e) 2,3,-1
+
+2) Considere o triângulo de vértices A = (0,6), B = (4,10) e C = (2,2).
+O ponto de interseção das medianas tiradas do veértice B e do vertice C é:
+a) (2,6)
+
+b) (3,8)
+c) (4,6)
+d) (5,4)
+e) (6,2)
+3) Seja
+1-1 1
+A=|2 -2 1
+2-2 1
+Então 4” vale:
+a)
+10 -1 2
+2 -2 3
+2 -2 5
+b)
+1 -1 1
+a ae
+27-27 1
+e)
+1 -1 1
+16 -21 1
+34-64 1
+d)
+-1 1 -l
+—2 2 -1
+—2 2 -1
+e)
+1-1 1
+2-2 1
+2-2 1
+1/26
+
+4) Entre os cinco pontos dados a seguir, três estão alinhados. Quais são eles?
+
+5)
+
+6
+
+7
+
+Dados: A = (1,6), B = (3,4), C = (2,4), D = (3,2) e E = (0, 8)
+a) A,B,eE
+b) A,CeD
+c) A,CeE
+d) B,CeD
+e) C,DeE
+
+ 
+
+Considere os conjuntos de polinémios A = {1, x, 3z
+
+<pq>= J), p(x)a(x)de.
+Com base no enunciado, considere as afirmativas a seguir.
+
+2? _ 1,523 — 3} e B = {1,2z,x?,x°} e o produto interno
+
+|. A é um conjunto linearmente independente.
+
+Il. B é um conjunto linearmente independente.
+HI. A é a base ortogonal do conjunto de polinômios de grau até 3.
+IV. B é a base ortogonal do conjunto de polinômios de grau até 3.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas le Il são corretas.
+
+b) Somente as afirmativas | e IV são corretas.
+
+c) Somente as afirmativas Ill e IV são corretas.
+
+d) Somente as afirmativas |, Ile Ill são corretas.
+
+e) Somente as afirmativas II, Ille IV são corretas.
+
+Considere que x,, x4,....,z, são pontos igualmente espaçados de h, onde n e N (conjunto dos números
+naturais), n > 1 e n é um número par; h > 0 é a distância entre dois pontos quaisquer consecutivos
+Lj, i 41,7 =0,...,.N-1jh = 2541 — 25.
+
+Sendo / uma função continua de uma variavel real, com valores tabelados da seguinte forma: y; = f(xi) =
+100 para i = 0,2,4...,n — 2,n (índices pares) ey = f(x;) = 200 para i = 1,3,5...,n — 1 (índices ímpares), então,
+aplicando a regra dos trapézios generalizada para determinar o valor aproximado da integral Jo f(x)dx,
+este valor resultara em:
+
+a) 50nh
+b) 100nh
+c) 150nh
+d) 200nh
+e) 300nh
+
+A posição de uma partícula no instante t > 0, t e [0,27], que se desloca em função do tempo t em segundos,
+ao longo de uma reta coordenada, é dada por:
+
+s(t) = cos(2t + 7
+
+Determine os instantes em que a velocidade (em m/s) é extrema (máxima/mínima) para a partícula, utilizando-
+
+se de informações das derivadas primeira e segunda da velocidade.
+Toa . a DT . po:
+a) t= <séo instante de velocidade mínima e t = 3 é o instante de velocidade máxima.
+
+T
+8
+To... . ne Sy . nae
+
+b) t= = é o instante de velocidade máxima e t = = é o instante de velocidade mínima.
+To . ae 5T . ne
+
+c)t= 7 é o instante de velocidade máxima e t = 4º é o instante de velocidade mínima.
+To, . ne br, : a
+
+d) t= qoee instante de velocidade minima e t = 4560 instante de velocidade máxima.
+37
+
+ejt= 3 é o instante de velocidade minima e t = = é o instante de velocidade máxima.
+
+ 
+
+2/26
+
+8) Seja r a reta que passa pelos pontos 4 = (1,2,4) e B = (2,0,0); seja s a reta que passa pelos pontos
+
+9)
+
+10
+
+1
+
+12
+
+C=(-1,1,-)eD=(-2,-1,-15).
+Nessas condições, as retas r e s
+
+a) se interceptam no ponto P = (—3, 10, 20).
+b) são paralelas.
+c) são reversas, sendo que r está contida no plano x + 3y — z =8.
+d) são reversas, sendo que r está contida no plano x + 3y — z = 4.
+e) se interceptam no ponto P = (1,5,5).
+O dominó é um jogo com 28 peças, com dois números em cada peça, com todas as combinações de 0 a
+6. Duas peças de dominó são sorteadas. A probabilidade de que tenham um número em comum é:
+a) 1/7
+b) 7/18
+c) 1/2
+d) 0,4
+e) 21/28
+A relação de recorrência abaixo representa um processo de enumeração por recursão.
+T(n) = { Tao 1)+n, sono
+Assinale a alternativa que corresponde a um limite superior para o valor da fórmula fechada de tal relação
+de recorrência.
+a) T(1)
+b) 0
+c) n?
+d) 1024
+e) n!
+De quantos modos 4 homens e 4 mulheres podem se sentar em 4 bancos de 2 lugares, se em cada banco
+deve haver um homem e uma mulher?
+a) 64
+b) 8!
+8!
+2!
+d) 8.7.6.5
+e) 16.24?
+
+e)
+
+A definição do Teorema Binomial de Newton é
+
+n
+
+erred (oy.
+
+i=0
+Assim, dado o seguinte somatório .
+n
+
+Sn = x (1).
+qual o valor de S,,?
+a) n+l
+b) 2"-1
+c) (n =)!
+d) (n—1)!
+e) 2(n™ — 1)
+
+ 
+
+3/26
+
+13) Joao e Manuel retiram, para cada um, um bilhete de uma urna em que ha 60 bilhetes numerados de 1 a 60.
+
+14
+
+15
+
+16
+
+17
+
+A probabilidade de que o número retirado por João seja maior do que o de Manuel é:
+
+a) 31/60
+
+b) 60/59
+
+c) 60%
+
+d) 50%
+
+e) 29/60
+
+Dada a proposição “existem números que são divisíveis por 3 e por 5 no conjunto”, assinale a alternativa
+em que essa proposição é verdadeira para um dos conjuntos a seguir.
+
+a) (2,8,9,20,135)
+
+b) (9,20)
+
+c) (18,55,67)
+
+d) {2,3,5,7}
+
+e) {9,18, 36}
+
+Para calcular a média e o desvio padrão das notas de seus 30 alunos, um professor de estatística utiliza
+
+a soma das notas e a soma de seus quadrados, obtendo 180 para a primeira, e 1544, para a segunda. A
+média e o desvio padrão valem, respectivamente,
+
+4e6.
+6e9.
+c) 6e4.
+d) 4e8.
+e) 9e5.
+
+a
+
+)
+b)
+)
+)
+
+Os conectores lógicos v, — são lidos como “ou” e “implica”. O operador “não” é representado por -.
+Considerando esta notação, a tabela verdade da proposição (P > Q) > (+Q v P), assumindo que a
+sequência de valores de P é (V,V,F,F) e a de Q é (V,F,V,F), tem os valores:
+
+a) (EEEF)
+b) {V,V,V,V}
+c) {V,V,F,V}
+d) {F.FV,V}
+e) (VEVF)
+
+A escala musical pode ser modelada matematicamente através da série harmônica. Usando a técnica de
+aproximação por integrais ou a de divisão por somatórios, um limite assintótico para a série harmônica
+
+“1
+A, = > i
+i=1
+
+é dado por:
+a) logn+1
+b) dó, ré, mi, fá, sol, lá, si, dó
+c) 3n + 1
+n
+d) CDE FG,A,B
+
+1a 1
+e) +++
+2 t 2
+
+ 
+
+4/26
+
+18) Um dado honesto tem duas faces pintadas de azul e as outras quatro, de amarelo. O dado é lançado três
+
+19
+
+vezes, anotando-se a cor da face obtida. A probabilidade de a cor obtida no primeiro lançamento ser igual
+à obtida no terceiro lançamento é:
+
+a) 2/3
+
+b) 1/3
+
+c) 50%
+
+d) 9/20
+
+e) 5/9
+
+Realizou-se uma brincadeira com n crianças, que receberam uma bexiga (balão) vazia cada uma, para
+então encherem até onde achassem que não estouraria. A brincadeira consistia, então, em determinar
+uma estratégia que estabelecesse a ordem na qual os balões atingiriam o teto do salão.
+
+Considerando a quantidade de ar em cada bexiga e assumindo que seja possível determinar qual bexiga
+estava mais cheia de ar, quando comparadas duas a duas, quantas comparações, no máximo, seriam
+
+necessárias para soltar todos os balões, escolhendo de cada vez o balão precisamente mais cheio de
+ar?
+
+a) logn
+b) n?logn
+c) 2”
+
+d) n?
+
+e) 5n+2
+
+20) Qual expressão matemática a seguir gera o n-ésimo termo da sequência 8+13+18+23+28+33+...2
+
+a) 5n? +3n
+b) 3+5n
+o) stn
+
+d) 8n+5
+e) 2,5n2 +5,5n
+
+ 
+
+)+3n
+
+ 
+
+5/26
+
+FUNDAMENTOS DE COMPUTAGAO
+
+21) Um estudante de computação precisa resolver um problema bastante importante, que é executar as ope-
+
+22
+
+23
+
+rações que estão descritas abaixo, cuja estrutura é uma pilha. Tão logo ele retire algum elemento desta
+pilha, estes deverão ser inseridos em uma fila, cuja entrada é pela esquerda e a saída, pela direita.
+Assinale a alternativa que contém a sequência correta de entrada dos elementos na fila.
+
+PUSH
+PUSH
+PUSH
+PUSH
+PUSH
+POP
+POP
+PUSH
+PUSH
+PUSH
+POP
+POP
+
+OHA mV
+
+row
+
+Considere o seguinte trecho de programa escrito na linguagem C.
+
+finclude<stdio.h>
+
+char str[100], *ptr;
+
+for (ptr=str; (*ptr++=getchar())!="\n’;*ptr="\0");
+
+Pode-se afirmar que o objetivo do comando for é:
+
+a) Procurar pelo primeiro caracter "n' no vetor str e substituí-lo pelo caracter “0.
+
+b) Ler caracteres do stdin para a região de memória referenciada pela variável str.
+
+c) Apresentar no dispositivo de saída a string armazenada na região de memória referenciada pela variável str.
+d) Limpar a área de memória referenciada pela variável st r, atribuindo o caracter 0" a todas as 100 posições.
+e) Alocar espaço de memória na região referenciada pela variável pt.
+
+Assinale a alternativa em que todas as propriedades de uma árvore vermelho e preto são verdadeiras.
+a) Todo nó é vermelho ou preto. A raiz pode ser vermelha ou preta. Todas as folhas são vermelhas.
+
+b) A raiz é preta. Todas as folhas são vermelhas. Para cada nó, todos os caminhos, desde um nó até as folhas
+descendentes, contêm um mesmo número de nós pretos.
+
+c) Toda folha é preta. Todo nó é vermelho ou preto. A raiz é preta.
+
+d) Se um nó é vermelho, ambos os filhos são vermelhos. A raiz pode ser vermelha ou preta. Todas as folhas são
+pretas.
+
+e) Todas as folhas são vermelhas. Todo nó é vermelho ou preto. A raiz pode ser vermelha ou preta.
+
+ 
+
+6/26
+
+24) Considere a seguinte função escrita na linguagem C.
+
+25)
+
+int Fl (unsigned int n)
+{
+if (n==0) return n;
+int i,j;
+for (i=j=1;i<2«n-1;i+=2,j+=i);
+return j;
+
+}
+
+Assinale a alternativa que apresenta corretamente a função com o mesmo resultado da função F1.
+
+a) int F2 (unsigned int n)
+{
+if (n==0) return n;
+int i,j;
+for (i=j=1;i<2«n-1;i++, j*=2);
+return J;
+}
+
+b) int F3 (unsigned int n)
+{
+if (n==0) return n;
+int i,j,k;
+for (i=1,5=2;i<n; i++)
+for (k=0;k<n;k++, j++);
+return j;
+}
+c) int F4 (unsigned int n)
+{
+if (n==0) return n;
+int i,j,k;
+for (i=j=1;i<n;i++, j++)
+for (k=0;k<n;k++, j++);
+return j;
+}
+d) int F5 (unsigned int n)
+{
+if (n==0) return n;
+else return 2 * n- 1;
+}
+e) int F6 (unsigned int n)
+{
+if (n==0) return n;
+else return n * (n + 1) * (n + 2) / 6;
+}
+
+Considere dois algoritmos A, e A2, cujas funções de custo são, respectivamente, Ti(n) = n? -n+1 e
+To(n) = 6n logo n + 2n. Para simplificar a análise, assuma que n > 0 é sempre uma potência de 2.
+Com relação ao enunciado, assinale a alternativa correta.
+
+a) Como Ti(n) = O(n?) e T2(n) = O(n log n), então A, é sempre mais eficiente que 4.
+b) O limite superior Ti(n) = O(nº) é correto e assintoticamente restrito.
+
+c) O limite inferior T>(n) = N(n?) é correto e assintoticamente restrito.
+
+d) Ti e T; são assintoticamente equivalentes.
+
+e) 4; é mais eficiente que 4,, para n suficientemente pequeno.
+
+ 
+
+7/26
+
+26) Os algoritmos a seguir representam os três caminhamentos para árvores binárias.
+
+27
+
+28)
+
+caminhamento(binário)
+
+se binário.esquerda 4 NULL então caminhamento(binário.esquerda)
+escrever binário.valor
+
+se binário.direita Z NULL então caminhamento(binário.direita)
+
+caminhamento(binário)
+
+escrever binário.dado
+
+se binário.esquerda 4 NULL então caminhamento(binário.esquerda)
+se binário.direita Z NULL então caminhamento(binário.direita)
+
+caminhamento(binário)
+
+se binário.esquerda Z NULL então caminhamento(binário.esquerda)
+se binário.direita Z NULL então caminhamento(binário.direita)
+escrever binário.valor
+
+Assinale a alternativa que contém os nomes dos 3 caminhamentos, respectivamente.
+
+a) pré-ordem, pós-ordem, em-ordem
+
+b) pré-ordem, em-ordem, pós-ordem
+
+c) pós-ordem, pré-ordem, em-ordem
+
+d) em-ordem, pré-ordem, pós-ordem
+
+e) em-ordem, pós-ordem, pré-ordem
+
+Considere o problema de ordenação onde os vetores a serem ordenados, de tamanho n > 0, possuem
+[n/2] valores iguais a um número real x e [n/2] valores iguais a um outro número real y. Considere que
+os números reais « e y são conhecidos e fixos, porém estão distribuídos aleatoriamente no vetor a ser
+
+ordenado.
+Neste caso, é correto afirmar:
+
+a) Podemos ordenar estes vetores a um custo O(n).
+
+b) No caso médio, o Quicksort será o algoritmo mais eficiente para este problema, com um custo O(n log n).
+c) O algoritmo de ordenação por inserção sempre opera no melhor caso com um custo O(n).
+
+d) O limite inferior para esta classe de problema é N(n?) .
+
+e) O limite inferior para esta classe de problema é N(n logn).
+
+Com base nos conhecimentos sobre as linguagens de programação funcionais, considere as afirmativas
+a seguir.
+
+1. Uma linguagem de programação funcional tem o objetivo de imitar as funções matemáticas, ou seja,
+os programas são definições de funções e de especificações da aplicação dessas funções.
+
+H. Nas linguagens funcionais, os dados e as rotinas para manipulá-los são mantidos em uma mesma
+unidade, chamada objeto. Os dados só podem ser manipulados por meio das rotinas que estão na
+mesma unidade.
+
+HI. As rotinas de um programa do paradigma funcional descrevem ações que mudam o estado das variá-
+veis do programa, seguindo uma sequência de comandos para o computador executar.
+
+IV. A linguagem Lisp é um exemplo do paradigma funcional de programação.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas le IV são corretas.
+b) Somente as afirmativas Il e Ill são corretas.
+c) Somente as afirmativas Ill e IV são corretas.
+d) Somente as afirmativas |, Ile Ill são corretas.
+e) Somente as afirmativas |, Il e IV são corretas.
+
+ 
+
+8/26
+
+29) Considere o programa a seguir, desenvolvido em linguagem C.
+
+#include <stdio.h>
+int Fl(int X, int Y) {
+if (X < Y) return X;
+else return F1(X-Y,Y);
+}
+int F2(int X, int Y) {
+if (X < Y) return 0;
+else return 1 + F2(X-Y,Y);
+}
+void F3(int X, int Y) {
+if (X < Y) printf£("%d",X);
+else {
+F3(F2(X,Y),Y);
+printf ("%d",F1(X,Y));
+}
+}
+int main() {
+int A, B;
+scanf ("Sd %d",&A, &B);
+if ((A > 0) && (A < 1000)
+&& (B > 1) && (B < 10)) {
+F3 (A,B);
+printf ("\n");
+}
+return 0;
+
+}
+
+No programa apresentado, a técnica da recursividade foi aplicada às três funções F1, F2 e F3. Essa técnica
+envolve a definição de uma função ou rotina que pode invocar a si própria.
+
+Com relação ao programa apresentado e à técnica de recursão, atribua F (falso) ou V (verdadeiro) para as
+afirmativas a seguir.
+
+(. ) A chamada da função F1, através da expressão F1(X,Y), pode ser substituída, sem alterar o resultado
+do programa, pela expressão X%Y.
+(/ ) O objetivo da função F2 é retornar o valor da variável X elevado à Y-ésima potência.
+
+(. ) A chamada à função F3 entrará em uma recursão sem fim se o valor da variável X for maior que o
+valor da variável Y.
+
+(. ) A função main não é recursiva, pois na Linguagem C não é possível implementar esta técnica na
+função principal do programa.
+
+(. ) A expressão ((A > 0) && (A < 1000) && (B > 1) && (B < 10)), da função main, pode ser substituída
+pela expressao (!((A <= 0) || (A >= 1000) || (B <= 1) || (B >= 10))), sem afetar o resultado do comando
+condicional if nesta expressão.
+
+Assinale a alternativa que contém, de cima para baixo, a sequéncia correta.
+
+a) F, VF F,V.
+
+b) VR FV, F
+
+c) VV FV, V.
+da) EV.VVE
+
+e) V,F,F,F,V.
+
+ 
+
+9/26
+
+30) O mecanismo de herança, no paradigma da programação orientada a objetos, é uma forma de reutilização
+
+de software na qual uma nova classe é criada, absorvendo membros de uma classe existente e aprimorada
+com capacidades novas ou modificadas.
+Considere as seguintes classes descritas na linguagem C++.
+
+#include <iostream>
+using namespace std;
+class A {
+protected:
+int vj;
+public:
+A() {v=
+void m1 ()
+v += 10;
+m2 ();
+di
+
+0; 3;
+{
+
+void m2() {
+v += 20;
+di
+
+int getv() {
+return v;
+di
+di
+class B : public A {
+public:
+void m2() {
+v += 30;
+di
+di
+
+Se essas classes forem utilizadas a partir do programa a seguir,
+
+int main()
+{
+B *xObj =
+Obj->ml ();
+Obj->m2 ();
+cout << Obj->getv() << endl;
+return 0;
+
+}
+
+new B();
+
+a saida do codigo computacional acima sera:
+a) 30
+b) 40
+c) 50
+d) 60
+e) 70
+
+31) Sobre tipos union, considere as afirmativas a seguir.
+
+|. Uma union é um tipo que pode armazenar diferentes valores de tipo durante a execução do programa.
+Il. Na linguagem C, a union é realizada por meio do mecanismo de construção de tipos struct.
+HI. Na linguagem C++, a union é realizada através do mecanismo de construção de tipos class.
+
+IV. Nas linguagens Pascal e Ada, a union é construída mediante um registro variante, permitindo que a
+verificação de tipos de cada union seja discriminada.
+
+ 
+
+32)
+
+33)
+
+34
+
+10/26
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e Il são corretas.
+
+b) Somente as afirmativas le IV são corretas.
+c) Somente as afirmativas Ill e IV são corretas.
+d) Somente as afirmativas |, Ile Ill são corretas.
+e) Somente as afirmativas Il, Ille IV são corretas.
+
+Considere o algoritmo a seguir.
+
+PROC (n)
+sen <= 1 então
+retorna 1 + n;
+senão
+retorna PROC(n/2) + PROC(n/2);
+fim se
+
+Assinale a alternativa que indica corretamente quantas comparações são feitas para uma entrada n > 0,
+
+onde n é um número natural.
+
+a) n
+
+b) logn+1
+
+c) nlogn+1
+
+d) n2+n-1
+)
+
+e) 2n-1
+
+Um computador apresenta um sistema de memoria organizado em quatro niveis: memorias cache niveis
+1 e 2, memórias RAM principal e secundária. Programas prontos para execução são trazidos da memória
+secundária e transformados em processos na memória principal. Uma instrução para acessar dados na
+memória fornece o endereço real de memória onde se localiza a informação desejada. A informação é
+então buscada na cache nível 1. Se lá não for encontrada, ela é buscada no segundo nível de cache. Não
+sendo encontrada, a informação é finalmente buscada na memória principal.
+
+Qual o modo de endereçamento utilizado?
+
+a) Imediato.
+
+b) Indireto.
+
+c) Direto.
+
+d) Implícito.
+
+e) Relativo.
+
+Considere o conjunto de operações descritas a seguir, em linguagem de transferência entre registradores.
+F1: REM — CP;
+
+F2: RDM — M[REM], CP — CP +1;
+
+F3: RI — RDM;
+
+Dados: REM é o registrador de endereços da memória; RDM é o registrador de dados da memória; RI
+é o registrador de instruções; CP é o contador de programa e M[X] é o conteúdo de memória indicado pelo
+endereço X.
+
+Assinale a alternativa que indica a que fase do processamento de uma instrução em uma máquina pipeline
+corresponde o conjunto de operações descrito.
+
+a) Decodificação de instrução.
+b) Busca de operando.
+
+c) Execução de instrução.
+
+d) Busca de instrução.
+
+e) Armazenamento de resultado.
+
+ 
+
+11/26
+
+35) Embora ambos tenham seu escalonamento feito pelo gerenciamento de processos, threads e processos
+
+36
+
+37
+
+38)
+
+39)
+
+)
+
+são estruturalmente distintos.
+Qual é a principal diferença entre eles?
+
+a) Apenas threads podem ser executados em paralelo.
+
+b) Threads possuem contexto simplificado.
+
+c) Processos executam mais rapidamente.
+
+d) Processos apenas podem ocorrer em sistemas de grande porte.
+e) Threads apenas podem ocorrer em processadores multicore.
+
+Técnicas eficientes para o uso de memória, como memória virtual e caching, podem ser utilizadas porque
+a) aumentou o espaço de armazenamento em RAM.
+
+b) memórias dinâmicas são mais rápidas que memórias estáticas.
+
+c) aumentou a velocidade de acesso para a memória RAM.
+
+d) o princípio da localidade pode ser aplicado.
+
+e) o thrashing não pode ocorrer em memórias modernas.
+
+Um processador tem um ciclo de operação igual a 20ns. Ele gasta dois ciclos para fazer a busca de uma
+instrução, um ciclo para decodificar cada instrução, dois ciclos para buscar os operandos necessários
+e três ciclos para executar a instrução e armazenar o resultado correspondente em algum registrador.
+Se a organização desta máquina for estritamente sequencial, qual será o período de execução de uma
+
+instrução? Se utilizarmos latches de 2ns de atraso e considerarmos cada módulo como indivisível, qual
+será o período do pipeline se a máquina for organizada segundo uma estrutura de quatro estágios?
+
+a) Respectivamente 20ns e 22ns.
+
+b) Respectivamente 20ns e 42ns.
+
+c) Respectivamente 20ns e 62ns.
+
+d) Respectivamente 160ns e 42ns.
+
+e) Respectivamente 160ns e 62ns.
+
+Um analista de sistemas foi convidado para opinar sobre por que um determinado sistema tinha desem-
+penho ruim. Considerando que o analista observou que o sistema tinha alta taxa de acesso a disco, por
+
+demanda de entrada e saída dos processos, qual das alternativas abaixo pode explicar o baixo desempe-
+nho?
+
+a) O sistema operacional gerenciava E/S pelo algoritmo FIFO.
+
+b) O sistema operacional entrava em deadlock.
+
+c) O sistema operacional entrava em starvation.
+
+d) O sistema operacional gerenciava E/S pelo algoritmo do elevador.
+
+e) O sistema operacional usava dispositivos de DMA.
+
+Considerando uma função descrita em sua forma canônica de soma de produtos pelos mintermos 3, 7,
+11, 12, 13, 14 e 15 de um mapa de Karnaugh e considerando a variável 4 como o termo de mais alta ordem
+
+lógica, B como o de segunda maior ordem, € como o de terceira maior ordem e D como o de menor ordem
+lógica, determine a sua representação lógica minimizada.
+
+a) AB+CD
+b) AB+CD
+c) AB+CD
+d) AB+CD
+e) AB+CD40) €
+
+12/26
+
+onsidere o diagrama a seguir.
+0/000 0/001 0/010
+000) um e ms (19
+1/000 1/011
+(100) 1/100 (on)
+0/100 0/011
+
+Seja a máquina de estados finitos representada pelo diagrama acima, determine o modelo (Mealy ou Mo-
+ore) e o circuito digital ao qual ela corresponde.
+
+a)
+b)
+c)
+d)
+e)
+
+41) €
+
+Modelo de Mealy correspondente a um contador módulo 5.
+Modelo de Moore correspondente a um contador módulo 5.
+
+Modelo de Mealy correspondente a um identificador da sequência 100.
+Modelo de Moore correspondente a um identificador da sequência 100.
+Modelo de Mealy correspondente a um flip-flop JK.
+
+onsidere o circuito digital apresentado no diagrama a seguir. Ressalte-se que, por convenção, chaves
+
+representadas por círculos escuros representam conexões fechadas e chaves representadas por círculos
+vazados representam conexões abertas.
+
+A
+
+A Be DPE
+
+ 
+
+ 
+
+ 
+
++
+
+ 
+
+ 
+
+ 
+
+ns
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FG
+
+ssinale a alternativa correta.
+
+a) O circuito representa uma implementação em PAL da função F= ABC + BCD + ABC.
+b) O circuito representa uma implementação em FPGA da função F= ABC + BCD + ABC.
+
+d) O circuito representa uma implementação em PAL da função G= ABC + BCD + ABC.
+
+)
+)
+c) O circuito representa uma implementação em PLA da função F= ABC + BCD + ABC.
+)
+)
+
+e) O circuito representa uma implementação em PLA da função G= ABC + BCD + ABC.
+
+ 
+
+13/26
+
+42) Considerando as linguagens L; = (a'c"b";l>0,m>0,n>0JeLo = (alc"br;l>0,m>0,n=1I+m) sobre
+
+o
+
+alfabeto 5) = {a,b,c}, considere as afirmativas a seguir.
+
+I. LZ, é uma linguagem regular.
+H. L, é uma linguagem regular.
+HI. Existe um autômato de pilha determinístico que reconhece L,.
+
+IV. A linguagem L, pode ser gerada pela G = ({X,Y}, {a,b,c}, {X — aXb,X > Y,Y > cYb,Y — A},X),
+onde À é a palavra vazia.
+
+Assinale a alternativa correta.
+
+a
+b
+c
+d
+
+)
+)
+)
+)
+
+Somente as afirmativas | e Il são corretas.
+Somente as afirmativas Il e IV são corretas.
+Somente as afirmativas Ill e IV são corretas.
+Somente as afirmativas |, Il e Ill são corretas.
+
+e) Somente as afirmativas |, Ille IV são corretas.
+
+43) Dados dois grafos não orientados G)(V;, £) e G2(V2, E2):
+G1: Vi = {a, b, c} Ei = {(a,b), (b,c), (a, c)}
+Go: Vo = (d, e) E» = ((d,e))
+Qual alternativa apresenta corretamente o grafo G,(V, E) resultante da soma dos grafos G, e G,?
+
+a) G,: V = {a, b, c, d, e} FE = {(a,b), (b,c), (a,c), (d,e))
+
+) G,: V = {a, b, c, d, e} E = {(a,d), (a,e), (b,d), (b,e), (c,d), (c,e), (d,e)}
+
+) Gr: V = {a, b, c, d, e} & = {(a,b), (b,c), (a,c), (a,d), (a,e), (b,d), (b,e), (c,d), (c,e)}
+
+) G.: V ={a, b,c, d, e} = {(a,b), (b,c), (a,c), (ad), (a,e), (b,d), (b,e), (c,d), (c,e), (d,e))
+) G,: V = {a, b, c, d, e} EB = {(a,b), (b,c), (c,d), (de), (e,a)}
+
+44) Em relação a autômatos e linguagens, podemos afirmar:
+
+a) Existem linguagens reconhecidas por autômatos finitos não determinísticos que não podem ser reconhecidas
+
+por autômatos finitos determinísticos.
+
+) Existem linguagens reconhecidas por autômatos de pilha não determinísticos que não podem ser reconhecidas
+por autômatos de pilha determinísticos.
+
+) Linguagens infinitas somente são reconhecidas por autômatos de pilha.
+) Linguagens regulares não podem ser reconhecidas por autômatos de pilha.
+) Linguagens livres de contexto podem ser reconhecidas por autômatos finitos.
+
+45) Dado um inteiro fixo k > 0 e a linguagem L = (a?"c"b";n < k), podemos afirmar que
+
+a) L é uma linguagem livre de contexto, mas não regular.
+
+b
+c
+d
+e
+
+) L é uma linguagem sensível ao contexto, mas não livre dele.
+) L é uma linguagem regular apenas.
+
+) L é uma linguagem recursiva, mas não sensível ao contexto.
+) L é uma linguagem recursiva, mas não regular.
+
+46) Qual é o número cromático do grafo K3 2?
+
+a
+b
+c
+d
+e
+
+) 2
+) 3
+) 4
+) 5
+) 6
+
+ 
+
+14/26
+
+47) Índices são estruturas de acesso auxiliares usados para aumentar a velocidade de recuperação de regis-
+tros na resposta a certas condições de busca.
+Com base nos conhecimentos sobre índices, considere as afirmativas a seguir.
+
+I. Um índice esparso possui uma entrada de índice para cada valor da chave de busca (portanto, para
+cada registro) do arquivo de dados. Um índice denso possui entradas de índice para apenas alguns
+dos valores da chave de busca.
+
+Il. Um arquivo de índice é um exemplo de arquivo sequencial; os pares chave-ponteiro podem ser trata-
+dos como registros classificados pelo valor da chave de pesquisa.
+
+Ill. Um arquivo pode ter, no máximo, um índice secundário, utilizado para ordenar fisicamente os re-
+gistros do arquivo no disco, porém um arquivo pode ter diversos índices primários, que podem ser
+especificados sobre qualquer campo de um arquivo.
+
+IV. Inserir ou eliminar registros no arquivo de dados resulta na mesma ação sobre o seu arquivo de índi-
+ces (se ele for denso), à medida que um par chave-ponteiro para esse registro é inserido ou eliminado.
+
+Assinale a alternativa correta.
+a) Somente as afirmativas | e Il são corretas.
+
+b
+
+) Somente as afirmativas Ile IV são corretas.
+
+c) Somente as afirmativas Ill e IV são corretas.
+
+d) Somente as afirmativas |, Ile Ill são corretas.
+
+e) Somente as afirmativas |, Ill e IV são corretas.
+
+48) Um arquivo é organizado logicamente como uma sequência de registros. Esses registros são mapeados
+em blocos de discos.
+Com base no conhecimento sobre organização de arquivos, considere as afirmativas a seguir.
+
+I. As organizações de arquivos sequenciais exigem uma estrutura de indice para localizar os dados. De
+outra forma, organizações de arquivos baseadas em hashing permitem-nos encontrar o endereço de
+um item de dado diretamente por meio do cálculo de uma função sobre o valor da chave de procura
+do registro desejado.
+
+H. As operações em arquivos são geralmente divididas em operações de recuperação e operações de
+atualização: as primeiras não alteram nenhum valor no arquivo, apenas localizam certos registros,
+de forma que seus valores de campo possam ser examinados e processados; as últimas mudam o
+arquivo por meio da inclusão ou da exclusão de registros ou pela modificação de valores dos campos.
+
+HI. Registros de tamanho fixo permitem campos repetidos, tamanhos variáveis para um ou mais campos
+e ainda o armazenamento de múltiplos tipos de registro.
+
+IV. Nos arquivos desordenados (também conhecidos como arquivos pilha), os registros são posiciona-
+dos no arquivo segundo a ordem pela qual foram incluídos, ou seja, novos registros são acrescen-
+tados no final do arquivo. Incluir um novo registro é muito eficiente, entretanto a pesquisa por um
+registro, usando qualquer condição, envolve uma pesquisa sequencial bloco a bloco do arquivo, pro-
+cedimento dispendioso.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e Il são corretas.
+
+b) Somente as afirmativas | e Ill são corretas.
+
+c) Somente as afirmativas Ill e IV são corretas.
+
+d) Somente as afirmativas |, Ile IV são corretas.
+e) Somente as afirmativas Il, Ille IV são corretas.
+
+ 
+
+15/26
+
+49) Em uma Árvore B de ordem 7, temos que: (i) cada nó contém no mínimo m registros (e m+1 descendentes)
+e no máximo 2m registros (e 2m +1 descendentes), exceto o nó raiz que pode conter entre 1 e 2m registros;
+
+(
+
+ii) todas os nós folha aparecem no mesmo nível. Sobre Árvores B, é correto afirmar:
+
+a) O particionamento de nós em uma Árvore B ocorre quando um registro precisa ser inserido em um nó
+
+com 2m registros.
+
+b) O particionamento de nós em uma Árvore B ocorre quando um registro precisa ser inserido em um nó com
+
+menos de 2m registros.
+
+c) O particionamento de nós em uma Árvore B ocorre quando a chave do registro a ser inserido contém um valor
+
+(conteúdo) intermediário entre os valores das chaves dos registros contidos no mesmo nó.
+
+d) O particionamento de nós ocorre quando é necessário diminuir a altura da árvore.
+
+e) Em uma Árvore B, aumenta em um nível sua altura, toda vez que ocorre o particionamento de um nó.
+
+50) Determinar a corretude da conjectura P ; NP constitui-se em um problema de decisão que desafia os
+cientistas da computação e matemáticos desde sua proposição. Levando-se em conta este problema e a
+teoria de decibilidade, considere as afirmativas a seguir.
+
+I. Não há algoritmo determinístico de tempo polinomial que solucione este problema de decisão.
+Il. Existem apenas algoritmos não determinísticos para solucionar este problema de decisão.
+Ill. Existe um algoritmo determinístico de tempo polinomial para este problema de decisão.
+
+IV. Considerando-se os algoritmos “retorne sim” e “retorne não”, um deles é a solução para este pro-
+blema de decisão.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e Il são corretas.
+
+b) Somente as afirmativas | e IV são corretas.
+
+c) Somente as afirmativas Ille IV são corretas.
+d) Somente as afirmativas |, Ile Ill são corretas.
+
+e) Somente as afirmativas Il, Ille IV são corretas.
+
+ 
+
+16/26
+
+TECNOLOGIA DA COMPUTAÇÃO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+51) No processo de síntese da imagem de uma cena tridimensional, também denominado pipeline gráfico,
+diversas operações são executadas em sequência. O objetivo destas operações é converter as primitivas
+geométricas que descrevem os objetos da cena em alto-nível, junto com a especificação da câmera sinté-
+tica, em uma coleção de pixels na tela.
+
+Assinale a alternativa que apresenta a sequência correta dessas operações.
+
+a) Projeção/Recorte/Rasterização/Visibilidade
+
+b) Recorte/Projeção/Visibilidade/Rasterização
+
+c) Projeção/Recorte/Visibilidade/Rasterização
+
+d) Projeção/Rasterização/Recorte/Visibilidade
+
+e) Recorte/Projeção/Rasterização/Visibilidade
+
+52) Considere as afirmativas a seguir.
+
+I. O modelo de iluminação de Phong obtém as cores internas aos polígonos por interpolação das cores
+
+nos vértices.
+
+H. A técnica de z-buffer utiliza ordenação de primitivas para determinação dos pixels visíveis.
+
+Ill. O ponto (2,1,3,2), expresso em coordenadas homogêneas, equivale ao ponto (1.0, 0.5, 1.5) em coorde-
+nadas cartesianas tridimensionais.
+
+IV. Uma das principais vantagens da representação de objetos como malhas poligonais triangulares é a
+garantia de que todas as faces são planares.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e Il são corretas.
+
+b) Somente as afirmativas | e IV são corretas.
+
+c) Somente as afirmativas Ille IV são corretas.
+
+d) Somente as afirmativas |, Ile Ill são corretas.
+
+e) Somente as afirmativas Il, Ille IV são corretas.
+
+53) Considere um objeto em 3D ancorado no seu centro de massa p = (z.,y..z:). Qual a transformação
+necessária para rotacioná-lo em O graus, contra relógio, ao redor do eixo x, sem alterar a sua posição no
+espaço? Assuma que a matriz T realiza translações, a matriz R, realiza rotações de O graus ao redor do
+eixo x, contra relógio.
+
+a) T(-p)-R,(©).T(p)
+
+b) T(-p).R«(0)
+
+c) T(p).Rz(®).T(—p)
+
+d) R,(®).T(—p)
+
+e) T(p)-R(®).T(p)
+
+54) Assinale a alternativa que indica a função de transformação T(r) utilizada para se obter a imagem negativa
+de uma imagem monocromática, em que os pixels podem assumir valores no intervalo entre 0 e L-1 e em
+que r representa o valor do pixel na imagem original.
+
+a) T(r)=(L-1)-r
+
+b) T(r) = —r
+
+c) T(r) = clog(1 + |r|), onde c é uma constante de escala
+
+9 T(r)=1-r
+
+e) T(r)=(L-1)/r
+
+17/26
+
+55) A correta tonalização de um poliedro requer que vetores normais à sua superfície sejam definidos em cada
+ponto de sua malha.
+
+Para tonalizar uma esfera definida parametricamente por p(u, v) = [cos(u)sin(v), cos(v), sin(u)|7, onde
+
+u varia entre [—7/2, 7/2] e v varia entre [—7, 7], € preciso descobrir a forma implícita de sua normal n(u, v).
+
+Como ela é definida?
+
+a) n(u, v) = cos(u)p(u, v) + cos(v)p(u, v)
+
+b) n(u,v) = cos(u)p(u, v)
+
+c) n(u,v) = —cos(v)p(u, v)
+
+d) n(u,v) = 1/p(u, v)
+
+e) n(u,v) = 2p(u,v)
+
+56) Em uma rede de computadores, cujos roteadores estão configurados para atualizar suas tabelas de rote-
+amento por meio do emprego de protocolos de roteamento, é correto afirmar:
+
+a) Roteadores de borda, que ligam a rede local a redes remotas, tipicamente suportam dois protocolos
+de roteamento: um protocolo interno para a comunicação com os roteadores locais e um protocolo
+externo para a comunicação com os roteadores de redes remotas.
+
+b) Ao se interromper o uso dos protocolos do roteamento, a rede deixará de operar porque não haverá possibili-
+dade de atualização das tabelas de roteamento dos roteadores.
+
+c) Roteadores que empregam protocolos de roteamento trocam mensagens de controle de tais protocolos apenas
+quando os enlaces da rede se tornam inoperantes ou quando os mesmos voltam a operar.
+
+d) O RIP (Routing Information Protocol), que emprega o algoritmo de roteamento vetor distância, vem sucedendo
+nas redes locais o protocolo OSPF (Open Shortest Path First), o qual emprega o algoritmo estado de enlace.
+
+e) Protocolos de aplicação, como o HTTP, podem diretamente controlar os protocolos de roteamento ao soli-
+citarem que os roteadores da rede calculem rotas alternativas para transportar o tráfego dos protocolos de
+aplicação.
+
+57) O problema de tratamento de regiões críticas é agravado em sistemas distribuídos, nos quais a não exis-
+tência de um controle centralizado dificulta a exclusão mútua. No algoritmo de Ricart-Agrawala, a entrada
+na região crítica, quando mais de um processo quer entrar nela, é feita após o processo
+a) não ter recebido requisição dos demais processos antes de fazer sua requisição.
+
+b) passar a ter o menor valor de relógio lógico entre todos os processos.
+
+c) receber autorização de entrada dos demais processos, sendo a mesma concedida quando o valor do
+relógio lógico de quem autoriza for maior que o de quem solicita.
+
+d) receber autorização de entrada dos demais processos, sendo a mesma concedida quando o valor do relógio
+lógico de quem autoriza for menor que o de quem solicita.
+
+e) receber autorização de entrada dos processos que tenham valor de relógio lógico menor.
+
+58) O SNMP (Simple Network Management Protocol) é o mais difundido protocolo de gerenciamento de redes
+TCP/IP.
+
+Sobre o SNMP, é correto afirmar:
+
+a) A versão 1 do SNMP, apesar de empregar mensagens criptografadas, não possui mecanismo de autenticação
+de mensagens junto aos dispositivos gerenciados.
+
+b) A mensagem SetRequest é utilizada tanto para alterar quanto para ler o valor das instâncias dos objetos
+gerenciados.
+
+c) A configuração de dispositivos de rede por meio do SNMP é mais aceita que a monitoração de redes pelo
+SNMP.
+
+d) Mensagens trap são utilizadas por gerentes SNMP para notificar agentes SNMP sobre as modificações internas
+do sistema de gerenciamento.
+
+e) A mensagem GetBulkRequest permite a recuperação de várias instâncias de um mesmo objeto.
+
+18/26
+59) O mecanismo de RPC é bastante utilizado para a programação em sistemas distribuídos.
+Implementações mais eficientes desse mecanismo permitem a realização de RPC assíncrono, em que
+a) o processo que faz a chamada pode fazer uso de redes assíncronas.
+b) o processo que recebe a chamada pode responder várias chamadas simultaneamente.
+c) o processo que recebe a chamada responde chamadas assíncronas com máxima prioridade.
+d) o processo que faz a chamada pode continuar executando após receber confirmação da transmissão.
+e) os dois processos bloqueiam os demais, a fim de ter acesso exclusivo ao meio de comunicação.
+60) Sistemas de arquivos distribuídos demandam uma atenção especial pela necessidade de tratamento de
+requisições múltiplas e garantia de consistência. O sistema CODA (usado em várias versões do UNIX,
+incluindo o Linux) é eficiente por, entre outras coisas, usar o mecanismo de RPC2 para comunicação.
+O RPC2 se diferencia de outros mecanismos baseados em RPC por permitir
+a) paralelismo de chamadas e chamadas assíncronas.
+b) paralelismo de chamadas e o uso de protocolos específicos de aplicação.
+c) chamadas assíncronas e garantir a entrega de cnamadas.
+d) o uso de protocolos específicos de aplicação e garantir a entrega de chamadas.
+e) chamadas assíncronas e o uso de protocolos específicos de aplicação.
+61) Considere um banco de dados relacional composto pelas tabelas definidas a seguir, na linguagem SQL,
+em que são cadastrados alunos, disciplinas e as matrículas de alunos em disciplinas.
+CREATE TABLE Aluno (
+RA INTEGER NOT NULL,
+Nome VARCHAR2 (20) NOT NULL,
+Curso INTEGER NOT NULL,
+PRIMARY KEY (RA) );
+
+CREATE TABLE Disciplina (
+Codigo INTEGER NOT NULL,
+Nome VARCHAR2 (20) NOT NULL,
+Departamento INTEGER NOT NULL,
+PRIMARY KEY (Codigo) );
+
+CREATE TABLE Matricula (
+
+RA INTEGER NOT NULL,
+
+Codigo INTEGER NOT NULL,
+
+Ano INTEGER NOT NULL,
+
+PRIMARY KEY (RA, Codigo),
+
+FOREIGN KEY (Codigo) REFERENCES Disciplina,
+
+FOREIGN KEY (RA) REFERENCES Aluno) ;
+
+Considere também a consulta a seguir, expressa na linguagem SQL, em que o operador MINUS realiza a
+
+operação de subtração de relações.
+
+SELECT Nome FROM Aluno A
+
+WHERE NOT EXISTS ( (SELECT D.Codigo FROM Disciplina D WHERE D.Departamento = 5)
+
+MINUS
+(SELECT M.Codigo FROM Matricula M WHERE M.RA = A.RA)
+)
+AND EXISTS (SELECT D.Codigo FROM Disciplina D WHERE D.Departamento = 5)
+
+Considere, por fim, as afirmativas a seguir, sobre a consulta apresentada.
+
+I. A consulta retorna os nomes dos alunos matriculados em todas as disciplinas do departamento 5.
+
+H. A consulta retorna os nomes dos alunos matriculados em, pelo menos, uma disciplina do departa-
+mento 5.
+
+lll. A consulta retorna os nomes das disciplinas do departamento 5 nas quais todos os alunos estão
+matriculados.
+
+IV. A estrutura dessa consulta permite implementar, na linguagem SQL, a operação de divisão da Álgebra
+Relacional.
+
+19/26
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e Il são corretas.
+
+b) Somente as afirmativas le IV são corretas.
+
+c) Somente as afirmativas Ill e IV são corretas.
+
+d) Somente as afirmativas |, Ile Ill são corretas.
+
+e) Somente as afirmativas Il, Ille IV são corretas.
+
+62) A Engenharia de Requisitos é um processo que envolve todas as atividades exigidas para criar e manter
+o documento de requisitos de sistema.
+
+Sobre a Engenharia de Requisitos, considere as afirmativas a seguir.
+
+Il. A Engenharia de Requisitos, como todas as outras atividades de Engenharia de Software, precisa
+ser adaptada às necessidades do processo, do projeto, do produto e do pessoal que está fazendo o
+trabalho.
+
+H. No estágio de levantamento e análise dos requisitos, os membros da equipe técnica de desenvol-
+vimento do software trabalham com o cliente e os usuários finais do sistema para descobrir mais
+informações sobre o domínio da aplicação, que serviços o sistema deve oferecer, o desempenho
+exigido do sistema, as restrições de hardware, entre outras informações.
+
+HI. Na medida em que a informação de vários pontos de vista é coletada, os requisitos emergentes são
+consistentes.
+
+IV. A validação de requisitos se ocupa de mostrar que estes realmente definem o sistema que o cliente
+deseja. Ela é importante porque a ocorrência de erros em um documento de requisitos pode levar a
+grandes custos relacionados ao retrabalho.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e Il são corretas.
+b) Somente as afirmativas | e Ill são corretas.
+c) Somente as afirmativas Ill e IV são corretas.
+d) Somente as afirmativas |, Ile IV são corretas.
+e) Somente as afirmativas Il, Ille IV são corretas.
+63) A UML (Unified Modeling Language) é uma linguagem padrão para a elaboração da estrutura de projetos
+
+que pode ser empregada para a visualização, a especificação, a construção e a documentação de artefa-
+tos. No contexto da UML, um relacionamento é uma conexão entre itens, representado graficamente como
+um caminho, com tipos diferentes de linhas para diferenciar os tipos de relacionamento.
+
+Com base no enunciado e nos conhecimentos sobre o tema, correlacione os tipos de relacionamentos e
+suas respectivas descrições.
+
+(l) É um relacionamento de utilização, determinando que um item (A) Associação
+usa as informações e serviços de outro item, mas não necessa-
+riamente o inverso.
+
+(ll) É um relacionamento entre itens gerais e tipos mais específicos (B) Dependência
+desses itens.
+(II) E um relacionamento estrutural que especifica objetos de um item (C) Generalização
+
+conectados a objetos de outro item. A partir deste relaciona-
+mento, é possível navegar do objeto de uma classe até o objeto
+de outra classe e vice-versa.
+
+Assinale a alternativa que contém a associação correta.
+
+a) I-A; II-B; IlI-C.
+b) I-B; I-A; III-C.
+c) I-B; II-C; III-A.
+d) I-C; II-B; III-A.
+e) |-C; II-A; III-B.
+
+ 
+
+20/26
+
+64) Considere o bloco básico a seguir.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assinale a alternativa que apresenta a transformação de código local que pode ser aplicada no bloco
+básico.
+
+a) Eliminação de código morto.
+
+b) Propagação de cópias.
+
+c) Eliminação de subexpressões comuns.
+
+d) Propagação de constantes.
+
+e) Eliminação de variáveis de indução.
+
+65) Considere o trecho de código C a seguir.
+
+int main()
+
+{
+int i;
+float f;
+int v[10]
+
+i 3;
+vif] = 45;
+while
+
+{
+
+}
+}
+
+Quantos erros semânticos o código possui?
+
+ 
+
+66
+
+67
+
+68)
+
+21/26
+
+) Com base no conhecimento sobre Redes Neurais Artificiais, considere as afirmativas a seguir.
+I. A função booleana ou exclusivo (XOR) pode ser implementada usando uma rede perceptron de ca-
+mada única.
+
+IH. Redes Neurais Artificiais do tipo MLP (Multilayer Perceptron) são capazes de classificar padrões de
+entrada não linearmente separáveis.
+
+HI. Retropropagação (backpropagation) é um algoritmo de aprendizagem supervisionada.
+IV. Redes Neurais Artificiais são apropriadas para a prova automática de teoremas.
+
+Assinale a alternativa correta.
+a) Somente as afirmativas | e IV são corretas.
+b
+c) Somente as afirmativas Ill e IV são corretas.
+
+d) Somente as afirmativas |, Il e Ill são corretas.
+
+e) Somente as afirmativas |, Il e IV são corretas.
+
+Somente as afirmativas Ile Ill são corretas.
+
+)
+)
+)
+)
+
+) Sobre Ciclo de Vida de Desenvolvimento de Software, é correto afirmar:
+
+1. O desenvolvimento em cascata tem como base a ideia de desenvolver uma implementação inicial,
+mostrar e discutir tal implementação com o usuário e fazer seu aprimoramento por meio de versões
+subsequentes, até que um sistema adequado tenha sido desenvolvido.
+
+H. No modelo de processo de desenvolvimento em espiral, cada loop na espiral representa uma fase
+do processo de software. Este modelo exige a consideração direta dos riscos técnicos em todos os
+estágios do projeto e, se aplicado adequadamente, deve reduzir os riscos antes que eles se tornem
+problemáticos.
+
+HI. O Rapid Application Development (Desenvolvimento Rápido de Aplicação) é um modelo de processo
+de software incremental que enfatiza um ciclo de desenvolvimento rápido. Este modelo é uma adap-
+tação de modelo cascata, no qual o desenvolvimento rápido é conseguido com o uso de uma aborda-
+gem de construção baseada em componentes.
+
+IV. O modelo incremental combina elementos do modelo em cascata aplicado de maneira iterativa. Em
+um processo de desenvolvimento incremental, os clientes identificam (esboçam) as funções a serem
+fornecidas pelo sistema e a importância das mesmas. Em seguida, é definida uma série de estágios
+de entrega, com cada estágio fornecendo um subconjunto das funcionalidades do sistema.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e Il são corretas.
+
+b) Somente as afirmativas | e Ill são corretas.
+
+c) Somente as afirmativas Ill e IV são corretas.
+
+d) Somente as afirmativas |, Ile IV são corretas.
+
+e) Somente as afirmativas II, Ill e IV são corretas.
+
+Considere os tipos de gramáticas para análise sintática a seguir.
+
+1. Gramática de precedência simples.
+H. Gramática LL(1).
+HI. Gramática de operadores.
+Qual alternativa indica o método correto de análise sintática para cada uma das gramáticas apresenta-
+das?
+a) |- Análise Descendente, Il - Análise Descendente, Ill - Análise Ascendente.
+b) |- Análise Ascendente, II - Análise Ascendente, III - Análise Descendente.
+c) |- Análise Descendente, Il - Análise Ascendente, III - Análise Descendente.
+d) |- Análise Ascendente, Il - Análise Descendente, III - Análise Ascendente.
+)
+
+e) |- Análise Ascendente, Il - Análise Ascendente, Ill - Análise Ascendente.
+
+ 
+
+22/26
+
+69) Considere o esquema de um banco de dados relacional EMPRESA a seguir. As setas indicam as chaves
+
+estrangeiras e o sublinhado indica a chave primária.
+
+EMPREGADO
+
+PNOME | ssn | DATANASC | SALARIO | DNO |
+
+DEPARTAMENTO /N
+| DNOME | DNUMERO | GERSSN
+
+PROJETO
+
+PINOME | PNUMERO | NUM |
+
+TRABALHA_EM
+
+   
+    
+ 
+
+   
+
+ 
+ 
+ 
+ 
+
+Considere a especificação dos seguintes comandos em SQL aplicados sobre o esquema de banco de
+dados apresentado.
+I
+
+SELECT DNUMERO, COUNT (*)
+FROM DEPARTAMENTO, EMPREGADO
+WHERE DNUMERO=DNO AND SALARIO>40000 AND
+
+DNO IN (SELECT DNO
+FROM EMPREGADO
+GROUP BY DNO
+HAVING COUNT (*)>5)
+GROUP BY DNUMERO;
+
+SELECT DNO, COUNT(*), AVG(SALARIO)
+FROM EMPREGADO
+GROUP BY DNO;
+
+Assinale a alternativa correta.
+
+a) Na consulta do item |, para cada cinco ou mais departamentos, a consulta retorna o número do departamento
+e o número dos empregados que recebem mais de 40 mil reais. Na consulta do item Il, para cada empregado,
+a consulta retorna o número do seu departamento e a média de salários de cada departamento.
+
+b) Na consulta do item |, para cada departamento que tenha mais de cinco empregados, a consulta retorna o
+número do departamento que possui empregados que recebem mais de 40 mil reais. Na consulta do item Il,
+para cada empregado, a consulta retorna o número do seu departamento, o número de empregados que nele
+trabalham e o somatório de seus salários.
+
+Na consulta do item |, para cada departamento que tenha mais de cinco empregados, a consulta retorna o
+número dos empregados que recebem mais de 40 mil reais. Na consulta do item Il, para cada empregado,
+a consulta retorna o número do seu departamento, o número de empregados que trabalham com ele e o
+somatório de seus salários.
+
+Na consulta do item |, para cada cinco ou mais empregados, a consulta retorna o número do departamento
+que possui empregados que recebem mais de 40 mil reais. Na consulta do item Il, para cada departamento, a
+consulta retorna o número do seu departamento, o número de empregados que nele trabalham e o somatório
+de seus salários.
+
+e) Na consulta do item |, para cada departamento que tenha mais de cinco empregados, a consulta re-
+torna o número do departamento e o número dos empregados que recebem mais de 40 mil reais. Na
+consulta do item Il, para cada departamento, a consulta retorna o número do departamento, o número
+de empregados que nele trabalham e a média de seus salários.
+
+e
+
+2
+
+ 
+
+23/26
+
+70) O processo de normalização baseia-se no conceito de forma normal, que é uma regra que deve ser obe-
+
+decida por uma relação para que seja considerada bem projetada.
+Com base nos conhecimentos sobre normalização, considere as afirmativas a seguir.
+
+1. A Primeira Forma Normal (1FN) define que a relação não deve conter atributos não atômicos ou as
+relações aninhadas. A ação que deve ser tomada para deixar uma relação na 1FN é formar uma nova
+relação para cada atributo não atômico ou para cada relação aninhada.
+
+H. A Segunda Forma Normal (2FN) define que, além de estar na 1FN, para as relações que possuam
+chaves primárias com vários atributos, nenhum atributo externo à chave deve ser funcionalmente
+dependente de parte da chave primária. A ação que deve ser tomada é decompor e montar uma nova
+relação para cada chave parcial com seu(s) atributo(s) dependente(s).
+
+lll. A Terceira Forma Normal (3FN) define que, além de estar na 2FN, as relações não devem ter atribu-
+tos que não pertençam a uma chave, funcionalmente determinados por outro atributo que também
+não pertença a uma chave (ou por um conjunto de atributos não chave). A ação que deve ser to-
+mada é decompor e montar uma relação que contenha o(s) atributo(s) não chave que determina(m)
+funcionalmente o(s) outro(s) atributo(s).
+
+IV. Uma dependência parcial ocorre quando um atributo, além de depender da chave primária, depende
+de outro atributo ou conjunto de atributos da relação. Uma dependência transitiva ocorre quando um
+atributo depende apenas de parte de uma chave primária composta.
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas | e IV são corretas.
+
+b) Somente as afirmativas Il e Ill são corretas.
+
+c) Somente as afirmativas Ill e IV são corretas.
+
+d) Somente as afirmativas |, Ile Ill são corretas.
+
+)
+
+e) Somente as afirmativas |, Il e IV são corretas.
+
+ 
+
+24/26
